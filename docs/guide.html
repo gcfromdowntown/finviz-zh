@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>使用指南 — 板塊輪動掃描器</title>
+<style>
+  :root { --bg: #0d1117; --card: #161b22; --border: #30363d; --text: #e6edf3; --dim: #8b949e; --green: #3fb950; --red: #f85149; --yellow: #d29922; --blue: #58a6ff; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+  .container { max-width: 820px; margin: 0 auto; padding: 40px 24px; }
+  h1 { font-size: 1.8em; margin-bottom: 8px; }
+  h2 { font-size: 1.3em; margin: 36px 0 12px; color: var(--blue); border-bottom: 1px solid var(--border); padding-bottom: 6px; }
+  h3 { font-size: 1.05em; margin: 20px 0 8px; color: var(--text); }
+  p, li { color: var(--dim); font-size: 0.95em; }
+  p { margin-bottom: 12px; }
+  ul, ol { margin: 8px 0 16px 24px; }
+  li { margin-bottom: 6px; }
+  a { color: var(--blue); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .back { display: inline-block; margin-bottom: 20px; font-size: 0.9em; }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 3px; font-weight: 700; font-size: 0.8em; color: #fff; }
+  .badge-buy { background: #238636; }
+  .badge-sell { background: #da3633; }
+  .badge-hold { background: #9e6a03; }
+  .badge-trim { background: #6e4b00; }
+  table { width: 100%; border-collapse: collapse; margin: 12px 0 20px; font-size: 0.88em; }
+  th, td { padding: 8px 12px; text-align: left; border-bottom: 1px solid var(--border); }
+  th { background: var(--card); color: var(--dim); font-size: 0.8em; text-transform: uppercase; letter-spacing: 0.5px; }
+  .callout { background: var(--card); border-left: 3px solid var(--blue); padding: 16px 20px; margin: 16px 0; border-radius: 0 4px 4px 0; }
+  .callout-warn { border-left-color: var(--yellow); }
+  .callout-green { border-left-color: var(--green); }
+  .callout p { margin: 0; }
+  .green { color: var(--green); }
+  .red { color: var(--red); }
+  .yellow { color: var(--yellow); }
+  .example { background: var(--card); border: 1px solid var(--border); border-radius: 6px; padding: 16px 20px; margin: 12px 0; }
+  .example h4 { font-size: 0.9em; margin-bottom: 8px; color: var(--text); }
+  .example p { font-size: 0.88em; margin-bottom: 6px; }
+</style>
+</head>
+<body>
+<div class="container">
+
+<a href="index.html" class="back">&larr; 返回儀表板</a>
+
+<h1>📊 板塊輪動掃描器 — 使用指南</h1>
+<p style="color: var(--text); font-size: 1.05em;">簡單指南：教你睇明呢個工具顯示咩，同埋應該點行動。</p>
+
+<!-- ===== QUICK START ===== -->
+<h2>⚡ 30秒快速上手</h2>
+
+<div class="callout callout-green">
+  <p><strong>你要做嘅就係：</strong></p>
+</div>
+
+<ol>
+  <li><strong>打開<a href="index.html">儀表板</a>。</strong></li>
+  <li><strong>睇最頂綠色「買入」嗰幾行。</strong>呢啲係 ETF（交易所買賣基金——即係一籃子股票，可以當一隻股票咁買賣），而家條件有利。</li>
+  <li><strong>睇信心度百分比。</strong>愈高代表愈多因素一致。想要高信心機會，就揀<strong>65% 以上</strong>。</li>
+  <li><strong>睇理據欄。</strong>佢會用淺白文字話你知<em>點解</em>。</li>
+  <li><strong>如果你持有嘅嘢被標「賣出」或「減持」，考慮減倉或離場。</strong></li>
+</ol>
+
+<p>基本就係咁。呢頁下面會解釋訊號背後嘅原理。</p>
+
+<!-- ===== THE BIG IDEA ===== -->
+<h2>💡 核心理念（唔講術語）</h2>
+
+<p>將股市想像成一棟大廈，入面有唔同房間——科技、醫療保健、能源、黃金、債券等等。資金不斷喺呢啲房間之間流動。</p>
+
+<p>呢個工具監察<strong>資金行緊入邊間房</strong>（對嗰個板塊係好事）同<strong>資金離開緊邊間房</strong>（壞事）。佢亦會睇間房係啱啱開始有人入（早，入場時機好）定已經逼爆（遲，逼夾，風險高）。</p>
+
+<p>最理想情況：資金流入緊一間<em>未逼爆</em>嘅房。呢個就係機會。</p>
+
+<!-- ===== WHAT ARE ETFS ===== -->
+<h2>🏷️ 呢啲代號係咩嚟？</h2>
+
+<p>儀表板每一行都係一隻 <strong>ETF</strong>——追蹤一組股票嘅基金，喺任何券商戶口都可以好似個股咁買賣。</p>
+
+<table>
+  <tr><th>代號</th><th>持有咩</th><th>類別</th></tr>
+  <tr><td><strong>XLK</strong></td><td>Apple、Microsoft、Nvidia 等</td><td>科技</td></tr>
+  <tr><td><strong>XLF</strong></td><td>JP Morgan、Berkshire、Goldman</td><td>金融</td></tr>
+  <tr><td><strong>XLE</strong></td><td>Exxon、Chevron、ConocoPhillips</td><td>能源</td></tr>
+  <tr><td><strong>XLV</strong></td><td>UnitedHealth、J&amp;J、Pfizer</td><td>醫療保健</td></tr>
+  <tr><td><strong>XLY</strong></td><td>Amazon、Tesla、McDonald's</td><td>非必需消費</td></tr>
+  <tr><td><strong>XLP</strong></td><td>Procter &amp; Gamble、Costco、Coca-Cola</td><td>必需消費</td></tr>
+  <tr><td><strong>XLI</strong></td><td>Caterpillar、UPS、Honeywell</td><td>工業</td></tr>
+  <tr><td><strong>XLU</strong></td><td>NextEra、Duke Energy、Southern</td><td>公用事業</td></tr>
+  <tr><td><strong>SPY</strong></td><td>全部 500 隻標普500成分股</td><td>美股大市</td></tr>
+  <tr><td><strong>GLD</strong></td><td>實物黃金</td><td>黃金</td></tr>
+  <tr><td><strong>TLT</strong></td><td>長期美國國債</td><td>債券</td></tr>
+  <tr><td><strong>IBIT</strong></td><td>比特幣</td><td>加密貨幣</td></tr>
+</table>
+
+<p><strong>點買：</strong>喺任何券商 app（Firstrade、嘉信、Robinhood 等）搜尋代號買入。無最低門檻——買1股甚至碎股都得。</p>
+
+<!-- ===== READING THE SIGNALS ===== -->
+<h2>🚦 識睇訊號</h2>
+
+<h3>四種操作</h3>
+
+<table>
+  <tr><th>訊號</th><th>白話解釋</th><th>你應該點做</th></tr>
+  <tr>
+    <td><span class="badge badge-buy">買入</span></td>
+    <td>條件有利——資金流入緊，趨勢仲後生</td>
+    <td>考慮買入呢隻 ETF</td>
+  </tr>
+  <tr>
+    <td><span class="badge badge-hold">持有</span></td>
+    <td>兩邊都無強訊號</td>
+    <td>有貨就揸住；無貨就等訊號明確啲先。</td>
+  </tr>
+  <tr>
+    <td><span class="badge badge-trim">減持</span></td>
+    <td>已經升咗好多——容易賺嘅錢賺完</td>
+    <td>有貨就賣啲（例如一半）鎖定利潤</td>
+  </tr>
+  <tr>
+    <td><span class="badge badge-sell">賣出</span></td>
+    <td>趨勢已壞——跌緊，仲可能繼續跌</td>
+    <td>有貨就賣；無貨就唔好掂。</td>
+  </tr>
+</table>
+
+<h3>信心度數字</h3>
+
+<p>將信心度想像成天氣預報：「70% 會落雨」即係幾個指標都話會落，但唔係保證。</p>
+
+<ul>
+  <li><span class="green"><strong>65-80%：</strong></span> 多個因素一致，係最好嘅機會。</li>
+  <li><span class="yellow"><strong>50-64%：</strong></span> 有啲證據，但唔算壓倒性。有都只係細注。</li>
+  <li><span class="dim"><strong>50%以下：</strong></span> 訊號弱，唔好單靠佢行動。</li>
+</ul>
+
+<!-- ===== TREND PHASES ===== -->
+<h2>📈 趨勢階段（而家行到邊？）</h2>
+
+<p>每項投資都有周期，好似四季。知道而家係咩「季節」，就知係咪入場好時機：</p>
+
+<table>
+  <tr><th>階段</th><th>季節比喻</th><th>對你嘅意思</th></tr>
+  <tr>
+    <td><span class="green">⬆ 早期升勢</span></td>
+    <td>🌱 春天——啱啱開始</td>
+    <td><strong>買入最佳時機。</strong>趨勢新鮮，上升空間大。</td>
+  </tr>
+  <tr>
+    <td><span class="green">⬆ 升勢確立</span></td>
+    <td>☀️ 夏天——開到荼蘼</td>
+    <td>回調時買入。趨勢已確認，健康。</td>
+  </tr>
+  <tr>
+    <td><span class="yellow">⚡ 過熱</span></td>
+    <td>🥵 盛夏——太熱</td>
+    <td><strong>太遲，唔好追。</strong>有貨嘅考慮食糊。</td>
+  </tr>
+  <tr>
+    <td>↪ 回調</td>
+    <td>夏天短暫涼快幾日</td>
+    <td>如果大趨勢仲向上，可能係買入機會。</td>
+  </tr>
+  <tr>
+    <td><span class="red">⬇ 早期跌勢</span></td>
+    <td>🍂 秋天——轉勢</td>
+    <td><strong>走。</strong>唔好等佢彈返。</td>
+  </tr>
+  <tr>
+    <td><span class="red">⬇ 跌勢確立</span></td>
+    <td>❄️ 冬天——確認凍</td>
+    <td><strong>唔好掂。</strong>唔好喺呢度「撈底」。</td>
+  </tr>
+  <tr>
+    <td><span class="yellow">↩ 反彈</span></td>
+    <td>冬天一日暖</td>
+    <td>短暫——唔好受呃，跌勢未完。</td>
+  </tr>
+</table>
+
+<!-- ===== ASSET CLASS FLOWS ===== -->
+<h2>🌍 資產類別資金流（睇大局）</h2>
+
+<p>揀板塊之前，先睇大局：資金整體係流入股市，定係逃緊去避險？</p>
+
+<div class="example">
+  <h4>例子：避險（市場驚）</h4>
+  <p>美股 → <span class="red">流出</span></p>
+  <p>債券 → <span class="green">流入</span></p>
+  <p>黃金 → <span class="green">流入</span></p>
+  <p><strong>解讀：</strong>投資者賣股票買避險資產。唔係買進取板塊嘅好時機，揀防守板塊（公用事業、醫療保健）或債券／黃金。</p>
+</div>
+
+<div class="example">
+  <h4>例子：冒險（市場有信心）</h4>
+  <p>美股 → <span class="green">流入</span></p>
+  <p>債券 → <span class="red">流出</span></p>
+  <p>黃金 → <span class="red">流出</span></p>
+  <p><strong>解讀：</strong>資金由避險資產流入股市。利好增長板塊（科技、非必需消費）。</p>
+</div>
+
+<!-- ===== SECTOR ROTATION ===== -->
+<h2>🔄 板塊輪動（股市入面揀邊瓣？）</h2>
+
+<p>就算大市整體ok，唔同板塊都有升有跌。輪動話你知聰明錢喺股市<em>入面</em>行緊去邊。</p>
+
+<p><strong>要睇嘅關鍵形態：</strong></p>
+<ul>
+  <li><span class="green"><strong>增長板塊領先</strong></span>（科技、非必需消費、通訊服務）→ 市場預期經濟增長，利好。</li>
+  <li><span class="yellow"><strong>防守板塊領先</strong></span>（公用事業、醫療保健、必需消費）→ 市場開始驚，資金匿入防守股，可能係大市回調前兆。</li>
+  <li><strong>「排名變化」欄</strong>顯示動量。正數代表嗰個板塊爬升得比同業快，緊追緊排行榜。</li>
+</ul>
+
+<!-- ===== PRACTICAL EXAMPLE ===== -->
+<h2>📋 實戰例子</h2>
+
+<div class="example">
+  <h4>情境：你打開儀表板，見到最頂係：</h4>
+  <p><span class="badge badge-buy">買入</span> <strong>XLU</strong>（公用事業）— 信心度：75%</p>
+  <p><em>「新升勢形成，資金流入確認」</em></p>
+</div>
+
+<p>諗法係咁：</p>
+<ol>
+  <li><strong>XLU 係咩？</strong>公用事業板塊 ETF——電力公司、水務公司。悶但穩。</li>
+  <li><strong>點解買入？</strong>工具偵測到公用事業啱啱起步向上（早期升勢），又有資金流入（流入確認）。兩個訊號一致＝75%信心度。</li>
+  <li><strong>睇埋大局：</strong>睇資產類別資金流。如果美股流出、債券流入，即係防守性輪動——公用事業作為避險選擇就合理。</li>
+  <li><strong>點行動：</strong>喺券商買入 XLU。注碼睇信心度——75%可以足注，60%就半注。</li>
+  <li><strong>幾時賣：</strong>訊號轉做減持或賣出，或者趨勢階段變成「過熱」或「早期跌勢」。</li>
+</ol>
+
+<!-- ===== WHAT NOT TO DO ===== -->
+<h2>🚫 常見錯誤</h2>
+
+<ul>
+  <li><strong>唔好買「過熱」訊號。</strong>已經升咗好多，你遲咗。等回調或者睇第二樣。</li>
+  <li><strong>唔好無視賣出訊號博反彈。</strong>壞咗嘅趨勢通常會再衰啲先好返，早啲止蝕。</li>
+  <li><strong>唔好喺跌勢中追反彈。</strong>「逆勢反彈」唔係復甦——係陷阱，呃人喺下一浪跌之前買入。</li>
+  <li><strong>唔好 all-in 單一訊號。</strong>分散 2-3 個買入訊號，唔好成副身家押一隻板塊。</li>
+  <li><strong>唔使成日睇。</strong>呢個每日收市後先更新一次，睇密啲無幫助。</li>
+</ul>
+
+<!-- ===== LIMITATIONS ===== -->
+<h2>⚠️ 呢個工具做唔到咩</h2>
+
+<ul>
+  <li><strong>預測唔到突發事件。</strong>業績公布、議息、戰爭、疫情可以一夜之間推翻所有訊號。</li>
+  <li><strong>佢係睇過去。</strong>佢量度已經發生嘅事。「早期升勢」已經係佢俾到最好嘅嘢——都係建基於近期價格走勢，唔係水晶球。</li>
+  <li><strong>佢唔識你嘅情況。</strong>你嘅風險承受力、投資年期、現有組合都重要。25歲同退休人士面對同一個訊號應該有唔同做法。</li>
+  <li><strong>訊號會變。</strong>今日買入，下星期可以變持有。定期返嚟睇，但唔使為日日嘅變化驚慌。</li>
+</ul>
+
+<!-- ===== GLOSSARY ===== -->
+<h2>📖 詞彙表（儀表板會見到嘅術語）</h2>
+
+<table>
+  <tr><th>術語</th><th>白話解釋</th></tr>
+  <tr><td><strong>ETF</strong></td><td>一籃子股票，用一個代號買賣，好似現成組合。</td></tr>
+  <tr><td><strong>RSI</strong></td><td>0-100分。70以上＝升得太急太快（可能回）；30以下＝被拋售過度（可能彈）。</td></tr>
+  <tr><td><strong>SMA 50 / SMA 200</strong></td><td>過去50／200日平均價。價格喺線上面＝趨勢向上，線下面＝向下。可以當係「平均情緒」線。</td></tr>
+  <tr><td><strong>相對成交量</strong></td><td>交投比平時多定少？大成交＝呢個走勢多人認同；細成交＝弱，唔好信。</td></tr>
+  <tr><td><strong>流入／流出</strong></td><td>資金流入緊某樣嘢（人買緊）定流出緊（人賣緊）。</td></tr>
+  <tr><td><strong>板塊輪動</strong></td><td>市場唔同部分輪流領先嘅自然周期，好似接力賽——唔同板塊輪流接棒。</td></tr>
+  <tr><td><strong>均值回歸</strong></td><td>偏離平均值太遠嘅嘢傾向彈返，好似橡筋拉得太緊——遲早彈返。</td></tr>
+  <tr><td><strong>廣度</strong></td><td>板塊入面幾多%股票升緊。廣度高＝健康嘅全面升市；廣度低＝得幾隻大股撐住（脆弱）。</td></tr>
+  <tr><td><strong>資金流評分</strong></td><td>一個數字總結資金郁向。正數＝錢入緊，負數＝錢走緊。數字愈大訊號愈強。</td></tr>
+</table>
+
+<!-- ===== FOOTER ===== -->
+<p style="margin-top: 40px; color: var(--dim); font-size: 0.8em; border-top: 1px solid var(--border); padding-top: 16px;">
+  呢個工具只作資訊及教育用途，唔係投資建議。過去表現唔保證將來回報。請自己做功課，考慮諮詢財務顧問。唔好投放輸唔起嘅錢。
+</p>
+
+</div>
+</body>
+</html>
