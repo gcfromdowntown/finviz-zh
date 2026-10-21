@@ -3,7 +3,7 @@ import type { Timeframe, ScreenerStock, StockData, SectorETF, AssetClassETF, Tec
 
 const BASE_URL = "https://finviz.com";
 const MAP_API = `${BASE_URL}/api/map_perf.ashx`;
-const SCREENER_URL = `${BASE_URL}/screener.ashx`;
+const SCREENER_URL = `${BASE_URL}/screener`;
 
 const USER_AGENT =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36";
@@ -172,7 +172,61 @@ function tickerFromHref(href: string): string | null {
 export function parseScreenerTable(html: string): ScreenerRow[] {
   const $ = cheerio.load(html);
 
-  // The header row is any row whose cells include a bare "Ticker" label. Prefer
+  // New Finviz screener markup (site redesign ~2026): div-based table with
+  // .fv-table_header-label / .fv-table_row / .fv-table_cell classes — no
+  // <tr>/<td> elements anymore. Tickers still come from each row's link
+  // `t=` parameter, and columns are still addressed by header label.
+  const newRows = $(".fv-table_row").toArray();
+  if (newRows.length > 0) {
+    const columnIndex = new Map<string, number>();
+    $(".fv-table_header-label")
+      .toArray()
+      .forEach((cell, index) => {
+        const key = normalizeLabel($(cell).text());
+        if (key && !columnIndex.has(key)) columnIndex.set(key, index);
+      });
+
+    const resolveColumn = (label: string): number | undefined => {
+      const key = normalizeLabel(label);
+      if (!key) return undefined;
+      const exact = columnIndex.get(key);
+      if (exact !== undefined) return exact;
+      for (const [candidate, index] of columnIndex) {
+        if (candidate.startsWith(key)) return index;
+      }
+      return undefined;
+    };
+
+    const rows: ScreenerRow[] = [];
+    for (const row of newRows) {
+      const ticker = $(row)
+        .find("a[href]")
+        .toArray()
+        .map((link) => tickerFromHref($(link).attr("href") ?? ""))
+        .find((value): value is string => value !== null);
+      if (!ticker) continue;
+
+      const cells = $(row)
+        .find(".fv-table_cell")
+        .toArray()
+        .map((cell) => $(cell).text().trim());
+
+      rows.push({
+        ticker,
+        get(...labels: string[]): string {
+          for (const label of labels) {
+            const index = resolveColumn(label);
+            if (index !== undefined && cells[index] !== undefined)
+              return cells[index];
+          }
+          return "";
+        },
+      });
+    }
+    return rows;
+  }
+
+  // Legacy <table>-based markup (kept as fallback).
   // the last such row so a nested/duplicated layout header loses to the real one.
   const headerRows = $("tr")
     .toArray()
