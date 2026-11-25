@@ -1,880 +1,866 @@
 {
-  "timestamp": "2026-11-24T05:23:43.864Z",
+  "timestamp": "2026-11-25T04:23:10.497Z",
   "stockCount": 503,
   "sectorPerformance": [
     {
       "sector": "Healthcare",
       "stockCount": 60,
-      "mcw1W": -4.2775330398820675,
-      "mcw1M": 0.9074614597549381,
-      "mcw3M": 3.7824404652242505,
-      "ew1W": -3.400083333333333,
-      "ew1M": 0.17070000000000005,
-      "ew3M": 3.84165,
-      "breadth1W": 26.666666666666668,
-      "breadth1M": 56.666666666666664,
-      "breadth3M": 61.66666666666667,
+      "mcw1W": -0.22315645149698876,
+      "mcw1M": 3.7565041999051356,
+      "mcw3M": 8.133809771031865,
+      "ew1W": 0.08038333333333333,
+      "ew1M": 2.511916666666667,
+      "ew3M": 6.52553333333333,
+      "breadth1W": 61.66666666666667,
+      "breadth1M": 66.66666666666666,
+      "breadth3M": 68.33333333333333,
       "topMovers": [
         {
+          "ticker": "MRNA",
+          "perf1W": 9.952
+        },
+        {
+          "ticker": "BIIB",
+          "perf1W": 7.305
+        },
+        {
           "ticker": "ZBH",
-          "perf1W": 4.506
-        },
-        {
-          "ticker": "BAX",
-          "perf1W": 4.111
-        },
-        {
-          "ticker": "ILMN",
-          "perf1W": 3.677
+          "perf1W": 6.759
         }
       ]
     },
     {
       "sector": "Technology",
       "stockCount": 89,
-      "mcw1W": -1.124614538141506,
-      "mcw1M": -9.345488590598228,
-      "mcw3M": -6.478099748992297,
-      "ew1W": -1.991775280898876,
-      "ew1M": -9.528943820224715,
-      "ew3M": -9.157157303370788,
-      "breadth1W": 32.58426966292135,
-      "breadth1M": 26.96629213483146,
-      "breadth3M": 31.46067415730337,
+      "mcw1W": -2.925889241698079,
+      "mcw1M": -12.172746815391283,
+      "mcw3M": -8.391399171229008,
+      "ew1W": -3.3795056179775274,
+      "ew1M": -12.875000000000002,
+      "ew3M": -11.968303370786515,
+      "breadth1W": 31.46067415730337,
+      "breadth1M": 19.101123595505616,
+      "breadth3M": 30.337078651685395,
       "topMovers": [
         {
-          "ticker": "OKTA",
-          "perf1W": 15.745
-        },
-        {
           "ticker": "PANW",
-          "perf1W": 11.813
+          "perf1W": 14.129
         },
         {
-          "ticker": "INTC",
-          "perf1W": 7.554
+          "ticker": "OKTA",
+          "perf1W": 13.51
+        },
+        {
+          "ticker": "GPN",
+          "perf1W": 10.502
         }
       ]
     },
     {
       "sector": "Consumer Cyclical",
       "stockCount": 54,
-      "mcw1W": -0.7415759048813387,
-      "mcw1M": 3.550105981403193,
-      "mcw3M": 0.4803620717641975,
-      "ew1W": -2.447870370370371,
-      "ew1M": 2.719574074074074,
-      "ew3M": -4.123481481481482,
-      "breadth1W": 27.77777777777778,
-      "breadth1M": 61.111111111111114,
-      "breadth3M": 42.592592592592595,
+      "mcw1W": -0.08881980886709676,
+      "mcw1M": 2.324108684231679,
+      "mcw3M": 1.248403214925476,
+      "ew1W": 0.5594074074074072,
+      "ew1M": 3.984944444444445,
+      "ew3M": -2.1530925925925923,
+      "breadth1W": 61.111111111111114,
+      "breadth1M": 70.37037037037037,
+      "breadth3M": 48.148148148148145,
       "topMovers": [
         {
           "ticker": "TJX",
-          "perf1W": 6.225
-        },
-        {
-          "ticker": "DPZ",
-          "perf1W": 2.552
+          "perf1W": 10.789
         },
         {
           "ticker": "DHI",
-          "perf1W": 1.596
+          "perf1W": 6.027
+        },
+        {
+          "ticker": "F",
+          "perf1W": 5.379
         }
       ]
     },
     {
       "sector": "Financial",
       "stockCount": 70,
-      "mcw1W": -4.250569757439178,
-      "mcw1M": -0.2732224944266744,
-      "mcw3M": -2.8858282931084616,
-      "ew1W": -3.820485714285714,
-      "ew1M": -0.6790285714285713,
-      "ew3M": -4.921942857142857,
-      "breadth1W": 0,
-      "breadth1M": 50,
-      "breadth3M": 35.714285714285715,
+      "mcw1W": -1.6063228967589962,
+      "mcw1M": 0.4148926952788566,
+      "mcw3M": -1.8533131080410667,
+      "ew1W": -1.2155714285714283,
+      "ew1M": 0.07918571428571422,
+      "ew3M": -4.149228571428572,
+      "breadth1W": 37.142857142857146,
+      "breadth1M": 55.714285714285715,
+      "breadth3M": 38.57142857142858,
       "topMovers": [
         {
+          "ticker": "BRO",
+          "perf1W": 5.204
+        },
+        {
+          "ticker": "WTW",
+          "perf1W": 4.774
+        },
+        {
           "ticker": "ARES",
-          "perf1W": -0.23
-        },
-        {
-          "ticker": "IVZ",
-          "perf1W": -0.526
-        },
-        {
-          "ticker": "HIG",
-          "perf1W": -0.588
+          "perf1W": 3.515
         }
       ]
     },
     {
       "sector": "Consumer Defensive",
       "stockCount": 31,
-      "mcw1W": -1.9732963303477344,
-      "mcw1M": 4.086960800842992,
-      "mcw3M": 10.136019815595363,
-      "ew1W": -2.518129032258064,
-      "ew1M": 1.9625161290322586,
-      "ew3M": 1.7070967741935485,
-      "breadth1W": 22.58064516129032,
-      "breadth1M": 64.51612903225806,
-      "breadth3M": 54.83870967741935,
+      "mcw1W": 0.8495899541629892,
+      "mcw1M": 6.153472237679524,
+      "mcw3M": 12.833035605858647,
+      "ew1W": 0.5219032258064517,
+      "ew1M": 4.2095161290322585,
+      "ew3M": 3.395580645161291,
+      "breadth1W": 58.06451612903226,
+      "breadth1M": 77.41935483870968,
+      "breadth3M": 64.51612903225806,
       "topMovers": [
         {
+          "ticker": "DLTR",
+          "perf1W": 10.694
+        },
+        {
           "ticker": "TGT",
-          "perf1W": 4.909
+          "perf1W": 10.362
         },
         {
-          "ticker": "SYY",
-          "perf1W": 2.633
-        },
-        {
-          "ticker": "HRL",
-          "perf1W": 1.629
+          "ticker": "MKC",
+          "perf1W": 9.613
         }
       ]
     },
     {
       "sector": "Utilities",
       "stockCount": 31,
-      "mcw1W": -1.918052043715847,
-      "mcw1M": 1.4652693041894354,
-      "mcw3M": 0.4914167140255009,
-      "ew1W": -1.493129032258064,
-      "ew1M": 1.8063870967741933,
-      "ew3M": 0.4771290322580647,
-      "breadth1W": 12.903225806451612,
-      "breadth1M": 74.19354838709677,
+      "mcw1W": -0.08043436854808225,
+      "mcw1M": 1.7611596149931663,
+      "mcw3M": 0.36529811131466455,
+      "ew1W": 0.27738709677419343,
+      "ew1M": 1.8579999999999994,
+      "ew3M": 0.030612903225806735,
+      "breadth1W": 74.19354838709677,
+      "breadth1M": 70.96774193548387,
       "breadth3M": 74.19354838709677,
       "topMovers": [
         {
-          "ticker": "NRG",
-          "perf1W": 3.969
-        },
-        {
           "ticker": "PCG",
-          "perf1W": 2.924
+          "perf1W": 5.022
         },
         {
-          "ticker": "EIX",
-          "perf1W": 0.726
+          "ticker": "CMS",
+          "perf1W": 2.305
+        },
+        {
+          "ticker": "LNT",
+          "perf1W": 1.781
         }
       ]
     },
     {
       "sector": "Basic Materials",
       "stockCount": 20,
-      "mcw1W": -2.9006024944641067,
-      "mcw1M": -1.7232186630580846,
-      "mcw3M": -4.279412211139921,
-      "ew1W": -3.2651499999999998,
-      "ew1M": -2.5178000000000003,
-      "ew3M": -6.532500000000001,
-      "breadth1W": 20,
-      "breadth1M": 45,
+      "mcw1W": -1.575850032143397,
+      "mcw1M": -1.4430773899561335,
+      "mcw3M": -4.16681226365149,
+      "ew1W": -1.9679999999999995,
+      "ew1M": -2.2802499999999997,
+      "ew3M": -6.5203000000000015,
+      "breadth1W": 50,
+      "breadth1M": 50,
       "breadth3M": 35,
       "topMovers": [
         {
           "ticker": "IFF",
-          "perf1W": 3.563
+          "perf1W": 7.415
         },
         {
           "ticker": "MLM",
-          "perf1W": 2.14
+          "perf1W": 4.337
         },
         {
           "ticker": "VMC",
-          "perf1W": 1.695
+          "perf1W": 3.453
         }
       ]
     },
     {
       "sector": "Industrials",
       "stockCount": 75,
-      "mcw1W": -1.6704486976596213,
-      "mcw1M": -0.6070155787318394,
-      "mcw3M": -6.935379312243549,
-      "ew1W": -1.3931600000000002,
-      "ew1M": 0.6724400000000008,
-      "ew3M": -4.369413333333333,
-      "breadth1W": 26.666666666666668,
-      "breadth1M": 53.333333333333336,
-      "breadth3M": 37.333333333333336,
+      "mcw1W": -1.8230518730923728,
+      "mcw1M": -2.6070265502710446,
+      "mcw3M": -8.296638731580558,
+      "ew1W": -0.881226666666667,
+      "ew1M": -0.8345999999999993,
+      "ew3M": -5.618733333333335,
+      "breadth1W": 41.333333333333336,
+      "breadth1M": 49.333333333333336,
+      "breadth3M": 32,
       "topMovers": [
         {
+          "ticker": "AXON",
+          "perf1W": 6.943
+        },
+        {
+          "ticker": "PNR",
+          "perf1W": 6.564
+        },
+        {
           "ticker": "GNRC",
-          "perf1W": 10.306
-        },
-        {
-          "ticker": "FIX",
-          "perf1W": 9.535
-        },
-        {
-          "ticker": "PWR",
-          "perf1W": 3.943
+          "perf1W": 6.075
         }
       ]
     },
     {
       "sector": "Real Estate",
       "stockCount": 30,
-      "mcw1W": -3.0812455010171615,
-      "mcw1M": 0.8445134404395528,
-      "mcw3M": -4.7348186757776505,
-      "ew1W": -3.1258,
-      "ew1M": -0.0723,
-      "ew3M": -6.4125000000000005,
-      "breadth1W": 6.666666666666667,
-      "breadth1M": 50,
-      "breadth3M": 23.333333333333332,
+      "mcw1W": -0.5598509253767268,
+      "mcw1M": 1.4747129827818897,
+      "mcw3M": -3.06460401784563,
+      "ew1W": 0.02496666666666666,
+      "ew1M": 1.0594999999999999,
+      "ew3M": -4.2423,
+      "breadth1W": 50,
+      "breadth1M": 60,
+      "breadth3M": 30,
       "topMovers": [
         {
+          "ticker": "CSGP",
+          "perf1W": 6.702
+        },
+        {
           "ticker": "DOC",
-          "perf1W": 0.857
+          "perf1W": 4.676
         },
         {
           "ticker": "O",
-          "perf1W": 0.068
-        },
-        {
-          "ticker": "ESS",
-          "perf1W": -0.41
+          "perf1W": 2.602
         }
       ]
     },
     {
       "sector": "Energy",
       "stockCount": 21,
-      "mcw1W": -6.197950565965338,
-      "mcw1M": -14.077099653751633,
-      "mcw3M": -3.1817987831060033,
-      "ew1W": -6.507142857142856,
-      "ew1M": -14.844190476190477,
-      "ew3M": -7.477952380952381,
+      "mcw1W": -4.841840170038616,
+      "mcw1M": -13.614931509205897,
+      "mcw3M": -2.4936015455586693,
+      "ew1W": -4.818619047619048,
+      "ew1M": -14.385619047619048,
+      "ew3M": -7.612523809523808,
       "breadth1W": 0,
       "breadth1M": 0,
       "breadth3M": 23.809523809523807,
       "topMovers": [
         {
           "ticker": "FANG",
-          "perf1W": -2.373
+          "perf1W": -0.548
         },
         {
           "ticker": "KMI",
-          "perf1W": -2.705
+          "perf1W": -1.956
         },
         {
-          "ticker": "WMB",
-          "perf1W": -3.224
+          "ticker": "EQT",
+          "perf1W": -1.966
         }
       ]
     },
     {
       "sector": "Communication Services",
       "stockCount": 22,
-      "mcw1W": -1.5420196904772483,
-      "mcw1M": -8.52266158064998,
-      "mcw3M": -13.468782403163077,
-      "ew1W": -3.7250454545454548,
-      "ew1M": -0.922999999999999,
-      "ew3M": -11.194818181818185,
-      "breadth1W": 13.636363636363635,
-      "breadth1M": 50,
-      "breadth3M": 18.181818181818183,
+      "mcw1W": -0.9129241948433388,
+      "mcw1M": -7.823418688577904,
+      "mcw3M": -13.312961179710763,
+      "ew1W": -0.8805454545454545,
+      "ew1M": 2.5634545454545448,
+      "ew3M": -9.111045454545456,
+      "breadth1W": 36.36363636363637,
+      "breadth1M": 54.54545454545454,
+      "breadth3M": 27.27272727272727,
       "topMovers": [
         {
-          "ticker": "LYV",
-          "perf1W": 1.801
+          "ticker": "TTWO",
+          "perf1W": 8.081
         },
         {
           "ticker": "DIS",
-          "perf1W": 1.323
+          "perf1W": 4.763
         },
         {
-          "ticker": "VZ",
-          "perf1W": 0.237
+          "ticker": "LYV",
+          "perf1W": 4.158
         }
       ]
     }
   ],
   "rotationSignals": [
     {
-      "sector": "Consumer Cyclical",
-      "signal": "INFLOW",
-      "rotationScore": 20.05,
-      "rankShift": 3,
-      "momentumAccel": 0.16,
-      "institutionalSpread": 1.18,
-      "breadthDivergence": 5.19,
-      "rank1W": 1,
-      "rank3M": 4
-    },
-    {
-      "sector": "Industrials",
-      "signal": "INFLOW",
-      "rotationScore": 11.74,
-      "rankShift": 6,
-      "momentumAccel": -0.22,
-      "institutionalSpread": -0.88,
-      "breadthDivergence": 5.33,
-      "rank1W": 4,
-      "rank3M": 10
-    },
-    {
-      "sector": "Technology",
-      "signal": "INFLOW",
-      "rotationScore": 11.01,
-      "rankShift": 7,
-      "momentumAccel": -1.25,
-      "institutionalSpread": 0.46,
-      "breadthDivergence": -2.25,
-      "rank1W": 2,
-      "rank3M": 9
-    },
-    {
-      "sector": "Communication Services",
-      "signal": "NEUTRAL",
-      "rotationScore": 2.98,
-      "rankShift": 8,
-      "momentumAccel": -0.76,
-      "institutionalSpread": -3.69,
-      "breadthDivergence": 17.27,
-      "rank1W": 3,
-      "rank3M": 11
-    },
-    {
       "sector": "Real Estate",
-      "signal": "NEUTRAL",
-      "rotationScore": -3.36,
-      "rankShift": 0,
-      "momentumAccel": -0.75,
-      "institutionalSpread": 0.57,
-      "breadthDivergence": 9.33,
-      "rank1W": 8,
-      "rank3M": 8
-    },
-    {
-      "sector": "Basic Materials",
-      "signal": "NEUTRAL",
-      "rotationScore": -8.14,
-      "rankShift": 0,
-      "momentumAccel": -1.07,
-      "institutionalSpread": 0.62,
-      "breadthDivergence": 0,
-      "rank1W": 7,
+      "signal": "INFLOW",
+      "rotationScore": 14.36,
+      "rankShift": 2,
+      "momentumAccel": 0.22,
+      "institutionalSpread": 0.02,
+      "breadthDivergence": 26,
+      "rank1W": 5,
       "rank3M": 7
     },
     {
       "sector": "Consumer Defensive",
-      "signal": "OUTFLOW",
-      "rotationScore": -19.7,
-      "rankShift": -5,
-      "momentumAccel": -1,
-      "institutionalSpread": 1.49,
-      "breadthDivergence": -7.1,
-      "rank1W": 6,
+      "signal": "INFLOW",
+      "rotationScore": 11.74,
+      "rankShift": 0,
+      "momentumAccel": 0.21,
+      "institutionalSpread": 1.3,
+      "breadthDivergence": 5.16,
+      "rank1W": 1,
       "rank3M": 1
     },
     {
       "sector": "Utilities",
-      "signal": "OUTFLOW",
-      "rotationScore": -21.06,
-      "rankShift": -2,
-      "momentumAccel": -0.6,
-      "institutionalSpread": -0.37,
-      "breadthDivergence": -24.52,
-      "rank1W": 5,
+      "signal": "NEUTRAL",
+      "rotationScore": 6.93,
+      "rankShift": 2,
+      "momentumAccel": 0.18,
+      "institutionalSpread": -0.2,
+      "breadthDivergence": -1.94,
+      "rank1W": 2,
+      "rank3M": 4
+    },
+    {
+      "sector": "Basic Materials",
+      "signal": "NEUTRAL",
+      "rotationScore": 4.27,
+      "rankShift": 1,
+      "momentumAccel": -0.51,
+      "institutionalSpread": 0.66,
+      "breadthDivergence": 15,
+      "rank1W": 7,
+      "rank3M": 8
+    },
+    {
+      "sector": "Consumer Cyclical",
+      "signal": "NEUTRAL",
+      "rotationScore": -1.84,
+      "rankShift": 0,
+      "momentumAccel": 0.19,
+      "institutionalSpread": -1.26,
+      "breadthDivergence": 18.52,
+      "rank1W": 3,
       "rank3M": 3
+    },
+    {
+      "sector": "Communication Services",
+      "signal": "NEUTRAL",
+      "rotationScore": -4.71,
+      "rankShift": 5,
+      "momentumAccel": -0.43,
+      "institutionalSpread": -6.25,
+      "breadthDivergence": 20,
+      "rank1W": 6,
+      "rank3M": 11
+    },
+    {
+      "sector": "Healthcare",
+      "signal": "NEUTRAL",
+      "rotationScore": -5.41,
+      "rankShift": -2,
+      "momentumAccel": -0.19,
+      "institutionalSpread": 0.63,
+      "breadthDivergence": -3.67,
+      "rank1W": 4,
+      "rank3M": 2
+    },
+    {
+      "sector": "Industrials",
+      "signal": "OUTFLOW",
+      "rotationScore": -11.66,
+      "rankShift": 0,
+      "momentumAccel": -0.45,
+      "institutionalSpread": -1.44,
+      "breadthDivergence": 14.13,
+      "rank1W": 9,
+      "rank3M": 9
     },
     {
       "sector": "Financial",
       "signal": "OUTFLOW",
-      "rotationScore": -29.39,
-      "rankShift": -4,
-      "momentumAccel": -1.52,
-      "institutionalSpread": 0.07,
-      "breadthDivergence": -5.71,
-      "rank1W": 9,
+      "rotationScore": -12.74,
+      "rankShift": -3,
+      "momentumAccel": -0.44,
+      "institutionalSpread": 0.05,
+      "breadthDivergence": 9.71,
+      "rank1W": 8,
       "rank3M": 5
+    },
+    {
+      "sector": "Technology",
+      "signal": "OUTFLOW",
+      "rotationScore": -17.36,
+      "rankShift": 0,
+      "momentumAccel": -2.21,
+      "institutionalSpread": 0.6,
+      "breadthDivergence": -6.29,
+      "rank1W": 10,
+      "rank3M": 10
     },
     {
       "sector": "Energy",
       "signal": "OUTFLOW",
-      "rotationScore": -41.08,
+      "rotationScore": -41.38,
       "rankShift": -5,
-      "momentumAccel": -4.19,
-      "institutionalSpread": 0.58,
+      "momentumAccel": -3.63,
+      "institutionalSpread": 0.45,
       "breadthDivergence": -23.81,
       "rank1W": 11,
       "rank3M": 6
-    },
-    {
-      "sector": "Healthcare",
-      "signal": "OUTFLOW",
-      "rotationScore": -46.61,
-      "rankShift": -8,
-      "momentumAccel": -1.88,
-      "institutionalSpread": 0.09,
-      "breadthDivergence": -17,
-      "rank1W": 10,
-      "rank3M": 2
     }
   ],
   "diagnostics": [
     {
-      "sector": "Healthcare",
-      "ticker": "XLV",
-      "perf1W": -4.2775330398820675,
-      "perf1WAnnualized": -222.4317180738675,
-      "perf3MAnnualized": 15.129761860897002,
-      "momentumRegime": "DECELERATING",
-      "breadth1W": 26.666666666666668,
-      "breadth3M": 61.66666666666667,
-      "breadthDirection": "NARROWING",
-      "mcw1W": -4.2775330398820675,
-      "ew1W": -3.400083333333333,
-      "sizeSpread": -0.8774497065487346,
-      "sizeLeadership": "SMALL_CAP_LED",
-      "sharesPctChange": 0.0031655531185669724,
-      "priceChange": -4.2775330398820675,
-      "flowPriceSignal": "NEUTRAL",
-      "rank1W": 10,
-      "rank3M": 2,
-      "rankVelocity": -8,
-      "rankSignal": "RAPID_DESCENT",
-      "darkPoolShortRatio": 0.5914896009506687,
-      "darkPoolShortRatio5d": 0.49353658957519037,
-      "darkPoolShortRatio20d": 0.584295870343457,
-      "darkPoolTrend": "DECREASING",
-      "darkPoolSignal": "NEUTRAL_DP",
-      "putCallRatio": 1.955607476635514,
-      "putCallOIRatio": 5.5828402366863905,
-      "impliedVolatility": 0.3249714855957031,
-      "optionsSignal": "EXTREME_FEAR",
-      "institutionalIntent": "NONE",
-      "intentEvidence": "",
-      "phase": "EARLY_DECLINE",
-      "evidence": [
-        "動量減速：1週年化 -222% 對 3個月年化 +15%",
-        "廣度收窄：本週 27% 上升，對比 3個月 62%",
-        "小盤股領漲：等權重 -3.40% 對 市值加權 -4.28%",
-        "快速下跌：現排名 #10，3個月排名 #2",
-        "期權市場極度恐慌：P/C 比率 1.96，未平倉 P/C 5.58，IV 32%"
-      ]
-    },
-    {
-      "sector": "Technology",
-      "ticker": "XLK",
-      "perf1W": -1.124614538141506,
-      "perf1WAnnualized": -58.479955983358316,
-      "perf3MAnnualized": -25.912398995969188,
-      "momentumRegime": "DECELERATING",
-      "breadth1W": 32.58426966292135,
-      "breadth3M": 31.46067415730337,
-      "breadthDirection": "STABLE",
-      "mcw1W": -1.124614538141506,
-      "ew1W": -1.991775280898876,
-      "sizeSpread": 0.86716074275737,
-      "sizeLeadership": "LARGE_CAP_LED",
-      "sharesPctChange": 0.005371169145572885,
-      "priceChange": -1.124614538141506,
-      "flowPriceSignal": "NEUTRAL",
-      "rank1W": 2,
-      "rank3M": 9,
-      "rankVelocity": 7,
-      "rankSignal": "RAPID_ASCENT",
-      "darkPoolShortRatio": 0.5127270500677645,
-      "darkPoolShortRatio5d": 0.4317009671259403,
-      "darkPoolShortRatio20d": 0.4606398075301629,
-      "darkPoolTrend": "STABLE",
-      "darkPoolSignal": "NEUTRAL_DP",
-      "putCallRatio": 4.89196675900277,
-      "putCallOIRatio": 1.7034456058846303,
-      "impliedVolatility": 0.4562890065002441,
-      "optionsSignal": "EXTREME_FEAR",
-      "institutionalIntent": "NONE",
-      "intentEvidence": "",
-      "phase": "EARLY_DECLINE",
-      "evidence": [
-        "動量減速：1週年化 -58% 對 3個月年化 -26%",
-        "大盤股領漲：市值加權 -1.12% 對 等權重 -1.99%",
-        "快速攀升：現排名 #2，3個月排名 #9",
-        "期權市場極度恐慌：P/C 比率 4.89，未平倉 P/C 1.70，IV 46%"
-      ]
-    },
-    {
-      "sector": "Consumer Cyclical",
-      "ticker": "XLY",
-      "perf1W": -0.7415759048813387,
-      "perf1WAnnualized": -38.56194705382961,
-      "perf3MAnnualized": 1.92144828705679,
-      "momentumRegime": "DECELERATING",
-      "breadth1W": 27.77777777777778,
-      "breadth3M": 42.592592592592595,
-      "breadthDirection": "NARROWING",
-      "mcw1W": -0.7415759048813387,
-      "ew1W": -2.447870370370371,
-      "sizeSpread": 1.706294465489032,
-      "sizeLeadership": "LARGE_CAP_LED",
-      "sharesPctChange": -0.00028052263576368563,
-      "priceChange": -0.7415759048813387,
-      "flowPriceSignal": "NEUTRAL",
-      "rank1W": 1,
-      "rank3M": 4,
-      "rankVelocity": 3,
-      "rankSignal": "RISING",
-      "darkPoolShortRatio": 0.5084164429441749,
-      "darkPoolShortRatio5d": 0.521017595700037,
-      "darkPoolShortRatio20d": 0.6017481191133301,
-      "darkPoolTrend": "DECREASING",
-      "darkPoolSignal": "ELEVATED_SHORTING",
-      "putCallRatio": 4.18,
-      "putCallOIRatio": 1.676991150442478,
-      "impliedVolatility": 0.43755445263671877,
-      "optionsSignal": "EXTREME_FEAR",
-      "institutionalIntent": "NONE",
-      "intentEvidence": "",
-      "phase": "EARLY_DECLINE",
-      "evidence": [
-        "動量減速：1週年化 -39% 對 3個月年化 +2%",
-        "廣度收窄：本週 28% 上升，對比 3個月 43%",
-        "大盤股領漲：市值加權 -0.74% 對 等權重 -2.45%",
-        "排名上升：現 #1，3個月前 #4",
-        "暗盤沽空偏高：5天平均 52%，20天平均 60%（↓ 回落中）",
-        "期權市場極度恐慌：P/C 比率 4.18，未平倉 P/C 1.68，IV 44%"
-      ]
-    },
-    {
-      "sector": "Financial",
-      "ticker": "XLF",
-      "perf1W": -4.250569757439178,
-      "perf1WAnnualized": -221.02962738683723,
-      "perf3MAnnualized": -11.543313172433846,
-      "momentumRegime": "DECELERATING",
-      "breadth1W": 0,
-      "breadth3M": 35.714285714285715,
-      "breadthDirection": "NARROWING",
-      "mcw1W": -4.250569757439178,
-      "ew1W": -3.820485714285714,
-      "sizeSpread": -0.4300840431534638,
-      "sizeLeadership": "BROAD_BASED",
-      "sharesPctChange": 0.0002485213747809129,
-      "priceChange": -4.250569757439178,
-      "flowPriceSignal": "NEUTRAL",
-      "rank1W": 9,
-      "rank3M": 5,
-      "rankVelocity": -4,
-      "rankSignal": "RAPID_DESCENT",
-      "darkPoolShortRatio": 0.5810945644530832,
-      "darkPoolShortRatio5d": 0.6050314395921574,
-      "darkPoolShortRatio20d": 0.6202292463841476,
-      "darkPoolTrend": "STABLE",
-      "darkPoolSignal": "HEAVY_SHORTING",
-      "putCallRatio": 0.23431829963711767,
-      "putCallOIRatio": 0.8505086245024326,
-      "impliedVolatility": 0.26424263408954324,
-      "optionsSignal": "CALL_HEAVY",
-      "institutionalIntent": "NONE",
-      "intentEvidence": "",
-      "phase": "EARLY_DECLINE",
-      "evidence": [
-        "動量減速：1週年化 -221% 對 3個月年化 -12%",
-        "廣度收窄：本週 0% 上升，對比 3個月 36%",
-        "快速下跌：現排名 #9，3個月排名 #5",
-        "暗盤重倉沽空：5天平均 61%，20天平均 62%",
-        "認購期權主導：P/C 比率 0.23（利好部署），IV 26%"
-      ]
-    },
-    {
-      "sector": "Real Estate",
-      "ticker": "XLRE",
-      "perf1W": -3.0812455010171615,
-      "perf1WAnnualized": -160.2247660528924,
-      "perf3MAnnualized": -18.939274703110602,
-      "momentumRegime": "DECELERATING",
-      "breadth1W": 6.666666666666667,
-      "breadth3M": 23.333333333333332,
-      "breadthDirection": "NARROWING",
-      "mcw1W": -3.0812455010171615,
-      "ew1W": -3.1258,
-      "sizeSpread": 0.044554498982838364,
-      "sizeLeadership": "BROAD_BASED",
-      "sharesPctChange": 0.0018479014528259233,
-      "priceChange": -3.0812455010171615,
-      "flowPriceSignal": "NEUTRAL",
-      "rank1W": 8,
-      "rank3M": 8,
-      "rankVelocity": 0,
-      "rankSignal": "STABLE",
-      "darkPoolShortRatio": 0.5520595855661566,
-      "darkPoolShortRatio5d": 0.6098263823731271,
-      "darkPoolShortRatio20d": 0.7091946406798377,
-      "darkPoolTrend": "DECREASING",
-      "darkPoolSignal": "HEAVY_SHORTING",
-      "putCallRatio": 0.2153846153846154,
-      "putCallOIRatio": 0.1924726060028585,
-      "impliedVolatility": 0.2657951025390625,
-      "optionsSignal": "CALL_HEAVY",
-      "institutionalIntent": "NONE",
-      "intentEvidence": "",
-      "phase": "EARLY_DECLINE",
-      "evidence": [
-        "動量減速：1週年化 -160% 對 3個月年化 -19%",
-        "廣度收窄：本週 7% 上升，對比 3個月 23%",
-        "暗盤重倉沽空：5天平均 61%，20天平均 71%（↓ 放緩）",
-        "認購期權主導：P/C 比率 0.22（利好部署），IV 27%"
-      ]
-    },
-    {
-      "sector": "Energy",
-      "ticker": "XLE",
-      "perf1W": -6.197950565965338,
-      "perf1WAnnualized": -322.2934294301976,
-      "perf3MAnnualized": -12.727195132424013,
-      "momentumRegime": "DECELERATING",
-      "breadth1W": 0,
-      "breadth3M": 23.809523809523807,
-      "breadthDirection": "NARROWING",
-      "mcw1W": -6.197950565965338,
-      "ew1W": -6.507142857142856,
-      "sizeSpread": 0.309192291177518,
-      "sizeLeadership": "BROAD_BASED",
-      "sharesPctChange": 0.006432456640853193,
-      "priceChange": -6.197950565965338,
-      "flowPriceSignal": "NEUTRAL",
-      "rank1W": 11,
-      "rank3M": 6,
-      "rankVelocity": -5,
-      "rankSignal": "RAPID_DESCENT",
-      "darkPoolShortRatio": 0.6093796138519871,
-      "darkPoolShortRatio5d": 0.514469376230042,
-      "darkPoolShortRatio20d": 0.5626717515298896,
-      "darkPoolTrend": "DECREASING",
-      "darkPoolSignal": "ELEVATED_SHORTING",
-      "putCallRatio": 0.8713450292397661,
-      "putCallOIRatio": 1.7080924855491328,
-      "impliedVolatility": 0.5692181750488283,
-      "optionsSignal": "NEUTRAL_OPT",
-      "institutionalIntent": "NONE",
-      "intentEvidence": "",
-      "phase": "EARLY_DECLINE",
-      "evidence": [
-        "動量減速：1週年化 -322% 對 3個月年化 -13%",
-        "廣度收窄：本週 0% 上升，對比 3個月 24%",
-        "快速下跌：現排名 #11，3個月排名 #6",
-        "暗盤沽空偏高：5天平均 51%，20天平均 56%（↓ 回落中）"
-      ]
-    },
-    {
-      "sector": "Communication Services",
-      "ticker": "XLC",
-      "perf1W": -1.5420196904772483,
-      "perf1WAnnualized": -80.18502390481692,
-      "perf3MAnnualized": -53.87512961265231,
-      "momentumRegime": "DECELERATING",
-      "breadth1W": 13.636363636363635,
-      "breadth3M": 18.181818181818183,
-      "breadthDirection": "STABLE",
-      "mcw1W": -1.5420196904772483,
-      "ew1W": -3.7250454545454548,
-      "sizeSpread": 2.1830257640682067,
-      "sizeLeadership": "LARGE_CAP_LED",
-      "sharesPctChange": -0.00018345524888135068,
-      "priceChange": -1.5420196904772483,
-      "flowPriceSignal": "NEUTRAL",
-      "rank1W": 3,
-      "rank3M": 11,
-      "rankVelocity": 8,
-      "rankSignal": "RAPID_ASCENT",
-      "darkPoolShortRatio": 0.5415707982661366,
-      "darkPoolShortRatio5d": 0.536243980417977,
-      "darkPoolShortRatio20d": 0.573353871442824,
-      "darkPoolTrend": "DECREASING",
-      "darkPoolSignal": "ELEVATED_SHORTING",
-      "putCallRatio": 0.41304347826086957,
-      "putCallOIRatio": 1.3877551020408163,
-      "impliedVolatility": 0.4821422229003906,
-      "optionsSignal": "CALL_HEAVY",
-      "institutionalIntent": "NONE",
-      "intentEvidence": "",
-      "phase": "EARLY_DECLINE",
-      "evidence": [
-        "動量減速：1週年化 -80% 對 3個月年化 -54%",
-        "大盤股領漲：市值加權 -1.54% 對 等權重 -3.73%",
-        "快速攀升：現排名 #3，3個月排名 #11",
-        "暗盤沽空偏高：5天平均 54%，20天平均 57%（↓ 回落中）",
-        "認購期權主導：P/C 比率 0.41（利好部署），IV 48%"
-      ]
-    },
-    {
-      "sector": "Consumer Defensive",
-      "ticker": "XLP",
-      "perf1W": -1.9732963303477344,
-      "perf1WAnnualized": -102.6114091780822,
-      "perf3MAnnualized": 40.54407926238145,
-      "momentumRegime": "DECELERATING",
-      "breadth1W": 22.58064516129032,
-      "breadth3M": 54.83870967741935,
-      "breadthDirection": "NARROWING",
-      "mcw1W": -1.9732963303477344,
-      "ew1W": -2.518129032258064,
-      "sizeSpread": 0.5448327019103294,
-      "sizeLeadership": "LARGE_CAP_LED",
-      "sharesPctChange": 0.0005724347780134447,
-      "priceChange": -1.9732963303477344,
-      "flowPriceSignal": "NEUTRAL",
-      "rank1W": 6,
-      "rank3M": 1,
-      "rankVelocity": -5,
-      "rankSignal": "RAPID_DESCENT",
-      "darkPoolShortRatio": 0.6551598348109581,
-      "darkPoolShortRatio5d": 0.6894990331458348,
-      "darkPoolShortRatio20d": 0.6147282949584445,
-      "darkPoolTrend": "INCREASING",
-      "darkPoolSignal": "HEAVY_SHORTING",
-      "putCallRatio": 2.5717703349282295,
-      "putCallOIRatio": 1.7254098360655739,
-      "impliedVolatility": 0.41790743231201166,
-      "optionsSignal": "EXTREME_FEAR",
-      "institutionalIntent": "TRUE_DISTRIBUTION",
-      "intentEvidence": "機構離場：暗盤沽空 69% ＋ 動量減速 ＋ 恐慌性認沽 P/C 2.57 ＋ IV 42%",
-      "phase": "CONFIRMED_DOWNTREND",
-      "evidence": [
-        "動量減速：1週年化 -103% 對 3個月年化 +41%",
-        "廣度收窄：本週 23% 上升，對比 3個月 55%",
-        "大盤股領漲：市值加權 -1.97% 對 等權重 -2.52%",
-        "快速下跌：現排名 #6，3個月排名 #1",
-        "暗盤重倉沽空：5天平均 69%，20天平均 61%（↑ 按週上升）",
-        "期權市場極度恐慌：P/C 比率 2.57，未平倉 P/C 1.73，IV 42%",
-        "🔍 意圖：機構離場：暗盤沽空 69% ＋ 動量減速 ＋ 恐慌性認沽 P/C 2.57 ＋ IV 42%"
-      ]
-    },
-    {
-      "sector": "Utilities",
-      "ticker": "XLU",
-      "perf1W": -1.918052043715847,
-      "perf1WAnnualized": -99.73870627322404,
-      "perf3MAnnualized": 1.9656668561020036,
-      "momentumRegime": "DECELERATING",
-      "breadth1W": 12.903225806451612,
-      "breadth3M": 74.19354838709677,
-      "breadthDirection": "NARROWING",
-      "mcw1W": -1.918052043715847,
-      "ew1W": -1.493129032258064,
-      "sizeSpread": -0.4249230114577831,
-      "sizeLeadership": "BROAD_BASED",
-      "sharesPctChange": 0.004364456784456848,
-      "priceChange": -1.918052043715847,
-      "flowPriceSignal": "NEUTRAL",
-      "rank1W": 5,
-      "rank3M": 3,
-      "rankVelocity": -2,
-      "rankSignal": "FALLING",
-      "darkPoolShortRatio": 0.4401849339859909,
-      "darkPoolShortRatio5d": 0.5657746505803989,
-      "darkPoolShortRatio20d": 0.5546688954965184,
-      "darkPoolTrend": "STABLE",
-      "darkPoolSignal": "ELEVATED_SHORTING",
-      "putCallRatio": 1.3444444444444446,
-      "putCallOIRatio": 0.21082220660576248,
-      "impliedVolatility": 0.49829603271484374,
-      "optionsSignal": "HEAVY_PUT_BUYING",
-      "institutionalIntent": "TRUE_DISTRIBUTION",
-      "intentEvidence": "機構離場：暗盤沽空 57% ＋ 動量減速 ＋ 恐慌性認沽 P/C 1.34 ＋ IV 50%",
-      "phase": "CONFIRMED_DOWNTREND",
-      "evidence": [
-        "動量減速：1週年化 -100% 對 3個月年化 +2%",
-        "廣度收窄：本週 13% 上升，對比 3個月 74%",
-        "排名下跌：現 #5，3個月前 #3",
-        "暗盤沽空偏高：5天平均 57%，20天平均 55%",
-        "重倉買入認沽期權：P/C 比率 1.34，IV 50%",
-        "🔍 意圖：機構離場：暗盤沽空 57% ＋ 動量減速 ＋ 恐慌性認沽 P/C 1.34 ＋ IV 50%"
-      ]
-    },
-    {
       "sector": "Basic Materials",
       "ticker": "XLB",
-      "perf1W": -2.9006024944641067,
-      "perf1WAnnualized": -150.83132971213354,
-      "perf3MAnnualized": -17.117648844559685,
+      "perf1W": -1.575850032143397,
+      "perf1WAnnualized": -81.94420167145664,
+      "perf3MAnnualized": -16.66724905460596,
       "momentumRegime": "DECELERATING",
-      "breadth1W": 20,
+      "breadth1W": 50,
       "breadth3M": 35,
-      "breadthDirection": "NARROWING",
-      "mcw1W": -2.9006024944641067,
-      "ew1W": -3.2651499999999998,
-      "sizeSpread": 0.3645475055358931,
+      "breadthDirection": "BROADENING",
+      "mcw1W": -1.575850032143397,
+      "ew1W": -1.9679999999999995,
+      "sizeSpread": 0.3921499678566025,
       "sizeLeadership": "BROAD_BASED",
-      "sharesPctChange": 0.002489583629419979,
-      "priceChange": -2.9006024944641067,
+      "sharesPctChange": 0.0022176013933811393,
+      "priceChange": -1.575850032143397,
       "flowPriceSignal": "NEUTRAL",
       "rank1W": 7,
-      "rank3M": 7,
-      "rankVelocity": 0,
+      "rank3M": 8,
+      "rankVelocity": 1,
       "rankSignal": "STABLE",
-      "darkPoolShortRatio": 0.6582218881810831,
-      "darkPoolShortRatio5d": 0.672331688595664,
-      "darkPoolShortRatio20d": 0.6625178978642532,
+      "darkPoolShortRatio": 0.7266424456665859,
+      "darkPoolShortRatio5d": 0.649940089011299,
+      "darkPoolShortRatio20d": 0.6603579013899397,
       "darkPoolTrend": "STABLE",
       "darkPoolSignal": "HEAVY_SHORTING",
-      "putCallRatio": 2.8421052631578947,
-      "putCallOIRatio": 0.23890339425587467,
-      "impliedVolatility": 0.7057646611328126,
-      "optionsSignal": "EXTREME_FEAR",
+      "putCallRatio": 1.97869101978691,
+      "putCallOIRatio": 0.23173803526448364,
+      "impliedVolatility": 0.7950459948730468,
+      "optionsSignal": "HEAVY_PUT_BUYING",
       "institutionalIntent": "TRUE_DISTRIBUTION",
-      "intentEvidence": "機構離場：暗盤沽空 67% ＋ 動量減速 ＋ 恐慌性認沽 P/C 2.84 ＋ IV 71%",
-      "phase": "CONFIRMED_DOWNTREND",
+      "intentEvidence": "機構離場：暗盤沽空 65% ＋ 動量減速 ＋ 恐慌性認沽 P/C 1.98 ＋ IV 80%",
+      "phase": "EARLY_ACCUMULATION",
       "evidence": [
-        "動量減速：1週年化 -151% 對 3個月年化 -17%",
-        "廣度收窄：本週 20% 上升，對比 3個月 35%",
-        "暗盤重倉沽空：5天平均 67%，20天平均 66%",
-        "期權市場極度恐慌：P/C 比率 2.84，未平倉 P/C 0.24，IV 71%",
-        "🔍 意圖：機構離場：暗盤沽空 67% ＋ 動量減速 ＋ 恐慌性認沽 P/C 2.84 ＋ IV 71%"
+        "動量減速：1週年化 -82% 對 3個月年化 -17%",
+        "廣度擴闊：本週 50% 上升，對比 3個月 35%",
+        "暗盤重倉沽空：5天平均 65%，20天平均 66%",
+        "重倉買入認沽期權：P/C 比率 1.98，IV 80%",
+        "🔍 意圖：機構離場：暗盤沽空 65% ＋ 動量減速 ＋ 恐慌性認沽 P/C 1.98 ＋ IV 80%"
       ]
     },
     {
       "sector": "Industrials",
       "ticker": "XLI",
-      "perf1W": -1.6704486976596213,
-      "perf1WAnnualized": -86.8633322783003,
-      "perf3MAnnualized": -27.741517248974198,
+      "perf1W": -1.8230518730923728,
+      "perf1WAnnualized": -94.79869740080339,
+      "perf3MAnnualized": -33.18655492632223,
       "momentumRegime": "DECELERATING",
-      "breadth1W": 26.666666666666668,
-      "breadth3M": 37.333333333333336,
-      "breadthDirection": "NARROWING",
-      "mcw1W": -1.6704486976596213,
-      "ew1W": -1.3931600000000002,
-      "sizeSpread": -0.27728869765962116,
-      "sizeLeadership": "BROAD_BASED",
-      "sharesPctChange": 0.0021919801051997327,
-      "priceChange": -1.6704486976596213,
+      "breadth1W": 41.333333333333336,
+      "breadth3M": 32,
+      "breadthDirection": "BROADENING",
+      "mcw1W": -1.8230518730923728,
+      "ew1W": -0.881226666666667,
+      "sizeSpread": -0.9418252064257058,
+      "sizeLeadership": "SMALL_CAP_LED",
+      "sharesPctChange": 0.002414992115447736,
+      "priceChange": -1.8230518730923728,
       "flowPriceSignal": "NEUTRAL",
-      "rank1W": 4,
-      "rank3M": 10,
-      "rankVelocity": 6,
-      "rankSignal": "RAPID_ASCENT",
-      "darkPoolShortRatio": 0.5336624736848872,
-      "darkPoolShortRatio5d": 0.5805924745891147,
-      "darkPoolShortRatio20d": 0.5944707691469552,
+      "rank1W": 9,
+      "rank3M": 9,
+      "rankVelocity": 0,
+      "rankSignal": "STABLE",
+      "darkPoolShortRatio": 0.6143446937727854,
+      "darkPoolShortRatio5d": 0.5884448560221238,
+      "darkPoolShortRatio20d": 0.598411956000062,
       "darkPoolTrend": "STABLE",
       "darkPoolSignal": "ELEVATED_SHORTING",
-      "putCallRatio": 2.1639586410635157,
-      "putCallOIRatio": 1.1320621468926553,
-      "impliedVolatility": 0.34696642475474954,
+      "putCallRatio": 3.0946601941747574,
+      "putCallOIRatio": 0.9438502673796791,
+      "impliedVolatility": 0.37277340286254884,
       "optionsSignal": "EXTREME_FEAR",
       "institutionalIntent": "TRUE_DISTRIBUTION",
-      "intentEvidence": "機構離場：暗盤沽空 58% ＋ 動量減速 ＋ 恐慌性認沽 P/C 2.16 ＋ IV 35%",
-      "phase": "CONFIRMED_DOWNTREND",
+      "intentEvidence": "機構離場：暗盤沽空 59% ＋ 動量減速 ＋ 恐慌性認沽 P/C 3.09 ＋ IV 37%",
+      "phase": "EARLY_ACCUMULATION",
       "evidence": [
-        "動量減速：1週年化 -87% 對 3個月年化 -28%",
-        "廣度收窄：本週 27% 上升，對比 3個月 37%",
-        "快速攀升：現排名 #4，3個月排名 #10",
-        "暗盤沽空偏高：5天平均 58%，20天平均 59%",
-        "期權市場極度恐慌：P/C 比率 2.16，未平倉 P/C 1.13，IV 35%",
-        "🔍 意圖：機構離場：暗盤沽空 58% ＋ 動量減速 ＋ 恐慌性認沽 P/C 2.16 ＋ IV 35%"
+        "動量減速：1週年化 -95% 對 3個月年化 -33%",
+        "廣度擴闊：本週 41% 上升，對比 3個月 32%",
+        "小盤股領漲：等權重 -0.88% 對 市值加權 -1.82%",
+        "暗盤沽空偏高：5天平均 59%，20天平均 60%",
+        "期權市場極度恐慌：P/C 比率 3.09，未平倉 P/C 0.94，IV 37%",
+        "🔍 意圖：機構離場：暗盤沽空 59% ＋ 動量減速 ＋ 恐慌性認沽 P/C 3.09 ＋ IV 37%"
+      ]
+    },
+    {
+      "sector": "Real Estate",
+      "ticker": "XLRE",
+      "perf1W": -0.5598509253767268,
+      "perf1WAnnualized": -29.112248119589793,
+      "perf3MAnnualized": -12.25841607138252,
+      "momentumRegime": "DECELERATING",
+      "breadth1W": 50,
+      "breadth3M": 30,
+      "breadthDirection": "BROADENING",
+      "mcw1W": -0.5598509253767268,
+      "ew1W": 0.02496666666666666,
+      "sizeSpread": -0.5848175920433935,
+      "sizeLeadership": "SMALL_CAP_LED",
+      "sharesPctChange": 0.001224523360285617,
+      "priceChange": -0.5598509253767268,
+      "flowPriceSignal": "NEUTRAL",
+      "rank1W": 5,
+      "rank3M": 7,
+      "rankVelocity": 2,
+      "rankSignal": "RISING",
+      "darkPoolShortRatio": 0.7017967120142796,
+      "darkPoolShortRatio5d": 0.592195352587075,
+      "darkPoolShortRatio20d": 0.7030854626404783,
+      "darkPoolTrend": "DECREASING",
+      "darkPoolSignal": "ELEVATED_SHORTING",
+      "putCallRatio": 0.1694915254237288,
+      "putCallOIRatio": 0.22139187295656235,
+      "impliedVolatility": 0.4245663012695313,
+      "optionsSignal": "CALL_HEAVY",
+      "institutionalIntent": "NONE",
+      "intentEvidence": "",
+      "phase": "EARLY_ACCUMULATION",
+      "evidence": [
+        "動量減速：1週年化 -29% 對 3個月年化 -12%",
+        "廣度擴闊：本週 50% 上升，對比 3個月 30%",
+        "小盤股領漲：等權重 +0.02% 對 市值加權 -0.56%",
+        "排名上升：現 #5，3個月前 #7",
+        "暗盤沽空偏高：5天平均 59%，20天平均 70%（↓ 回落中）",
+        "認購期權主導：P/C 比率 0.17（利好部署），IV 42%"
+      ]
+    },
+    {
+      "sector": "Consumer Defensive",
+      "ticker": "XLP",
+      "perf1W": 0.8495899541629892,
+      "perf1WAnnualized": 44.17867761647544,
+      "perf3MAnnualized": 51.33214242343459,
+      "momentumRegime": "STEADY",
+      "breadth1W": 58.06451612903226,
+      "breadth3M": 64.51612903225806,
+      "breadthDirection": "NARROWING",
+      "mcw1W": 0.8495899541629892,
+      "ew1W": 0.5219032258064517,
+      "sizeSpread": 0.32768672835653756,
+      "sizeLeadership": "BROAD_BASED",
+      "sharesPctChange": -0.00022185386964195574,
+      "priceChange": 0.8495899541629892,
+      "flowPriceSignal": "NEUTRAL",
+      "rank1W": 1,
+      "rank3M": 1,
+      "rankVelocity": 0,
+      "rankSignal": "STABLE",
+      "darkPoolShortRatio": 0.6584670469261557,
+      "darkPoolShortRatio5d": 0.6834519702266516,
+      "darkPoolShortRatio20d": 0.6207286993610979,
+      "darkPoolTrend": "INCREASING",
+      "darkPoolSignal": "HEAVY_SHORTING",
+      "putCallRatio": 1.2258620689655173,
+      "putCallOIRatio": 2.4874551971326166,
+      "impliedVolatility": 0.24058248117547287,
+      "optionsSignal": "EXTREME_FEAR",
+      "institutionalIntent": "NONE",
+      "intentEvidence": "",
+      "phase": "LATE_STAGE",
+      "evidence": [
+        "廣度收窄：本週 58% 上升，對比 3個月 65%",
+        "暗盤重倉沽空：5天平均 68%，20天平均 62%（↑ 按週上升）",
+        "期權市場極度恐慌：P/C 比率 1.23，未平倉 P/C 2.49，IV 24%"
+      ]
+    },
+    {
+      "sector": "Consumer Cyclical",
+      "ticker": "XLY",
+      "perf1W": -0.08881980886709676,
+      "perf1WAnnualized": -4.618630061089031,
+      "perf3MAnnualized": 4.993612859701904,
+      "momentumRegime": "STEADY",
+      "breadth1W": 61.111111111111114,
+      "breadth3M": 48.148148148148145,
+      "breadthDirection": "BROADENING",
+      "mcw1W": -0.08881980886709676,
+      "ew1W": 0.5594074074074072,
+      "sizeSpread": -0.648227216274504,
+      "sizeLeadership": "SMALL_CAP_LED",
+      "sharesPctChange": -0.0006042318019985402,
+      "priceChange": -0.08881980886709676,
+      "flowPriceSignal": "NEUTRAL",
+      "rank1W": 3,
+      "rank3M": 3,
+      "rankVelocity": 0,
+      "rankSignal": "STABLE",
+      "darkPoolShortRatio": 0.6620172382743598,
+      "darkPoolShortRatio5d": 0.5310262540012334,
+      "darkPoolShortRatio20d": 0.5964172509839973,
+      "darkPoolTrend": "DECREASING",
+      "darkPoolSignal": "ELEVATED_SHORTING",
+      "putCallRatio": 4.0588235294117645,
+      "putCallOIRatio": 1.4773333333333334,
+      "impliedVolatility": 0.43437621737393467,
+      "optionsSignal": "EXTREME_FEAR",
+      "institutionalIntent": "NONE",
+      "intentEvidence": "",
+      "phase": "NEUTRAL",
+      "evidence": [
+        "廣度擴闊：本週 61% 上升，對比 3個月 48%",
+        "小盤股領漲：等權重 +0.56% 對 市值加權 -0.09%",
+        "暗盤沽空偏高：5天平均 53%，20天平均 60%（↓ 回落中）",
+        "期權市場極度恐慌：P/C 比率 4.06，未平倉 P/C 1.48，IV 43%"
+      ]
+    },
+    {
+      "sector": "Utilities",
+      "ticker": "XLU",
+      "perf1W": -0.08043436854808225,
+      "perf1WAnnualized": -4.182587164500277,
+      "perf3MAnnualized": 1.4611924452586582,
+      "momentumRegime": "STEADY",
+      "breadth1W": 74.19354838709677,
+      "breadth3M": 74.19354838709677,
+      "breadthDirection": "STABLE",
+      "mcw1W": -0.08043436854808225,
+      "ew1W": 0.27738709677419343,
+      "sizeSpread": -0.35782146532227566,
+      "sizeLeadership": "BROAD_BASED",
+      "sharesPctChange": 0.004240778805116378,
+      "priceChange": -0.08043436854808225,
+      "flowPriceSignal": "NEUTRAL",
+      "rank1W": 2,
+      "rank3M": 4,
+      "rankVelocity": 2,
+      "rankSignal": "RISING",
+      "darkPoolShortRatio": 0.6330891442644759,
+      "darkPoolShortRatio5d": 0.530782517478999,
+      "darkPoolShortRatio20d": 0.5482319630568511,
+      "darkPoolTrend": "STABLE",
+      "darkPoolSignal": "ELEVATED_SHORTING",
+      "putCallRatio": 0.9291338582677166,
+      "putCallOIRatio": 0.2503448275862069,
+      "impliedVolatility": 0.23085621582031252,
+      "optionsSignal": "NEUTRAL_OPT",
+      "institutionalIntent": "NONE",
+      "intentEvidence": "",
+      "phase": "NEUTRAL",
+      "evidence": [
+        "排名上升：現 #2，3個月前 #4",
+        "暗盤沽空偏高：5天平均 53%，20天平均 55%"
+      ]
+    },
+    {
+      "sector": "Communication Services",
+      "ticker": "XLC",
+      "perf1W": -0.9129241948433388,
+      "perf1WAnnualized": -47.472058131853615,
+      "perf3MAnnualized": -53.25184471884305,
+      "momentumRegime": "STEADY",
+      "breadth1W": 36.36363636363637,
+      "breadth3M": 27.27272727272727,
+      "breadthDirection": "BROADENING",
+      "mcw1W": -0.9129241948433388,
+      "ew1W": -0.8805454545454545,
+      "sizeSpread": -0.032378740297884234,
+      "sizeLeadership": "BROAD_BASED",
+      "sharesPctChange": -0.0005773355886009202,
+      "priceChange": -0.9129241948433388,
+      "flowPriceSignal": "NEUTRAL",
+      "rank1W": 6,
+      "rank3M": 11,
+      "rankVelocity": 5,
+      "rankSignal": "RAPID_ASCENT",
+      "darkPoolShortRatio": 0.494072307691976,
+      "darkPoolShortRatio5d": 0.5204910808379971,
+      "darkPoolShortRatio20d": 0.5611981242280398,
+      "darkPoolTrend": "DECREASING",
+      "darkPoolSignal": "ELEVATED_SHORTING",
+      "putCallRatio": 3.5964912280701755,
+      "putCallOIRatio": 1.619047619047619,
+      "impliedVolatility": 0.4452657315499442,
+      "optionsSignal": "EXTREME_FEAR",
+      "institutionalIntent": "NONE",
+      "intentEvidence": "",
+      "phase": "NEUTRAL",
+      "evidence": [
+        "廣度擴闊：本週 36% 上升，對比 3個月 27%",
+        "快速攀升：現排名 #6，3個月排名 #11",
+        "暗盤沽空偏高：5天平均 52%，20天平均 56%（↓ 回落中）",
+        "期權市場極度恐慌：P/C 比率 3.60，未平倉 P/C 1.62，IV 45%"
+      ]
+    },
+    {
+      "sector": "Healthcare",
+      "ticker": "XLV",
+      "perf1W": -0.22315645149698876,
+      "perf1WAnnualized": -11.604135477843416,
+      "perf3MAnnualized": 32.53523908412746,
+      "momentumRegime": "DECELERATING",
+      "breadth1W": 61.66666666666667,
+      "breadth3M": 68.33333333333333,
+      "breadthDirection": "NARROWING",
+      "mcw1W": -0.22315645149698876,
+      "ew1W": 0.08038333333333333,
+      "sizeSpread": -0.30353978483032207,
+      "sizeLeadership": "BROAD_BASED",
+      "sharesPctChange": 0.0018006018788760685,
+      "priceChange": -0.22315645149698876,
+      "flowPriceSignal": "NEUTRAL",
+      "rank1W": 4,
+      "rank3M": 2,
+      "rankVelocity": -2,
+      "rankSignal": "FALLING",
+      "darkPoolShortRatio": 0.5799363357733961,
+      "darkPoolShortRatio5d": 0.4875532364199068,
+      "darkPoolShortRatio20d": 0.5799436261326816,
+      "darkPoolTrend": "DECREASING",
+      "darkPoolSignal": "NEUTRAL_DP",
+      "putCallRatio": 4.153061224489796,
+      "putCallOIRatio": 2.49645390070922,
+      "impliedVolatility": 0.29463595996093744,
+      "optionsSignal": "EXTREME_FEAR",
+      "institutionalIntent": "NONE",
+      "intentEvidence": "",
+      "phase": "EARLY_DECLINE",
+      "evidence": [
+        "動量減速：1週年化 -12% 對 3個月年化 +33%",
+        "廣度收窄：本週 62% 上升，對比 3個月 68%",
+        "排名下跌：現 #4，3個月前 #2",
+        "期權市場極度恐慌：P/C 比率 4.15，未平倉 P/C 2.50，IV 29%"
+      ]
+    },
+    {
+      "sector": "Technology",
+      "ticker": "XLK",
+      "perf1W": -2.925889241698079,
+      "perf1WAnnualized": -152.1462405683001,
+      "perf3MAnnualized": -33.56559668491603,
+      "momentumRegime": "DECELERATING",
+      "breadth1W": 31.46067415730337,
+      "breadth3M": 30.337078651685395,
+      "breadthDirection": "STABLE",
+      "mcw1W": -2.925889241698079,
+      "ew1W": -3.3795056179775274,
+      "sizeSpread": 0.4536163762794483,
+      "sizeLeadership": "BROAD_BASED",
+      "sharesPctChange": 0.006729965832715693,
+      "priceChange": -2.925889241698079,
+      "flowPriceSignal": "NEUTRAL",
+      "rank1W": 10,
+      "rank3M": 10,
+      "rankVelocity": 0,
+      "rankSignal": "STABLE",
+      "darkPoolShortRatio": 0.4344757886383388,
+      "darkPoolShortRatio5d": 0.43586225374541526,
+      "darkPoolShortRatio20d": 0.4614330113473029,
+      "darkPoolTrend": "STABLE",
+      "darkPoolSignal": "NEUTRAL_DP",
+      "putCallRatio": 0.7194982896237172,
+      "putCallOIRatio": 1.587323458491216,
+      "impliedVolatility": 0.5090347219848632,
+      "optionsSignal": "NEUTRAL_OPT",
+      "institutionalIntent": "NONE",
+      "intentEvidence": "",
+      "phase": "EARLY_DECLINE",
+      "evidence": [
+        "動量減速：1週年化 -152% 對 3個月年化 -34%"
+      ]
+    },
+    {
+      "sector": "Financial",
+      "ticker": "XLF",
+      "perf1W": -1.6063228967589962,
+      "perf1WAnnualized": -83.5287906314678,
+      "perf3MAnnualized": -7.413252432164267,
+      "momentumRegime": "DECELERATING",
+      "breadth1W": 37.142857142857146,
+      "breadth3M": 38.57142857142858,
+      "breadthDirection": "STABLE",
+      "mcw1W": -1.6063228967589962,
+      "ew1W": -1.2155714285714283,
+      "sizeSpread": -0.3907514681875679,
+      "sizeLeadership": "BROAD_BASED",
+      "sharesPctChange": -0.00014927445553893166,
+      "priceChange": -1.6063228967589962,
+      "flowPriceSignal": "NEUTRAL",
+      "rank1W": 8,
+      "rank3M": 5,
+      "rankVelocity": -3,
+      "rankSignal": "FALLING",
+      "darkPoolShortRatio": 0.5998027010391197,
+      "darkPoolShortRatio5d": 0.5875376956216266,
+      "darkPoolShortRatio20d": 0.6262821558101556,
+      "darkPoolTrend": "DECREASING",
+      "darkPoolSignal": "ELEVATED_SHORTING",
+      "putCallRatio": 2.305699481865285,
+      "putCallOIRatio": 0.534864643150123,
+      "impliedVolatility": 0.2389340895298549,
+      "optionsSignal": "EXTREME_FEAR",
+      "institutionalIntent": "NONE",
+      "intentEvidence": "",
+      "phase": "EARLY_DECLINE",
+      "evidence": [
+        "動量減速：1週年化 -84% 對 3個月年化 -7%",
+        "排名下跌：現 #8，3個月前 #5",
+        "暗盤沽空偏高：5天平均 59%，20天平均 63%（↓ 回落中）",
+        "期權市場極度恐慌：P/C 比率 2.31，未平倉 P/C 0.53，IV 24%"
+      ]
+    },
+    {
+      "sector": "Energy",
+      "ticker": "XLE",
+      "perf1W": -4.841840170038616,
+      "perf1WAnnualized": -251.77568884200807,
+      "perf3MAnnualized": -9.974406182234677,
+      "momentumRegime": "DECELERATING",
+      "breadth1W": 0,
+      "breadth3M": 23.809523809523807,
+      "breadthDirection": "NARROWING",
+      "mcw1W": -4.841840170038616,
+      "ew1W": -4.818619047619048,
+      "sizeSpread": -0.023221122419568196,
+      "sizeLeadership": "BROAD_BASED",
+      "sharesPctChange": 0.0059607787779667855,
+      "priceChange": -4.841840170038616,
+      "flowPriceSignal": "NEUTRAL",
+      "rank1W": 11,
+      "rank3M": 6,
+      "rankVelocity": -5,
+      "rankSignal": "RAPID_DESCENT",
+      "darkPoolShortRatio": 0.6499031336002918,
+      "darkPoolShortRatio5d": 0.5207913139010834,
+      "darkPoolShortRatio20d": 0.5540672319101969,
+      "darkPoolTrend": "DECREASING",
+      "darkPoolSignal": "ELEVATED_SHORTING",
+      "putCallRatio": 0.9361702127659575,
+      "putCallOIRatio": 1.579136690647482,
+      "impliedVolatility": 0.3268238356236049,
+      "optionsSignal": "NEUTRAL_OPT",
+      "institutionalIntent": "NONE",
+      "intentEvidence": "",
+      "phase": "EARLY_DECLINE",
+      "evidence": [
+        "動量減速：1週年化 -252% 對 3個月年化 -10%",
+        "廣度收窄：本週 0% 上升，對比 3個月 24%",
+        "快速下跌：現排名 #11，3個月排名 #6",
+        "暗盤沽空偏高：5天平均 52%，20天平均 55%（↓ 回落中）"
       ]
     }
   ],
@@ -882,100 +868,100 @@
     {
       "etfTicker": "XLK",
       "sector": "Technology",
-      "etfPerf1W": -1.44,
-      "stockAvg1W": -1.12,
-      "divergence": -0.32,
-      "relVolume": 2.4,
+      "etfPerf1W": -3.78,
+      "stockAvg1W": -2.93,
+      "divergence": -0.85,
+      "relVolume": 1.68,
       "volumeSignal": "HIGH"
     },
     {
       "etfTicker": "XLP",
       "sector": "Consumer Defensive",
-      "etfPerf1W": -2.4,
-      "stockAvg1W": -1.97,
-      "divergence": -0.43,
-      "relVolume": 1.75,
-      "volumeSignal": "HIGH"
-    },
-    {
-      "etfTicker": "XLF",
-      "sector": "Financial",
-      "etfPerf1W": -4.35,
-      "stockAvg1W": -4.25,
-      "divergence": -0.1,
-      "relVolume": 1.64,
-      "volumeSignal": "HIGH"
-    },
-    {
-      "etfTicker": "XLY",
-      "sector": "Consumer Cyclical",
-      "etfPerf1W": -1.03,
-      "stockAvg1W": -0.74,
-      "divergence": -0.29,
-      "relVolume": 1.56,
-      "volumeSignal": "HIGH"
-    },
-    {
-      "etfTicker": "XLRE",
-      "sector": "Real Estate",
-      "etfPerf1W": -3.05,
-      "stockAvg1W": -3.08,
-      "divergence": 0.03,
-      "relVolume": 1.46,
+      "etfPerf1W": 0.46,
+      "stockAvg1W": 0.85,
+      "divergence": -0.39,
+      "relVolume": 1.47,
       "volumeSignal": "NORMAL"
     },
     {
       "etfTicker": "XLV",
       "sector": "Healthcare",
-      "etfPerf1W": -4.5,
-      "stockAvg1W": -4.28,
-      "divergence": -0.22,
-      "relVolume": 1.41,
+      "etfPerf1W": -0.28,
+      "stockAvg1W": -0.22,
+      "divergence": -0.06,
+      "relVolume": 1.45,
+      "volumeSignal": "NORMAL"
+    },
+    {
+      "etfTicker": "XLRE",
+      "sector": "Real Estate",
+      "etfPerf1W": -0.3,
+      "stockAvg1W": -0.56,
+      "divergence": 0.26,
+      "relVolume": 1.17,
       "volumeSignal": "NORMAL"
     },
     {
       "etfTicker": "XLC",
       "sector": "Communication Services",
-      "etfPerf1W": -3.01,
-      "stockAvg1W": -1.54,
-      "divergence": -1.47,
-      "relVolume": 1.37,
+      "etfPerf1W": -0.77,
+      "stockAvg1W": -0.91,
+      "divergence": 0.14,
+      "relVolume": 1.11,
       "volumeSignal": "NORMAL"
     },
     {
-      "etfTicker": "XLU",
-      "sector": "Utilities",
-      "etfPerf1W": -1.81,
-      "stockAvg1W": -1.92,
-      "divergence": 0.11,
-      "relVolume": 1.36,
+      "etfTicker": "XLF",
+      "sector": "Financial",
+      "etfPerf1W": -1.68,
+      "stockAvg1W": -1.61,
+      "divergence": -0.07,
+      "relVolume": 1.09,
       "volumeSignal": "NORMAL"
     },
     {
       "etfTicker": "XLI",
       "sector": "Industrials",
-      "etfPerf1W": -1.93,
-      "stockAvg1W": -1.67,
-      "divergence": -0.26,
-      "relVolume": 1.24,
+      "etfPerf1W": -1.91,
+      "stockAvg1W": -1.82,
+      "divergence": -0.09,
+      "relVolume": 1,
       "volumeSignal": "NORMAL"
     },
     {
-      "etfTicker": "XLE",
-      "sector": "Energy",
-      "etfPerf1W": -6,
-      "stockAvg1W": -6.2,
-      "divergence": 0.2,
-      "relVolume": 1.12,
+      "etfTicker": "XLY",
+      "sector": "Consumer Cyclical",
+      "etfPerf1W": 0.53,
+      "stockAvg1W": -0.09,
+      "divergence": 0.62,
+      "relVolume": 0.99,
       "volumeSignal": "NORMAL"
     },
     {
       "etfTicker": "XLB",
       "sector": "Basic Materials",
-      "etfPerf1W": -3.05,
-      "stockAvg1W": -2.9,
-      "divergence": -0.15,
-      "relVolume": 1.06,
+      "etfPerf1W": -1.32,
+      "stockAvg1W": -1.58,
+      "divergence": 0.26,
+      "relVolume": 0.94,
+      "volumeSignal": "NORMAL"
+    },
+    {
+      "etfTicker": "XLE",
+      "sector": "Energy",
+      "etfPerf1W": -4.59,
+      "stockAvg1W": -4.84,
+      "divergence": 0.25,
+      "relVolume": 0.86,
+      "volumeSignal": "NORMAL"
+    },
+    {
+      "etfTicker": "XLU",
+      "sector": "Utilities",
+      "etfPerf1W": -0.05,
+      "stockAvg1W": -0.08,
+      "divergence": 0.03,
+      "relVolume": 0.74,
       "volumeSignal": "NORMAL"
     }
   ],
@@ -988,11 +974,11 @@
         "SHY",
         "TLT"
       ],
-      "avgPerf1W": 1.63,
-      "avgPerf1M": 0.39,
-      "avgPerf3M": -1.58,
-      "avgRelVolume": 1.99,
-      "flowScore": 1.56,
+      "avgPerf1W": 1.37,
+      "avgPerf1M": 0.15,
+      "avgPerf3M": -1.52,
+      "avgRelVolume": 0.92,
+      "flowScore": 0.87,
       "signal": "NEUTRAL",
       "trendPhase": "NEUTRAL"
     },
@@ -1002,27 +988,13 @@
       "tickers": [
         "BIL"
       ],
-      "avgPerf1W": 0.05,
+      "avgPerf1W": 0.07,
       "avgPerf1M": -0.03,
       "avgPerf3M": -0.02,
-      "avgRelVolume": 1.45,
-      "flowScore": 0.01,
+      "avgRelVolume": 0.79,
+      "flowScore": 0.06,
       "signal": "NEUTRAL",
       "trendPhase": "NEUTRAL"
-    },
-    {
-      "assetClass": "美股",
-      "label": "標普500",
-      "tickers": [
-        "SPY"
-      ],
-      "avgPerf1W": -2.39,
-      "avgPerf1M": -4.96,
-      "avgPerf3M": -5.7,
-      "avgRelVolume": 1.9,
-      "flowScore": -27.71,
-      "signal": "OUTFLOW",
-      "trendPhase": "EARLY_DOWNTREND"
     },
     {
       "assetClass": "商品",
@@ -1031,11 +1003,25 @@
         "DBC",
         "USO"
       ],
-      "avgPerf1W": -4.26,
-      "avgPerf1M": -17.98,
-      "avgPerf3M": 0.69,
-      "avgRelVolume": 1.01,
-      "flowScore": -29.32,
+      "avgPerf1W": -3.63,
+      "avgPerf1M": -16.3,
+      "avgPerf3M": 0.76,
+      "avgRelVolume": 0.55,
+      "flowScore": -14.14,
+      "signal": "OUTFLOW",
+      "trendPhase": "EARLY_DOWNTREND"
+    },
+    {
+      "assetClass": "美股",
+      "label": "標普500",
+      "tickers": [
+        "SPY"
+      ],
+      "avgPerf1W": -1.86,
+      "avgPerf1M": -6.09,
+      "avgPerf3M": -6.17,
+      "avgRelVolume": 1.37,
+      "flowScore": -22.1,
       "signal": "OUTFLOW",
       "trendPhase": "EARLY_DOWNTREND"
     },
@@ -1046,11 +1032,11 @@
         "EEM",
         "EFA"
       ],
-      "avgPerf1W": -2.79,
-      "avgPerf1M": -5.25,
-      "avgPerf3M": -11.62,
-      "avgRelVolume": 2.15,
-      "flowScore": -41.35,
+      "avgPerf1W": -2.57,
+      "avgPerf1M": -6.11,
+      "avgPerf3M": -12.13,
+      "avgRelVolume": 1.49,
+      "flowScore": -33.17,
       "signal": "OUTFLOW",
       "trendPhase": "ESTABLISHED_DOWNTREND"
     },
@@ -1061,11 +1047,11 @@
         "BITO",
         "IBIT"
       ],
-      "avgPerf1W": -5.9,
-      "avgPerf1M": -24.84,
-      "avgPerf3M": -23.2,
-      "avgRelVolume": 0.96,
-      "flowScore": -59.39,
+      "avgPerf1W": -6.62,
+      "avgPerf1M": -25.46,
+      "avgPerf3M": -24.58,
+      "avgRelVolume": 0.72,
+      "flowScore": -46.68,
       "signal": "OUTFLOW",
       "trendPhase": "ESTABLISHED_DOWNTREND"
     },
@@ -1076,11 +1062,11 @@
         "GDX",
         "GLD"
       ],
-      "avgPerf1W": -6.71,
-      "avgPerf1M": -9.19,
-      "avgPerf3M": -26.6,
-      "avgRelVolume": 1.43,
-      "flowScore": -61.69,
+      "avgPerf1W": -8.99,
+      "avgPerf1M": -11.71,
+      "avgPerf3M": -26.53,
+      "avgRelVolume": 0.99,
+      "flowScore": -48.37,
       "signal": "OUTFLOW",
       "trendPhase": "ESTABLISHED_DOWNTREND"
     }
@@ -1090,14 +1076,14 @@
       "ticker": "XLK",
       "sector": "Technology",
       "totalAssets": 118670876672,
-      "sharesOutstanding": 730822001.9214189,
-      "sharesPct5Day": 0.005371169145572885,
-      "sharesPct1Month": 0.02407276039125249,
-      "sharesPct3Month": 0.12366489582676417,
+      "sharesOutstanding": 755432406.0856833,
+      "sharesPct5Day": 0.006729965832715693,
+      "sharesPct1Month": 0.03030529183109947,
+      "sharesPct3Month": 0.1615042700639758,
       "sharesPct1Year": 0,
-      "flow5Day": 1714230920.6079102,
-      "flow1Month": 9035790378.363434,
-      "flow3Month": 7954990711.125137,
+      "flow5Day": 4484866526.19281,
+      "flow1Month": 9001059950.576721,
+      "flow3Month": 12205192041.240417,
       "flow6Month": 34472449521.740005,
       "flow1Year": 28420985937.649994
     },
@@ -1105,14 +1091,14 @@
       "ticker": "XLF",
       "sector": "Financial",
       "totalAssets": 53582217216,
-      "sharesOutstanding": 962843076.657682,
-      "sharesPct5Day": 0.0002485213747809129,
-      "sharesPct1Month": 0.0010944188030188578,
-      "sharesPct3Month": 0.005144599763402939,
+      "sharesOutstanding": 954949513.7408662,
+      "sharesPct5Day": -0.00014927445553893166,
+      "sharesPct1Month": -0.0006564744218406551,
+      "sharesPct3Month": -0.003095758744726874,
       "sharesPct1Year": 0,
-      "flow5Day": 2330062041.1907883,
-      "flow1Month": 2968197082.72377,
-      "flow3Month": 4570128486.276192,
+      "flow5Day": 901330445.546875,
+      "flow1Month": 3099334551.5212708,
+      "flow3Month": 4123350225.642708,
       "flow6Month": 5791274117,
       "flow1Year": -438328315.55999756
     },
@@ -1120,14 +1106,14 @@
       "ticker": "XLE",
       "sector": "Energy",
       "totalAssets": 46373699584,
-      "sharesOutstanding": 774573235.0759981,
-      "sharesPct5Day": 0.006432456640853193,
-      "sharesPct1Month": 0.028935641910431985,
-      "sharesPct3Month": 0.15162488908609756,
+      "sharesOutstanding": 767141432.3242348,
+      "sharesPct5Day": 0.0059607787779667855,
+      "sharesPct1Month": 0.02676996405743182,
+      "sharesPct3Month": 0.1405753864281993,
       "sharesPct1Year": 0,
-      "flow5Day": 2781402612.8258743,
-      "flow1Month": 12002770843.643196,
-      "flow3Month": 11913322239.187943,
+      "flow5Day": 2129852679.757576,
+      "flow1Month": 11366773521.61728,
+      "flow3Month": 11784725412.774208,
       "flow6Month": 2770566288.470001,
       "flow1Year": 19447641793.23
     },
@@ -1135,14 +1121,14 @@
       "ticker": "XLV",
       "sector": "Healthcare",
       "totalAssets": 49103073280,
-      "sharesOutstanding": 273676698.69579756,
-      "sharesPct5Day": 0.0031655531185669724,
-      "sharesPct1Month": 0.014079974809463896,
-      "sharesPct3Month": 0.06952399976201175,
+      "sharesOutstanding": 265824346.4703335,
+      "sharesPct5Day": 0.0018006018788760685,
+      "sharesPct1Month": 0.007971449852835,
+      "sharesPct3Month": 0.03883713749079774,
       "sharesPct1Year": 0,
-      "flow5Day": 2211049605.859062,
-      "flow1Month": 5593484802.002907,
-      "flow3Month": 7545993202.126251,
+      "flow5Day": 137840628.94407654,
+      "flow1Month": 4891326684.275795,
+      "flow3Month": 5889556247.087906,
       "flow6Month": 10499189464.279999,
       "flow1Year": 15088198101.669998
     },
@@ -1150,14 +1136,14 @@
       "ticker": "XLY",
       "sector": "Consumer Cyclical",
       "totalAssets": 22396549120,
-      "sharesOutstanding": 191538092.19190967,
-      "sharesPct5Day": -0.00028052263576368563,
-      "sharesPct1Month": -0.001233123472601401,
-      "sharesPct3Month": -0.00574716697235871,
+      "sharesOutstanding": 190252710.83927965,
+      "sharesPct5Day": -0.0006042318019985402,
+      "sharesPct1Month": -0.0026531692893075275,
+      "sharesPct3Month": -0.012419437938140413,
       "sharesPct1Year": 0,
-      "flow5Day": 231263562.64409637,
-      "flow1Month": 865713922.3266678,
-      "flow3Month": -2582799.554866791,
+      "flow5Day": -118581216.51921844,
+      "flow1Month": 622241689.7869759,
+      "flow3Month": -305334834.77983856,
       "flow6Month": 950767127.8300018,
       "flow1Year": -2218264220.970001
     },
@@ -1165,14 +1151,14 @@
       "ticker": "XLP",
       "sector": "Consumer Defensive",
       "totalAssets": 15027510272,
-      "sharesOutstanding": 166270306.17393228,
-      "sharesPct5Day": 0.0005724347780134447,
-      "sharesPct1Month": 0.0025236246991102358,
-      "sharesPct3Month": 0.011925962405665872,
+      "sharesOutstanding": 163555836.6565085,
+      "sharesPct5Day": -0.00022185386964195574,
+      "sharesPct1Month": -0.0009754212630863387,
+      "sharesPct3Month": -0.004594378730691211,
       "sharesPct1Year": 0,
-      "flow5Day": 360270764.6203022,
-      "flow1Month": 1077214129.0047073,
-      "flow3Month": 769458465.6660328,
+      "flow5Day": -69008903.50142097,
+      "flow1Month": 1299555535.7813072,
+      "flow3Month": 491012881.8548012,
       "flow6Month": -453070909.3999996,
       "flow1Year": -1074701314.7399998
     },
@@ -1180,14 +1166,14 @@
       "ticker": "XLI",
       "sector": "Industrials",
       "totalAssets": 31196178432,
-      "sharesOutstanding": 192011931.01495662,
-      "sharesPct5Day": 0.0021919801051997327,
-      "sharesPct1Month": 0.009717131644308251,
-      "sharesPct3Month": 0.04718185525270584,
+      "sharesOutstanding": 193033713.4583256,
+      "sharesPct5Day": 0.002414992115447736,
+      "sharesPct1Month": 0.010713937158766949,
+      "sharesPct3Month": 0.0527543841526335,
       "sharesPct1Year": 0,
-      "flow5Day": 600723223.458168,
-      "flow1Month": 2403678807.8835487,
-      "flow3Month": 265263965.76789474,
+      "flow5Day": 594573598.036293,
+      "flow1Month": 2284680766.6756973,
+      "flow3Month": 761136757.2546539,
       "flow6Month": 2861340827.5600014,
       "flow1Year": 7331212832.970001
     },
@@ -1195,14 +1181,14 @@
       "ticker": "XLB",
       "sector": "Basic Materials",
       "totalAssets": 8448828928,
-      "sharesOutstanding": 169315208.9779559,
-      "sharesPct5Day": 0.002489583629419979,
-      "sharesPct1Month": 0.011047682005545945,
-      "sharesPct3Month": 0.05391631457909426,
+      "sharesOutstanding": 168404004.94319314,
+      "sharesPct5Day": 0.0022176013933811393,
+      "sharesPct1Month": 0.00983157467747038,
+      "sharesPct3Month": 0.048244450817157725,
       "sharesPct1Year": 0,
-      "flow5Day": 257716367.14513302,
-      "flow1Month": 887152284.6328917,
-      "flow3Month": 843822738.3892612,
+      "flow5Day": 111343732.92210865,
+      "flow1Month": 900657189.4416704,
+      "flow3Month": 815241699.3431568,
       "flow6Month": 1908746146.3999996,
       "flow1Year": 2986818550.9700003
     },
@@ -1210,14 +1196,14 @@
       "ticker": "XLC",
       "sector": "Communication Services",
       "totalAssets": 21447602176,
-      "sharesOutstanding": 207023187.02702704,
-      "sharesPct5Day": -0.00018345524888135068,
-      "sharesPct1Month": -0.0008066999177414947,
-      "sharesPct3Month": -0.003765637936476031,
+      "sharesOutstanding": 205338460.2776448,
+      "sharesPct5Day": -0.0005773355886009202,
+      "sharesPct1Month": -0.0025352999456305526,
+      "sharesPct3Month": -0.011872858690463572,
       "sharesPct1Year": 0,
-      "flow5Day": 646520118.0183487,
-      "flow1Month": 29284699.879966736,
-      "flow3Month": 1068761469.2469025,
+      "flow5Day": 165044250.07182312,
+      "flow1Month": -458032643.52708817,
+      "flow3Month": 799388547.5168266,
       "flow6Month": -2660551892.290001,
       "flow1Year": -5696346444.060001
     },
@@ -1225,14 +1211,14 @@
       "ticker": "XLRE",
       "sector": "Real Estate",
       "totalAssets": 8206221312,
-      "sharesOutstanding": 191287210.06993008,
-      "sharesPct5Day": 0.0018479014528259233,
-      "sharesPct1Month": 0.008182173885871476,
-      "sharesPct3Month": 0.03949731809751936,
+      "sharesOutstanding": 188822395.5821445,
+      "sharesPct5Day": 0.001224523360285617,
+      "sharesPct1Month": 0.0054104284517530535,
+      "sharesPct3Month": 0.026102967012967746,
       "sharesPct1Year": 0,
-      "flow5Day": 250359294.26440716,
-      "flow1Month": 400879753.3124113,
-      "flow3Month": 543014559.7874489,
+      "flow5Day": 24473704.302822113,
+      "flow1Month": 384535719.6161814,
+      "flow3Month": 396361945.8996849,
       "flow6Month": 899981632.54,
       "flow1Year": 313042797.03999996
     },
@@ -1240,14 +1226,14 @@
       "ticker": "XLU",
       "sector": "Utilities",
       "totalAssets": 24252790784,
-      "sharesOutstanding": 559852049.4921514,
-      "sharesPct5Day": 0.004364456784456848,
-      "sharesPct1Month": 0.019492867496102576,
-      "sharesPct3Month": 0.09831828556590681,
+      "sharesOutstanding": 558820064.1474655,
+      "sharesPct5Day": 0.004240778805116378,
+      "sharesPct1Month": 0.018932406445660285,
+      "sharesPct3Month": 0.09629373573076244,
       "sharesPct1Year": 0,
-      "flow5Day": 439760485.6572952,
-      "flow1Month": 2255049382.7657166,
-      "flow3Month": 1136751397.7294312,
+      "flow5Day": 11171253.239982605,
+      "flow1Month": 2661670306.724514,
+      "flow3Month": 1199152223.9071236,
       "flow6Month": -166111123.65999985,
       "flow1Year": 2963797270.7700005
     }
@@ -1257,78 +1243,78 @@
       "ticker": "XLK",
       "sector": "Technology",
       "totalAssets": 118670876672,
-      "price": 162.38,
-      "date": "2026-11-24"
+      "price": 157.09,
+      "date": "2026-11-25"
     },
     {
       "ticker": "XLF",
       "sector": "Financial",
       "totalAssets": 53582217216,
-      "price": 55.65,
-      "date": "2026-11-24"
+      "price": 56.11,
+      "date": "2026-11-25"
     },
     {
       "ticker": "XLE",
       "sector": "Energy",
       "totalAssets": 46373699584,
-      "price": 59.87,
-      "date": "2026-11-24"
+      "price": 60.45,
+      "date": "2026-11-25"
     },
     {
       "ticker": "XLV",
       "sector": "Healthcare",
       "totalAssets": 49103073280,
-      "price": 179.42,
-      "date": "2026-11-24"
+      "price": 184.72,
+      "date": "2026-11-25"
     },
     {
       "ticker": "XLY",
       "sector": "Consumer Cyclical",
       "totalAssets": 22396549120,
-      "price": 116.93,
-      "date": "2026-11-24"
+      "price": 117.72,
+      "date": "2026-11-25"
     },
     {
       "ticker": "XLP",
       "sector": "Consumer Defensive",
       "totalAssets": 15027510272,
-      "price": 90.38,
-      "date": "2026-11-24"
+      "price": 91.88,
+      "date": "2026-11-25"
     },
     {
       "ticker": "XLI",
       "sector": "Industrials",
       "totalAssets": 31196178432,
-      "price": 162.47,
-      "date": "2026-11-24"
+      "price": 161.61,
+      "date": "2026-11-25"
     },
     {
       "ticker": "XLB",
       "sector": "Basic Materials",
       "totalAssets": 8448828928,
-      "price": 49.9,
-      "date": "2026-11-24"
+      "price": 50.17,
+      "date": "2026-11-25"
     },
     {
       "ticker": "XLC",
       "sector": "Communication Services",
       "totalAssets": 21447602176,
-      "price": 103.6,
-      "date": "2026-11-24"
+      "price": 104.45,
+      "date": "2026-11-25"
     },
     {
       "ticker": "XLRE",
       "sector": "Real Estate",
       "totalAssets": 8206221312,
-      "price": 42.9,
-      "date": "2026-11-24"
+      "price": 43.46,
+      "date": "2026-11-25"
     },
     {
       "ticker": "XLU",
       "sector": "Utilities",
       "totalAssets": 24252790784,
-      "price": 43.32,
-      "date": "2026-11-24"
+      "price": 43.4,
+      "date": "2026-11-25"
     }
   ],
   "nportData": [
@@ -1690,811 +1676,811 @@
       "ticker": "XLB",
       "sector": "Basic Materials",
       "source": "FINRA",
-      "shortVolume": 1856855,
-      "totalVolume": 3439135,
-      "shortRatio": 0.539919194797529,
-      "date": "2026-11-23"
+      "shortVolume": 3556023,
+      "totalVolume": 4534378,
+      "shortRatio": 0.7842361179416449,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLC",
       "sector": "Communication Services",
       "source": "FINRA",
-      "shortVolume": 1540682,
-      "totalVolume": 3246535,
-      "shortRatio": 0.474561956054686,
-      "date": "2026-11-23"
+      "shortVolume": 1458150,
+      "totalVolume": 3452443,
+      "shortRatio": 0.42235309895051126,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLE",
       "sector": "Energy",
       "source": "FINRA",
-      "shortVolume": 4967804,
-      "totalVolume": 9685687,
-      "shortRatio": 0.5129015628937834,
-      "date": "2026-11-23"
+      "shortVolume": 4258902,
+      "totalVolume": 7370863,
+      "shortRatio": 0.5778023550295264,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLF",
       "sector": "Financial",
       "source": "FINRA",
-      "shortVolume": 9073908,
-      "totalVolume": 16852431,
-      "shortRatio": 0.5384331791656646,
-      "date": "2026-11-23"
+      "shortVolume": 8399773,
+      "totalVolume": 13838445,
+      "shortRatio": 0.6069882129097597,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLI",
       "sector": "Industrials",
       "source": "FINRA",
-      "shortVolume": 1676693,
-      "totalVolume": 3343947,
-      "shortRatio": 0.5014113561010387,
-      "date": "2026-11-23"
+      "shortVolume": 1429923,
+      "totalVolume": 2255990,
+      "shortRatio": 0.6338339265688234,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLK",
       "sector": "Technology",
       "source": "FINRA",
-      "shortVolume": 5071087,
-      "totalVolume": 9961130,
-      "shortRatio": 0.5090875232026888,
-      "date": "2026-11-23"
+      "shortVolume": 2347898,
+      "totalVolume": 6587925,
+      "shortRatio": 0.3563941605285427,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLP",
       "sector": "Consumer Defensive",
       "source": "FINRA",
-      "shortVolume": 4508225,
-      "totalVolume": 7282976,
-      "shortRatio": 0.619008630537846,
-      "date": "2026-11-23"
+      "shortVolume": 3840003,
+      "totalVolume": 6157838,
+      "shortRatio": 0.6235959763800217,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLRE",
       "sector": "Real Estate",
       "source": "FINRA",
-      "shortVolume": 1825960,
-      "totalVolume": 3594304,
-      "shortRatio": 0.5080149035807767,
-      "date": "2026-11-23"
+      "shortVolume": 1400952,
+      "totalVolume": 2029539,
+      "shortRatio": 0.6902808963020667,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLU",
       "sector": "Utilities",
       "source": "FINRA",
-      "shortVolume": 4837702,
-      "totalVolume": 16186431,
-      "shortRatio": 0.29887391482408937,
-      "date": "2026-11-23"
+      "shortVolume": 3282716,
+      "totalVolume": 5445421,
+      "shortRatio": 0.6028397069758242,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLV",
       "sector": "Healthcare",
       "source": "FINRA",
-      "shortVolume": 2475674,
-      "totalVolume": 4527413,
-      "shortRatio": 0.5468186798951189,
-      "date": "2026-11-23"
+      "shortVolume": 1961996,
+      "totalVolume": 3163928,
+      "shortRatio": 0.6201139848947258,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLY",
       "sector": "Consumer Cyclical",
       "source": "FINRA",
-      "shortVolume": 1327930,
-      "totalVolume": 3403262,
-      "shortRatio": 0.3901932910249049,
-      "date": "2026-11-23"
+      "shortVolume": 1466144,
+      "totalVolume": 2308621,
+      "shortRatio": 0.6350734919243999,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLB",
       "sector": "Basic Materials",
       "source": "NYSE_ARCA",
-      "shortVolume": 3051350,
-      "totalVolume": 4017464,
-      "shortRatio": 0.759521429439069,
-      "date": "2026-11-23"
+      "shortVolume": 1696609,
+      "totalVolume": 2694576,
+      "shortRatio": 0.6296385776463532,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLC",
       "sector": "Communication Services",
       "source": "NYSE_ARCA",
-      "shortVolume": 1198787,
-      "totalVolume": 1810958,
-      "shortRatio": 0.6619628947772395,
-      "date": "2026-11-23"
+      "shortVolume": 829495,
+      "totalVolume": 1177096,
+      "shortRatio": 0.7046961335354126,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLE",
       "sector": "Energy",
       "source": "NYSE_ARCA",
-      "shortVolume": 6917246,
-      "totalVolume": 9746359,
-      "shortRatio": 0.7097261654326503,
-      "date": "2026-11-23"
+      "shortVolume": 5213459,
+      "totalVolume": 7180214,
+      "shortRatio": 0.7260868547929072,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLF",
       "sector": "Financial",
       "source": "NYSE_ARCA",
-      "shortVolume": 8686080,
-      "totalVolume": 13684672,
-      "shortRatio": 0.6347305949313217,
-      "date": "2026-11-23"
+      "shortVolume": 4134238,
+      "totalVolume": 7040249,
+      "shortRatio": 0.5872289460216535,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLI",
       "sector": "Industrials",
       "source": "NYSE_ARCA",
-      "shortVolume": 1034864,
-      "totalVolume": 2013671,
-      "shortRatio": 0.5139191059512701,
-      "date": "2026-11-23"
+      "shortVolume": 819372,
+      "totalVolume": 1411390,
+      "shortRatio": 0.5805425856779487,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLK",
       "sector": "Technology",
       "source": "NYSE_ARCA",
-      "shortVolume": 2542338,
-      "totalVolume": 4881239,
-      "shortRatio": 0.5208386641178603,
-      "date": "2026-11-23"
+      "shortVolume": 1968037,
+      "totalVolume": 3357474,
+      "shortRatio": 0.5861659688206075,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLP",
       "sector": "Consumer Defensive",
       "source": "NYSE_ARCA",
-      "shortVolume": 4264668,
-      "totalVolume": 6104928,
-      "shortRatio": 0.6985615555171166,
-      "date": "2026-11-23"
+      "shortVolume": 4086292,
+      "totalVolume": 5876231,
+      "shortRatio": 0.6953933567281477,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLRE",
       "sector": "Real Estate",
       "source": "NYSE_ARCA",
-      "shortVolume": 1167499,
-      "totalVolume": 1827479,
-      "shortRatio": 0.6388576831799435,
-      "date": "2026-11-23"
+      "shortVolume": 1401837,
+      "totalVolume": 1964249,
+      "shortRatio": 0.7136758119769948,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLU",
       "sector": "Utilities",
       "source": "NYSE_ARCA",
-      "shortVolume": 5578629,
-      "totalVolume": 7478927,
-      "shortRatio": 0.7459130166666956,
-      "date": "2026-11-23"
+      "shortVolume": 3584233,
+      "totalVolume": 5403389,
+      "shortRatio": 0.6633305505119103,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLV",
       "sector": "Healthcare",
       "source": "NYSE_ARCA",
-      "shortVolume": 2312781,
-      "totalVolume": 3562477,
-      "shortRatio": 0.6492058755747756,
-      "date": "2026-11-23"
+      "shortVolume": 1902149,
+      "totalVolume": 3495247,
+      "shortRatio": 0.5442101802819658,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLY",
       "sector": "Consumer Cyclical",
       "source": "NYSE_ARCA",
-      "shortVolume": 2295345,
-      "totalVolume": 3723691,
-      "shortRatio": 0.6164166145902009,
-      "date": "2026-11-23"
+      "shortVolume": 1305224,
+      "totalVolume": 1875622,
+      "shortRatio": 0.6958886172160489,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLB",
       "sector": "Basic Materials",
       "source": "NASDAQ",
-      "shortVolume": 5738,
-      "totalVolume": 8882,
-      "shortRatio": 0.646025669894168,
-      "date": "2026-11-23"
+      "shortVolume": 3058,
+      "totalVolume": 3888,
+      "shortRatio": 0.786522633744856,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLC",
       "sector": "Communication Services",
       "source": "NASDAQ",
-      "shortVolume": 583,
-      "totalVolume": 1960,
-      "shortRatio": 0.29744897959183675,
-      "date": "2026-11-23"
+      "shortVolume": 4101,
+      "totalVolume": 8944,
+      "shortRatio": 0.4585196779964222,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLE",
       "sector": "Energy",
       "source": "NASDAQ",
-      "shortVolume": 26564,
-      "totalVolume": 115070,
-      "shortRatio": 0.2308507864777961,
-      "date": "2026-11-23"
+      "shortVolume": 16564,
+      "totalVolume": 49445,
+      "shortRatio": 0.33499848316311054,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLF",
       "sector": "Financial",
       "source": "NASDAQ",
-      "shortVolume": 11752,
-      "totalVolume": 46112,
-      "shortRatio": 0.2548577376821652,
-      "date": "2026-11-23"
+      "shortVolume": 16007,
+      "totalVolume": 44883,
+      "shortRatio": 0.35663837087538713,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLI",
       "sector": "Industrials",
       "source": "NASDAQ",
-      "shortVolume": 318483,
-      "totalVolume": 320203,
-      "shortRatio": 0.9946284076039262,
-      "date": "2026-11-23"
+      "shortVolume": 10137,
+      "totalVolume": 10412,
+      "shortRatio": 0.9735881674990395,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLK",
       "sector": "Technology",
       "source": "NASDAQ",
-      "shortVolume": 14926,
-      "totalVolume": 35627,
-      "shortRatio": 0.4189519184887866,
-      "date": "2026-11-23"
+      "shortVolume": 11423,
+      "totalVolume": 14553,
+      "shortRatio": 0.7849240706383563,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLP",
       "sector": "Consumer Defensive",
       "source": "NASDAQ",
-      "shortVolume": 27455,
-      "totalVolume": 44464,
-      "shortRatio": 0.6174658150413818,
-      "date": "2026-11-23"
+      "shortVolume": 19442,
+      "totalVolume": 32954,
+      "shortRatio": 0.5899739030163258,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLRE",
       "sector": "Real Estate",
       "source": "NASDAQ",
-      "shortVolume": 5136,
-      "totalVolume": 9868,
-      "shortRatio": 0.5204702067288204,
-      "date": "2026-11-23"
+      "shortVolume": 20589,
+      "totalVolume": 29283,
+      "shortRatio": 0.7031041901444525,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLU",
       "sector": "Utilities",
       "source": "NASDAQ",
-      "shortVolume": 16872,
-      "totalVolume": 36505,
-      "shortRatio": 0.46218326256677167,
-      "date": "2026-11-23"
+      "shortVolume": 15503,
+      "totalVolume": 22411,
+      "shortRatio": 0.6917585114452725,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLV",
       "sector": "Healthcare",
       "source": "NASDAQ",
-      "shortVolume": 8822,
-      "totalVolume": 20611,
-      "shortRatio": 0.42802387074862935,
-      "date": "2026-11-23"
+      "shortVolume": 9128,
+      "totalVolume": 19615,
+      "shortRatio": 0.4653581442773388,
+      "date": "2026-11-24"
     },
     {
       "ticker": "XLY",
       "sector": "Consumer Cyclical",
       "source": "NASDAQ",
-      "shortVolume": 2928,
-      "totalVolume": 5395,
-      "shortRatio": 0.5427247451343837,
-      "date": "2026-11-23"
+      "shortVolume": 4083,
+      "totalVolume": 8172,
+      "shortRatio": 0.49963289280469897,
+      "date": "2026-11-24"
     }
   ],
   "darkPoolAggregates": [
     {
       "ticker": "XLK",
       "sector": "Technology",
-      "date": "2026-11-23",
-      "finraRatio": 0.5090875232026888,
-      "arcaRatio": 0.5208386641178603,
-      "nasdaqRatio": 0.4189519184887866,
-      "combinedShortRatio": 0.5127270500677645,
-      "combinedShortVolume": 7628351,
-      "combinedTotalVolume": 14877996,
+      "date": "2026-11-24",
+      "finraRatio": 0.3563941605285427,
+      "arcaRatio": 0.5861659688206075,
+      "nasdaqRatio": 0.7849240706383563,
+      "combinedShortRatio": 0.4344757886383388,
+      "combinedShortVolume": 4327358,
+      "combinedTotalVolume": 9959952,
       "sourcesAgree": false,
-      "maxDivergence": 0.10188674562907368
+      "maxDivergence": 0.4285299101098136
     },
     {
       "ticker": "XLF",
       "sector": "Financial",
-      "date": "2026-11-23",
-      "finraRatio": 0.5384331791656646,
-      "arcaRatio": 0.6347305949313217,
-      "nasdaqRatio": 0.2548577376821652,
-      "combinedShortRatio": 0.5810945644530832,
-      "combinedShortVolume": 17771740,
-      "combinedTotalVolume": 30583215,
+      "date": "2026-11-24",
+      "finraRatio": 0.6069882129097597,
+      "arcaRatio": 0.5872289460216535,
+      "nasdaqRatio": 0.35663837087538713,
+      "combinedShortRatio": 0.5998027010391197,
+      "combinedShortVolume": 12550018,
+      "combinedTotalVolume": 20923577,
       "sourcesAgree": false,
-      "maxDivergence": 0.3798728572491565
+      "maxDivergence": 0.25034984203437255
     },
     {
       "ticker": "XLE",
       "sector": "Energy",
-      "date": "2026-11-23",
-      "finraRatio": 0.5129015628937834,
-      "arcaRatio": 0.7097261654326503,
-      "nasdaqRatio": 0.2308507864777961,
-      "combinedShortRatio": 0.6093796138519871,
-      "combinedShortVolume": 11911614,
-      "combinedTotalVolume": 19547116,
+      "date": "2026-11-24",
+      "finraRatio": 0.5778023550295264,
+      "arcaRatio": 0.7260868547929072,
+      "nasdaqRatio": 0.33499848316311054,
+      "combinedShortRatio": 0.6499031336002918,
+      "combinedShortVolume": 9488925,
+      "combinedTotalVolume": 14600522,
       "sourcesAgree": false,
-      "maxDivergence": 0.4788753789548542
+      "maxDivergence": 0.3910883716297967
     },
     {
       "ticker": "XLV",
       "sector": "Healthcare",
-      "date": "2026-11-23",
-      "finraRatio": 0.5468186798951189,
-      "arcaRatio": 0.6492058755747756,
-      "nasdaqRatio": 0.42802387074862935,
-      "combinedShortRatio": 0.5914896009506687,
-      "combinedShortVolume": 4797277,
-      "combinedTotalVolume": 8110501,
+      "date": "2026-11-24",
+      "finraRatio": 0.6201139848947258,
+      "arcaRatio": 0.5442101802819658,
+      "nasdaqRatio": 0.4653581442773388,
+      "combinedShortRatio": 0.5799363357733961,
+      "combinedShortVolume": 3873273,
+      "combinedTotalVolume": 6678790,
       "sourcesAgree": false,
-      "maxDivergence": 0.22118200482614625
+      "maxDivergence": 0.154755840617387
     },
     {
       "ticker": "XLY",
       "sector": "Consumer Cyclical",
-      "date": "2026-11-23",
-      "finraRatio": 0.3901932910249049,
-      "arcaRatio": 0.6164166145902009,
-      "nasdaqRatio": 0.5427247451343837,
-      "combinedShortRatio": 0.5084164429441749,
-      "combinedShortVolume": 3626203,
-      "combinedTotalVolume": 7132348,
+      "date": "2026-11-24",
+      "finraRatio": 0.6350734919243999,
+      "arcaRatio": 0.6958886172160489,
+      "nasdaqRatio": 0.49963289280469897,
+      "combinedShortRatio": 0.6620172382743598,
+      "combinedShortVolume": 2775451,
+      "combinedTotalVolume": 4192415,
       "sourcesAgree": false,
-      "maxDivergence": 0.226223323565296
+      "maxDivergence": 0.19625572441134992
     },
     {
       "ticker": "XLP",
       "sector": "Consumer Defensive",
-      "date": "2026-11-23",
-      "finraRatio": 0.619008630537846,
-      "arcaRatio": 0.6985615555171166,
-      "nasdaqRatio": 0.6174658150413818,
-      "combinedShortRatio": 0.6551598348109581,
-      "combinedShortVolume": 8800348,
-      "combinedTotalVolume": 13432368,
-      "sourcesAgree": true,
-      "maxDivergence": 0.08109574047573487
+      "date": "2026-11-24",
+      "finraRatio": 0.6235959763800217,
+      "arcaRatio": 0.6953933567281477,
+      "nasdaqRatio": 0.5899739030163258,
+      "combinedShortRatio": 0.6584670469261557,
+      "combinedShortVolume": 7945737,
+      "combinedTotalVolume": 12067023,
+      "sourcesAgree": false,
+      "maxDivergence": 0.10541945371182193
     },
     {
       "ticker": "XLI",
       "sector": "Industrials",
-      "date": "2026-11-23",
-      "finraRatio": 0.5014113561010387,
-      "arcaRatio": 0.5139191059512701,
-      "nasdaqRatio": 0.9946284076039262,
-      "combinedShortRatio": 0.5336624736848872,
-      "combinedShortVolume": 3030040,
-      "combinedTotalVolume": 5677821,
+      "date": "2026-11-24",
+      "finraRatio": 0.6338339265688234,
+      "arcaRatio": 0.5805425856779487,
+      "nasdaqRatio": 0.9735881674990395,
+      "combinedShortRatio": 0.6143446937727854,
+      "combinedShortVolume": 2259432,
+      "combinedTotalVolume": 3677792,
       "sourcesAgree": false,
-      "maxDivergence": 0.4932170515028875
+      "maxDivergence": 0.39304558182109084
     },
     {
       "ticker": "XLB",
       "sector": "Basic Materials",
-      "date": "2026-11-23",
-      "finraRatio": 0.539919194797529,
-      "arcaRatio": 0.759521429439069,
-      "nasdaqRatio": 0.646025669894168,
-      "combinedShortRatio": 0.6582218881810831,
-      "combinedShortVolume": 4913943,
-      "combinedTotalVolume": 7465481,
+      "date": "2026-11-24",
+      "finraRatio": 0.7842361179416449,
+      "arcaRatio": 0.6296385776463532,
+      "nasdaqRatio": 0.786522633744856,
+      "combinedShortRatio": 0.7266424456665859,
+      "combinedShortVolume": 5255690,
+      "combinedTotalVolume": 7232842,
       "sourcesAgree": false,
-      "maxDivergence": 0.21960223464153994
+      "maxDivergence": 0.15688405609850276
     },
     {
       "ticker": "XLC",
       "sector": "Communication Services",
-      "date": "2026-11-23",
-      "finraRatio": 0.474561956054686,
-      "arcaRatio": 0.6619628947772395,
-      "nasdaqRatio": 0.29744897959183675,
-      "combinedShortRatio": 0.5415707982661366,
-      "combinedShortVolume": 2740052,
-      "combinedTotalVolume": 5059453,
+      "date": "2026-11-24",
+      "finraRatio": 0.42235309895051126,
+      "arcaRatio": 0.7046961335354126,
+      "nasdaqRatio": 0.4585196779964222,
+      "combinedShortRatio": 0.494072307691976,
+      "combinedShortVolume": 2291746,
+      "combinedTotalVolume": 4638483,
       "sourcesAgree": false,
-      "maxDivergence": 0.3645139151854027
+      "maxDivergence": 0.28234303458490134
     },
     {
       "ticker": "XLRE",
       "sector": "Real Estate",
-      "date": "2026-11-23",
-      "finraRatio": 0.5080149035807767,
-      "arcaRatio": 0.6388576831799435,
-      "nasdaqRatio": 0.5204702067288204,
-      "combinedShortRatio": 0.5520595855661566,
-      "combinedShortVolume": 2998595,
-      "combinedTotalVolume": 5431651,
-      "sourcesAgree": false,
-      "maxDivergence": 0.1308427795991668
+      "date": "2026-11-24",
+      "finraRatio": 0.6902808963020667,
+      "arcaRatio": 0.7136758119769948,
+      "nasdaqRatio": 0.7031041901444525,
+      "combinedShortRatio": 0.7017967120142796,
+      "combinedShortVolume": 2823378,
+      "combinedTotalVolume": 4023071,
+      "sourcesAgree": true,
+      "maxDivergence": 0.02339491567492813
     },
     {
       "ticker": "XLU",
       "sector": "Utilities",
-      "date": "2026-11-23",
-      "finraRatio": 0.29887391482408937,
-      "arcaRatio": 0.7459130166666956,
-      "nasdaqRatio": 0.46218326256677167,
-      "combinedShortRatio": 0.4401849339859909,
-      "combinedShortVolume": 10433203,
-      "combinedTotalVolume": 23701863,
-      "sourcesAgree": false,
-      "maxDivergence": 0.44703910184260626
+      "date": "2026-11-24",
+      "finraRatio": 0.6028397069758242,
+      "arcaRatio": 0.6633305505119103,
+      "nasdaqRatio": 0.6917585114452725,
+      "combinedShortRatio": 0.6330891442644759,
+      "combinedShortVolume": 6882452,
+      "combinedTotalVolume": 10871221,
+      "sourcesAgree": true,
+      "maxDivergence": 0.08891880446944822
     }
   ],
   "darkPoolTrends": [
     {
       "ticker": "XLK",
       "sector": "Technology",
-      "shortRatio1d": 0.5127270500677645,
-      "shortRatio5d": 0.4317009671259403,
-      "shortRatio20d": 0.4606398075301629,
+      "shortRatio1d": 0.4344757886383388,
+      "shortRatio5d": 0.43586225374541526,
+      "shortRatio20d": 0.4614330113473029,
       "trend": "STABLE",
-      "trendStrength": -0.02893884040422262,
+      "trendStrength": -0.02557075760188765,
       "daysOfData": 25,
       "sourcesAgree": false,
-      "maxDivergence": 0.10188674562907368
+      "maxDivergence": 0.4285299101098136
     },
     {
       "ticker": "XLF",
       "sector": "Financial",
-      "shortRatio1d": 0.5810945644530832,
-      "shortRatio5d": 0.6050314395921574,
-      "shortRatio20d": 0.6202292463841476,
-      "trend": "STABLE",
-      "trendStrength": -0.01519780679199012,
+      "shortRatio1d": 0.5998027010391197,
+      "shortRatio5d": 0.5875376956216266,
+      "shortRatio20d": 0.6262821558101556,
+      "trend": "DECREASING",
+      "trendStrength": -0.03874446018852895,
       "daysOfData": 25,
       "sourcesAgree": false,
-      "maxDivergence": 0.3798728572491565
+      "maxDivergence": 0.25034984203437255
     },
     {
       "ticker": "XLE",
       "sector": "Energy",
-      "shortRatio1d": 0.6093796138519871,
-      "shortRatio5d": 0.514469376230042,
-      "shortRatio20d": 0.5626717515298896,
+      "shortRatio1d": 0.6499031336002918,
+      "shortRatio5d": 0.5207913139010834,
+      "shortRatio20d": 0.5540672319101969,
       "trend": "DECREASING",
-      "trendStrength": -0.04820237529984761,
+      "trendStrength": -0.03327591800911356,
       "daysOfData": 25,
       "sourcesAgree": false,
-      "maxDivergence": 0.4788753789548542
+      "maxDivergence": 0.3910883716297967
     },
     {
       "ticker": "XLV",
       "sector": "Healthcare",
-      "shortRatio1d": 0.5914896009506687,
-      "shortRatio5d": 0.49353658957519037,
-      "shortRatio20d": 0.584295870343457,
+      "shortRatio1d": 0.5799363357733961,
+      "shortRatio5d": 0.4875532364199068,
+      "shortRatio20d": 0.5799436261326816,
       "trend": "DECREASING",
-      "trendStrength": -0.09075928076826661,
+      "trendStrength": -0.0923903897127748,
       "daysOfData": 25,
       "sourcesAgree": false,
-      "maxDivergence": 0.22118200482614625
+      "maxDivergence": 0.154755840617387
     },
     {
       "ticker": "XLY",
       "sector": "Consumer Cyclical",
-      "shortRatio1d": 0.5084164429441749,
-      "shortRatio5d": 0.521017595700037,
-      "shortRatio20d": 0.6017481191133301,
+      "shortRatio1d": 0.6620172382743598,
+      "shortRatio5d": 0.5310262540012334,
+      "shortRatio20d": 0.5964172509839973,
       "trend": "DECREASING",
-      "trendStrength": -0.08073052341329312,
+      "trendStrength": -0.06539099698276396,
       "daysOfData": 25,
       "sourcesAgree": false,
-      "maxDivergence": 0.226223323565296
+      "maxDivergence": 0.19625572441134992
     },
     {
       "ticker": "XLP",
       "sector": "Consumer Defensive",
-      "shortRatio1d": 0.6551598348109581,
-      "shortRatio5d": 0.6894990331458348,
-      "shortRatio20d": 0.6147282949584445,
+      "shortRatio1d": 0.6584670469261557,
+      "shortRatio5d": 0.6834519702266516,
+      "shortRatio20d": 0.6207286993610979,
       "trend": "INCREASING",
-      "trendStrength": 0.07477073818739033,
+      "trendStrength": 0.06272327086555374,
       "daysOfData": 25,
-      "sourcesAgree": true,
-      "maxDivergence": 0.08109574047573487
+      "sourcesAgree": false,
+      "maxDivergence": 0.10541945371182193
     },
     {
       "ticker": "XLI",
       "sector": "Industrials",
-      "shortRatio1d": 0.5336624736848872,
-      "shortRatio5d": 0.5805924745891147,
-      "shortRatio20d": 0.5944707691469552,
+      "shortRatio1d": 0.6143446937727854,
+      "shortRatio5d": 0.5884448560221238,
+      "shortRatio20d": 0.598411956000062,
       "trend": "STABLE",
-      "trendStrength": -0.01387829455784051,
+      "trendStrength": -0.00996709997793821,
       "daysOfData": 25,
       "sourcesAgree": false,
-      "maxDivergence": 0.4932170515028875
+      "maxDivergence": 0.39304558182109084
     },
     {
       "ticker": "XLB",
       "sector": "Basic Materials",
-      "shortRatio1d": 0.6582218881810831,
-      "shortRatio5d": 0.672331688595664,
-      "shortRatio20d": 0.6625178978642532,
+      "shortRatio1d": 0.7266424456665859,
+      "shortRatio5d": 0.649940089011299,
+      "shortRatio20d": 0.6603579013899397,
       "trend": "STABLE",
-      "trendStrength": 0.009813790731410754,
+      "trendStrength": -0.0104178123786407,
       "daysOfData": 25,
       "sourcesAgree": false,
-      "maxDivergence": 0.21960223464153994
+      "maxDivergence": 0.15688405609850276
     },
     {
       "ticker": "XLC",
       "sector": "Communication Services",
-      "shortRatio1d": 0.5415707982661366,
-      "shortRatio5d": 0.536243980417977,
-      "shortRatio20d": 0.573353871442824,
+      "shortRatio1d": 0.494072307691976,
+      "shortRatio5d": 0.5204910808379971,
+      "shortRatio20d": 0.5611981242280398,
       "trend": "DECREASING",
-      "trendStrength": -0.037109891024846964,
+      "trendStrength": -0.04070704339004272,
       "daysOfData": 25,
       "sourcesAgree": false,
-      "maxDivergence": 0.3645139151854027
+      "maxDivergence": 0.28234303458490134
     },
     {
       "ticker": "XLRE",
       "sector": "Real Estate",
-      "shortRatio1d": 0.5520595855661566,
-      "shortRatio5d": 0.6098263823731271,
-      "shortRatio20d": 0.7091946406798377,
+      "shortRatio1d": 0.7017967120142796,
+      "shortRatio5d": 0.592195352587075,
+      "shortRatio20d": 0.7030854626404783,
       "trend": "DECREASING",
-      "trendStrength": -0.09936825830671059,
+      "trendStrength": -0.11089011005340332,
       "daysOfData": 25,
-      "sourcesAgree": false,
-      "maxDivergence": 0.1308427795991668
+      "sourcesAgree": true,
+      "maxDivergence": 0.02339491567492813
     },
     {
       "ticker": "XLU",
       "sector": "Utilities",
-      "shortRatio1d": 0.4401849339859909,
-      "shortRatio5d": 0.5657746505803989,
-      "shortRatio20d": 0.5546688954965184,
+      "shortRatio1d": 0.6330891442644759,
+      "shortRatio5d": 0.530782517478999,
+      "shortRatio20d": 0.5482319630568511,
       "trend": "STABLE",
-      "trendStrength": 0.011105755083880453,
+      "trendStrength": -0.017449445577852107,
       "daysOfData": 25,
-      "sourcesAgree": false,
-      "maxDivergence": 0.44703910184260626
+      "sourcesAgree": true,
+      "maxDivergence": 0.08891880446944822
     }
   ],
   "optionsData": [
     {
       "ticker": "XLK",
       "sector": "Technology",
-      "putVolume": 3532,
-      "callVolume": 722,
-      "putCallRatio": 4.89196675900277,
-      "putOpenInterest": 4400,
-      "callOpenInterest": 2583,
-      "putCallOIRatio": 1.7034456058846303,
-      "impliedVolatility": 0.4562890065002441,
-      "date": "2026-11-24"
+      "putVolume": 631,
+      "callVolume": 877,
+      "putCallRatio": 0.7194982896237172,
+      "putOpenInterest": 4608,
+      "callOpenInterest": 2903,
+      "putCallOIRatio": 1.587323458491216,
+      "impliedVolatility": 0.5090347219848632,
+      "date": "2026-11-25"
     },
     {
       "ticker": "XLF",
       "sector": "Financial",
-      "putVolume": 452,
-      "callVolume": 1929,
-      "putCallRatio": 0.23431829963711767,
-      "putOpenInterest": 1923,
-      "callOpenInterest": 2261,
-      "putCallOIRatio": 0.8505086245024326,
-      "impliedVolatility": 0.26424263408954324,
-      "date": "2026-11-24"
+      "putVolume": 890,
+      "callVolume": 386,
+      "putCallRatio": 2.305699481865285,
+      "putOpenInterest": 1956,
+      "callOpenInterest": 3657,
+      "putCallOIRatio": 0.534864643150123,
+      "impliedVolatility": 0.2389340895298549,
+      "date": "2026-11-25"
     },
     {
       "ticker": "XLE",
       "sector": "Energy",
-      "putVolume": 298,
-      "callVolume": 342,
-      "putCallRatio": 0.8713450292397661,
-      "putOpenInterest": 1182,
-      "callOpenInterest": 692,
-      "putCallOIRatio": 1.7080924855491328,
-      "impliedVolatility": 0.5692181750488283,
-      "date": "2026-11-24"
+      "putVolume": 308,
+      "callVolume": 329,
+      "putCallRatio": 0.9361702127659575,
+      "putOpenInterest": 1317,
+      "callOpenInterest": 834,
+      "putCallOIRatio": 1.579136690647482,
+      "impliedVolatility": 0.3268238356236049,
+      "date": "2026-11-25"
     },
     {
       "ticker": "XLV",
       "sector": "Healthcare",
-      "putVolume": 837,
-      "callVolume": 428,
-      "putCallRatio": 1.955607476635514,
-      "putOpenInterest": 1887,
-      "callOpenInterest": 338,
-      "putCallOIRatio": 5.5828402366863905,
-      "impliedVolatility": 0.3249714855957031,
-      "date": "2026-11-24"
+      "putVolume": 2035,
+      "callVolume": 490,
+      "putCallRatio": 4.153061224489796,
+      "putOpenInterest": 2112,
+      "callOpenInterest": 846,
+      "putCallOIRatio": 2.49645390070922,
+      "impliedVolatility": 0.29463595996093744,
+      "date": "2026-11-25"
     },
     {
       "ticker": "XLY",
       "sector": "Consumer Cyclical",
-      "putVolume": 209,
-      "callVolume": 50,
-      "putCallRatio": 4.18,
-      "putOpenInterest": 379,
-      "callOpenInterest": 226,
-      "putCallOIRatio": 1.676991150442478,
-      "impliedVolatility": 0.43755445263671877,
-      "date": "2026-11-24"
+      "putVolume": 207,
+      "callVolume": 51,
+      "putCallRatio": 4.0588235294117645,
+      "putOpenInterest": 554,
+      "callOpenInterest": 375,
+      "putCallOIRatio": 1.4773333333333334,
+      "impliedVolatility": 0.43437621737393467,
+      "date": "2026-11-25"
     },
     {
       "ticker": "XLP",
       "sector": "Consumer Defensive",
-      "putVolume": 1075,
-      "callVolume": 418,
-      "putCallRatio": 2.5717703349282295,
-      "putOpenInterest": 842,
-      "callOpenInterest": 488,
-      "putCallOIRatio": 1.7254098360655739,
-      "impliedVolatility": 0.41790743231201166,
-      "date": "2026-11-24"
+      "putVolume": 1422,
+      "callVolume": 1160,
+      "putCallRatio": 1.2258620689655173,
+      "putOpenInterest": 1388,
+      "callOpenInterest": 558,
+      "putCallOIRatio": 2.4874551971326166,
+      "impliedVolatility": 0.24058248117547287,
+      "date": "2026-11-25"
     },
     {
       "ticker": "XLI",
       "sector": "Industrials",
-      "putVolume": 1465,
-      "callVolume": 677,
-      "putCallRatio": 2.1639586410635157,
-      "putOpenInterest": 1603,
-      "callOpenInterest": 1416,
-      "putCallOIRatio": 1.1320621468926553,
-      "impliedVolatility": 0.34696642475474954,
-      "date": "2026-11-24"
+      "putVolume": 1275,
+      "callVolume": 412,
+      "putCallRatio": 3.0946601941747574,
+      "putOpenInterest": 1765,
+      "callOpenInterest": 1870,
+      "putCallOIRatio": 0.9438502673796791,
+      "impliedVolatility": 0.37277340286254884,
+      "date": "2026-11-25"
     },
     {
       "ticker": "XLB",
       "sector": "Basic Materials",
-      "putVolume": 162,
-      "callVolume": 57,
-      "putCallRatio": 2.8421052631578947,
-      "putOpenInterest": 183,
-      "callOpenInterest": 766,
-      "putCallOIRatio": 0.23890339425587467,
-      "impliedVolatility": 0.7057646611328126,
-      "date": "2026-11-24"
+      "putVolume": 1300,
+      "callVolume": 657,
+      "putCallRatio": 1.97869101978691,
+      "putOpenInterest": 184,
+      "callOpenInterest": 794,
+      "putCallOIRatio": 0.23173803526448364,
+      "impliedVolatility": 0.7950459948730468,
+      "date": "2026-11-25"
     },
     {
       "ticker": "XLC",
       "sector": "Communication Services",
-      "putVolume": 19,
-      "callVolume": 46,
-      "putCallRatio": 0.41304347826086957,
+      "putVolume": 205,
+      "callVolume": 57,
+      "putCallRatio": 3.5964912280701755,
       "putOpenInterest": 68,
-      "callOpenInterest": 49,
-      "putCallOIRatio": 1.3877551020408163,
-      "impliedVolatility": 0.4821422229003906,
-      "date": "2026-11-24"
+      "callOpenInterest": 42,
+      "putCallOIRatio": 1.619047619047619,
+      "impliedVolatility": 0.4452657315499442,
+      "date": "2026-11-25"
     },
     {
       "ticker": "XLRE",
       "sector": "Real Estate",
-      "putVolume": 112,
-      "callVolume": 520,
-      "putCallRatio": 0.2153846153846154,
-      "putOpenInterest": 404,
-      "callOpenInterest": 2099,
-      "putCallOIRatio": 0.1924726060028585,
-      "impliedVolatility": 0.2657951025390625,
-      "date": "2026-11-24"
+      "putVolume": 20,
+      "callVolume": 118,
+      "putCallRatio": 0.1694915254237288,
+      "putOpenInterest": 474,
+      "callOpenInterest": 2141,
+      "putCallOIRatio": 0.22139187295656235,
+      "impliedVolatility": 0.4245663012695313,
+      "date": "2026-11-25"
     },
     {
       "ticker": "XLU",
       "sector": "Utilities",
-      "putVolume": 121,
-      "callVolume": 90,
-      "putCallRatio": 1.3444444444444446,
-      "putOpenInterest": 300,
-      "callOpenInterest": 1423,
-      "putCallOIRatio": 0.21082220660576248,
-      "impliedVolatility": 0.49829603271484374,
-      "date": "2026-11-24"
+      "putVolume": 118,
+      "callVolume": 127,
+      "putCallRatio": 0.9291338582677166,
+      "putOpenInterest": 363,
+      "callOpenInterest": 1450,
+      "putCallOIRatio": 0.2503448275862069,
+      "impliedVolatility": 0.23085621582031252,
+      "date": "2026-11-25"
     }
   ],
   "sectorTrends": [
     {
       "ticker": "XLP",
       "label": "Consumer Defensive",
-      "sma20": 0.01,
-      "sma50": 4.47,
-      "sma200": 6.28,
-      "rsi": 54.3,
+      "sma20": 1.41,
+      "sma50": 6,
+      "sma200": 8.02,
+      "rsi": 59.91,
+      "trendPhase": "ESTABLISHED_UPTREND"
+    },
+    {
+      "ticker": "XLV",
+      "label": "Healthcare",
+      "sma20": 0.05,
+      "sma50": 4.32,
+      "sma200": 14.65,
+      "rsi": 55.45,
       "trendPhase": "ESTABLISHED_UPTREND"
     },
     {
       "ticker": "XLU",
       "label": "Utilities",
-      "sma20": -0.22,
-      "sma50": 3.21,
-      "sma200": -2.29,
-      "rsi": 53.34,
+      "sma20": -0.1,
+      "sma50": 3.3,
+      "sma200": -2.11,
+      "rsi": 54.2,
       "trendPhase": "EARLY_UPTREND"
     },
     {
       "ticker": "XLY",
       "label": "Consumer Cyclical",
-      "sma20": -0.85,
-      "sma50": 2.36,
-      "sma200": 1.38,
-      "rsi": 50.42,
-      "trendPhase": "EARLY_UPTREND"
-    },
-    {
-      "ticker": "XLV",
-      "label": "Healthcare",
-      "sma20": -2.68,
-      "sma50": 1.52,
-      "sma200": 11.45,
-      "rsi": 45.64,
-      "trendPhase": "PULLBACK_IN_UPTREND"
+      "sma20": -0.27,
+      "sma50": 2.92,
+      "sma200": 2.06,
+      "rsi": 52.03,
+      "trendPhase": "ESTABLISHED_UPTREND"
     },
     {
       "ticker": "XLRE",
       "label": "Real Estate",
-      "sma20": -1.8,
-      "sma50": 0.77,
-      "sma200": -1.48,
-      "rsi": 45.66,
-      "trendPhase": "NEUTRAL"
+      "sma20": -0.64,
+      "sma50": 2.07,
+      "sma200": -0.21,
+      "rsi": 51.29,
+      "trendPhase": "EARLY_UPTREND"
     },
     {
       "ticker": "XLF",
       "label": "Financial",
-      "sma20": -2.65,
-      "sma50": -0.35,
-      "sma200": 3.01,
-      "rsi": 44.39,
-      "trendPhase": "PULLBACK_IN_UPTREND"
+      "sma20": -1.87,
+      "sma50": 0.5,
+      "sma200": 3.84,
+      "rsi": 47.14,
+      "trendPhase": "NEUTRAL"
     },
     {
       "ticker": "XLB",
       "label": "Basic Materials",
-      "sma20": -3.78,
-      "sma50": -1.72,
-      "sma200": -2.59,
-      "rsi": 42.38,
+      "sma20": -3.1,
+      "sma50": -1.17,
+      "sma200": -2.04,
+      "rsi": 44.14,
       "trendPhase": "NEUTRAL"
-    },
-    {
-      "ticker": "XLI",
-      "label": "Industrials",
-      "sma20": -2.47,
-      "sma50": -3.16,
-      "sma200": -6.23,
-      "rsi": 43.71,
-      "trendPhase": "ESTABLISHED_DOWNTREND"
     },
     {
       "ticker": "XLC",
       "label": "Communication Services",
-      "sma20": -0.75,
-      "sma50": -4.42,
-      "sma200": -7.46,
-      "rsi": 44.4,
+      "sma20": 0.02,
+      "sma50": -3.47,
+      "sma200": -6.65,
+      "rsi": 46.65,
+      "trendPhase": "ESTABLISHED_DOWNTREND"
+    },
+    {
+      "ticker": "XLI",
+      "label": "Industrials",
+      "sma20": -2.8,
+      "sma50": -3.59,
+      "sma200": -6.7,
+      "rsi": 42.5,
       "trendPhase": "ESTABLISHED_DOWNTREND"
     },
     {
       "ticker": "XLE",
       "label": "Energy",
-      "sma20": -6.64,
-      "sma50": -7.33,
-      "sma200": 0.17,
-      "rsi": 32.85,
+      "sma20": -5.16,
+      "sma50": -6.27,
+      "sma200": 1.09,
+      "rsi": 36.1,
       "trendPhase": "EARLY_DOWNTREND"
     },
     {
       "ticker": "XLK",
       "label": "Technology",
-      "sma20": -5.19,
-      "sma50": -11.74,
-      "sma200": -5.27,
-      "rsi": 41.15,
+      "sma20": -7.4,
+      "sma50": -14.37,
+      "sma200": -8.39,
+      "rsi": 37.76,
       "trendPhase": "ESTABLISHED_DOWNTREND"
     }
   ],
@@ -2502,118 +2488,118 @@
     {
       "ticker": "TLT",
       "label": "20年期以上美債",
-      "sma20": 0.86,
-      "sma50": 2,
-      "sma200": -2.86,
-      "rsi": 59.46,
+      "sma20": 0.62,
+      "sma50": 1.73,
+      "sma200": -3.06,
+      "rsi": 57.42,
       "trendPhase": "NEUTRAL"
     },
     {
       "ticker": "IEF",
       "label": "7-10年期美債",
-      "sma20": 0.56,
-      "sma50": 1.27,
-      "sma200": -1.97,
+      "sma20": 0.53,
+      "sma50": 1.26,
+      "sma200": -1.95,
       "rsi": 59.6,
       "trendPhase": "NEUTRAL"
     },
     {
       "ticker": "SHY",
       "label": "1-3年期美債",
-      "sma20": 0.16,
-      "sma50": 0.31,
-      "sma200": -0.52,
+      "sma20": 0.15,
+      "sma50": 0.3,
+      "sma200": -0.51,
       "rsi": 57.53,
       "trendPhase": "NEUTRAL"
     },
     {
       "ticker": "BIL",
       "label": "短債／現金",
-      "sma20": 0.07,
-      "sma50": 0.06,
-      "sma200": 0.08,
-      "rsi": 60.5,
+      "sma20": 0.08,
+      "sma50": 0.07,
+      "sma200": 0.09,
+      "rsi": 61.89,
       "trendPhase": "NEUTRAL"
     },
     {
       "ticker": "EFA",
       "label": "已發展市場",
-      "sma20": -3.75,
-      "sma50": -4.57,
-      "sma200": -4.47,
-      "rsi": 38.86,
+      "sma20": -3.41,
+      "sma50": -4.34,
+      "sma200": -4.33,
+      "rsi": 39.32,
       "trendPhase": "ESTABLISHED_DOWNTREND"
     },
     {
       "ticker": "SPY",
       "label": "標普500",
-      "sma20": -3.13,
-      "sma50": -4.89,
-      "sma200": -1.45,
-      "rsi": 41.51,
+      "sma20": -3.27,
+      "sma50": -5.25,
+      "sma200": -1.95,
+      "rsi": 40.47,
       "trendPhase": "EARLY_DOWNTREND"
-    },
-    {
-      "ticker": "EEM",
-      "label": "新興市場",
-      "sma20": -3.63,
-      "sma50": -9.03,
-      "sma200": -9.51,
-      "rsi": 41.86,
-      "trendPhase": "ESTABLISHED_DOWNTREND"
     },
     {
       "ticker": "DBC",
       "label": "商品指數",
-      "sma20": -7.03,
-      "sma50": -10.02,
-      "sma200": -2.21,
-      "rsi": 20.74,
-      "trendPhase": "ESTABLISHED_DOWNTREND"
-    },
-    {
-      "ticker": "GLD",
-      "label": "黃金",
-      "sma20": -7.15,
-      "sma50": -10.89,
-      "sma200": -17.82,
-      "rsi": 32.9,
+      "sma20": -6.6,
+      "sma50": -10.01,
+      "sma200": -2.55,
+      "rsi": 20.3,
       "trendPhase": "ESTABLISHED_DOWNTREND"
     },
     {
       "ticker": "USO",
       "label": "石油",
-      "sma20": -10.17,
-      "sma50": -11.8,
-      "sma200": 3,
-      "rsi": 33.92,
+      "sma20": -7.9,
+      "sma50": -10.12,
+      "sma200": 4.37,
+      "rsi": 37.06,
       "trendPhase": "EARLY_DOWNTREND"
+    },
+    {
+      "ticker": "EEM",
+      "label": "新興市場",
+      "sma20": -5.07,
+      "sma50": -10.57,
+      "sma200": -11.26,
+      "rsi": 39.18,
+      "trendPhase": "ESTABLISHED_DOWNTREND"
+    },
+    {
+      "ticker": "GLD",
+      "label": "黃金",
+      "sma20": -8.67,
+      "sma50": -12.59,
+      "sma200": -19.54,
+      "rsi": 29.99,
+      "trendPhase": "ESTABLISHED_DOWNTREND"
     },
     {
       "ticker": "GDX",
       "label": "金礦股",
-      "sma20": -9.76,
-      "sma50": -14.86,
-      "sma200": -18.15,
-      "rsi": 38.07,
+      "sma20": -10.88,
+      "sma50": -16.09,
+      "sma200": -19.61,
+      "rsi": 36.56,
       "trendPhase": "ESTABLISHED_DOWNTREND"
     },
     {
       "ticker": "IBIT",
       "label": "比特幣ETF",
-      "sma20": -15.16,
-      "sma50": -21.97,
-      "sma200": -15.25,
-      "rsi": 26.8,
+      "sma20": -16.04,
+      "sma50": -23.59,
+      "sma200": -17.29,
+      "rsi": 25.16,
       "trendPhase": "ESTABLISHED_DOWNTREND"
     },
     {
       "ticker": "BITO",
       "label": "比特幣期貨",
-      "sma20": -15.39,
-      "sma50": -22.43,
-      "sma200": -16.98,
-      "rsi": 26.56,
+      "sma20": -16.18,
+      "sma50": -23.96,
+      "sma200": -18.9,
+      "rsi": 25,
       "trendPhase": "ESTABLISHED_DOWNTREND"
     }
   ],
@@ -2621,39 +2607,15 @@
     "deploy_momentum": {
       "sector": [
         {
-          "ticker": "XLY",
-          "label": "Consumer Cyclical",
+          "ticker": "XLRE",
+          "label": "Real Estate",
           "action": "BUY",
           "confidence": 75,
           "rationale": "新升勢形成，獲資金流入確認",
           "factors": [
             "趨勢：早期升勢",
-            "RSI 50（中性）",
-            "輪動：INFLOW（排名變動：+3）"
-          ]
-        },
-        {
-          "ticker": "XLV",
-          "label": "Healthcare",
-          "action": "BUY",
-          "confidence": 70,
-          "rationale": "升勢回調兼 RSI 偏弱 — 均值回歸入場",
-          "factors": [
-            "趨勢：升勢回調",
-            "RSI 46（中性）",
-            "輪動：OUTFLOW（排名變動：-8）"
-          ]
-        },
-        {
-          "ticker": "XLF",
-          "label": "Financial",
-          "action": "BUY",
-          "confidence": 70,
-          "rationale": "升勢回調兼 RSI 偏弱 — 均值回歸入場",
-          "factors": [
-            "趨勢：升勢回調",
-            "RSI 44（中性）",
-            "輪動：OUTFLOW（排名變動：-4）"
+            "RSI 51（中性）",
+            "輪動：INFLOW（排名變動：+2）"
           ]
         },
         {
@@ -2664,8 +2626,8 @@
           "rationale": "早期升勢 — 高於 SMA50，等待資金流確認",
           "factors": [
             "趨勢：早期升勢",
-            "RSI 53（中性）",
-            "輪動：OUTFLOW（排名變動：-2）"
+            "RSI 54（中性）",
+            "輪動：NEUTRAL（排名變動：+2）"
           ]
         },
         {
@@ -2673,24 +2635,50 @@
           "label": "Consumer Defensive",
           "action": "HOLD",
           "confidence": 60,
+          "rationale": "升勢確立兼有資金流入，但暫未見回調（高於 SMA20 1.4%）— 等回調再加倉",
+          "factors": [
+            "趨勢：升勢確立",
+            "RSI 60（中性）",
+            "輪動：INFLOW（排名變動：0）",
+            "均線多頭排列（20>50>200）",
+            "未見回調：價格仍高於 20 天線"
+          ]
+        },
+        {
+          "ticker": "XLV",
+          "label": "Healthcare",
+          "action": "HOLD",
+          "confidence": 60,
           "rationale": "升勢確立 — 維持倉位，無需急於加倉",
           "factors": [
             "趨勢：升勢確立",
-            "RSI 54（中性）",
-            "輪動：OUTFLOW（排名變動：-5）",
+            "RSI 55（中性）",
+            "輪動：NEUTRAL（排名變動：-2）",
             "均線多頭排列（20>50>200）"
           ]
         },
         {
-          "ticker": "XLRE",
-          "label": "Real Estate",
+          "ticker": "XLY",
+          "label": "Consumer Cyclical",
+          "action": "HOLD",
+          "confidence": 60,
+          "rationale": "升勢確立 — 維持倉位，無需急於加倉",
+          "factors": [
+            "趨勢：升勢確立",
+            "RSI 52（中性）",
+            "輪動：NEUTRAL（排名變動：0）"
+          ]
+        },
+        {
+          "ticker": "XLF",
+          "label": "Financial",
           "action": "HOLD",
           "confidence": 35,
           "rationale": "訊號未明 — 等趨勢形成",
           "factors": [
             "趨勢：中性",
-            "RSI 46（中性）",
-            "輪動：NEUTRAL（排名變動：0）"
+            "RSI 47（中性）",
+            "輪動：OUTFLOW（排名變動：-3）"
           ]
         },
         {
@@ -2701,21 +2689,8 @@
           "rationale": "訊號未明 — 等趨勢形成",
           "factors": [
             "趨勢：中性",
-            "RSI 42（中性）",
-            "輪動：NEUTRAL（排名變動：0）",
-            "均線空頭排列（價格低於所有均線）"
-          ]
-        },
-        {
-          "ticker": "XLI",
-          "label": "Industrials",
-          "action": "SELL",
-          "confidence": 80,
-          "rationale": "低於 SMA50 及 SMA200 — 跌勢確立，避開",
-          "factors": [
-            "趨勢：跌勢確立",
             "RSI 44（中性）",
-            "輪動：INFLOW（排名變動：+6）",
+            "輪動：NEUTRAL（排名變動：+1）",
             "均線空頭排列（價格低於所有均線）"
           ]
         },
@@ -2727,8 +2702,20 @@
           "rationale": "低於 SMA50 及 SMA200 — 跌勢確立，避開",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 44（中性）",
-            "輪動：NEUTRAL（排名變動：+8）",
+            "RSI 47（中性）",
+            "輪動：NEUTRAL（排名變動：+5）"
+          ]
+        },
+        {
+          "ticker": "XLI",
+          "label": "Industrials",
+          "action": "SELL",
+          "confidence": 80,
+          "rationale": "低於 SMA50 及 SMA200 — 跌勢確立，避開",
+          "factors": [
+            "趨勢：跌勢確立",
+            "RSI 43（中性）",
+            "輪動：OUTFLOW（排名變動：0）",
             "均線空頭排列（價格低於所有均線）"
           ]
         },
@@ -2740,8 +2727,8 @@
           "rationale": "低於 SMA50 及 SMA200 — 跌勢確立，避開",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 41（中性）",
-            "輪動：INFLOW（排名變動：+7）",
+            "RSI 38（偏弱）",
+            "輪動：OUTFLOW（排名變動：0）",
             "均線空頭排列（價格低於所有均線）"
           ]
         },
@@ -2753,7 +2740,7 @@
           "rationale": "跌穿 SMA50 兼資金流出 — 趨勢轉壞",
           "factors": [
             "趨勢：早期跌勢",
-            "RSI 33（偏弱）",
+            "RSI 36（偏弱）",
             "輪動：OUTFLOW（排名變動：-5）"
           ]
         }
@@ -2767,8 +2754,8 @@
           "rationale": "訊號未明 — 等趨勢形成",
           "factors": [
             "趨勢：中性",
-            "RSI 59（中性）",
-            "資金流：NEUTRAL（評分 1.6）"
+            "RSI 57（中性）",
+            "資金流：NEUTRAL（評分 0.9）"
           ]
         },
         {
@@ -2780,7 +2767,7 @@
           "factors": [
             "趨勢：中性",
             "RSI 60（中性）",
-            "資金流：NEUTRAL（評分 1.6）"
+            "資金流：NEUTRAL（評分 0.9）"
           ]
         },
         {
@@ -2792,7 +2779,7 @@
           "factors": [
             "趨勢：中性",
             "RSI 58（中性）",
-            "資金流：NEUTRAL（評分 1.6）"
+            "資金流：NEUTRAL（評分 0.9）"
           ]
         },
         {
@@ -2803,8 +2790,8 @@
           "rationale": "訊號未明 — 等趨勢形成",
           "factors": [
             "趨勢：中性",
-            "RSI 61（偏高）",
-            "資金流：NEUTRAL（評分 0.0）",
+            "RSI 62（偏高）",
+            "資金流：NEUTRAL（評分 0.1）",
             "均線多頭排列（20>50>200）"
           ]
         },
@@ -2817,20 +2804,7 @@
           "factors": [
             "趨勢：跌勢確立",
             "RSI 39（偏弱）",
-            "資金流：OUTFLOW（評分 -41.4）",
-            "均線空頭排列（價格低於所有均線）"
-          ]
-        },
-        {
-          "ticker": "EEM",
-          "label": "新興市場",
-          "action": "SELL",
-          "confidence": 80,
-          "rationale": "低於 SMA50 及 SMA200 — 跌勢確立，避開",
-          "factors": [
-            "趨勢：跌勢確立",
-            "RSI 42（中性）",
-            "資金流：OUTFLOW（評分 -41.4）",
+            "資金流：OUTFLOW（評分 -33.2）",
             "均線空頭排列（價格低於所有均線）"
           ]
         },
@@ -2842,10 +2816,23 @@
           "rationale": "低於 SMA50 及 SMA200 — 跌勢確立，避開",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 21（超賣）",
-            "資金流：OUTFLOW（評分 -29.3）",
+            "RSI 20（超賣）",
+            "資金流：OUTFLOW（評分 -14.1）",
             "均線空頭排列（價格低於所有均線）",
             "超賣但趨勢向下 — 反彈料短暫"
+          ]
+        },
+        {
+          "ticker": "EEM",
+          "label": "新興市場",
+          "action": "SELL",
+          "confidence": 80,
+          "rationale": "低於 SMA50 及 SMA200 — 跌勢確立，避開",
+          "factors": [
+            "趨勢：跌勢確立",
+            "RSI 39（偏弱）",
+            "資金流：OUTFLOW（評分 -33.2）",
+            "均線空頭排列（價格低於所有均線）"
           ]
         },
         {
@@ -2856,9 +2843,10 @@
           "rationale": "低於 SMA50 及 SMA200 — 跌勢確立，避開",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 33（偏弱）",
-            "資金流：OUTFLOW（評分 -61.7）",
-            "均線空頭排列（價格低於所有均線）"
+            "RSI 30（超賣）",
+            "資金流：OUTFLOW（評分 -48.4）",
+            "均線空頭排列（價格低於所有均線）",
+            "超賣但趨勢向下 — 反彈料短暫"
           ]
         },
         {
@@ -2869,8 +2857,8 @@
           "rationale": "低於 SMA50 及 SMA200 — 跌勢確立，避開",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 38（偏弱）",
-            "資金流：OUTFLOW（評分 -61.7）",
+            "RSI 37（偏弱）",
+            "資金流：OUTFLOW（評分 -48.4）",
             "均線空頭排列（價格低於所有均線）"
           ]
         },
@@ -2882,8 +2870,8 @@
           "rationale": "低於 SMA50 及 SMA200 — 跌勢確立，避開",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 27（超賣）",
-            "資金流：OUTFLOW（評分 -59.4）",
+            "RSI 25（超賣）",
+            "資金流：OUTFLOW（評分 -46.7）",
             "均線空頭排列（價格低於所有均線）",
             "超賣但趨勢向下 — 反彈料短暫"
           ]
@@ -2896,8 +2884,8 @@
           "rationale": "低於 SMA50 及 SMA200 — 跌勢確立，避開",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 27（超賣）",
-            "資金流：OUTFLOW（評分 -59.4）",
+            "RSI 25（超賣）",
+            "資金流：OUTFLOW（評分 -46.7）",
             "均線空頭排列（價格低於所有均線）",
             "超賣但趨勢向下 — 反彈料短暫"
           ]
@@ -2910,8 +2898,8 @@
           "rationale": "跌穿 SMA50 兼資金流出 — 趨勢轉壞",
           "factors": [
             "趨勢：早期跌勢",
-            "RSI 42（中性）",
-            "資金流：OUTFLOW（評分 -27.7）",
+            "RSI 40（中性）",
+            "資金流：OUTFLOW（評分 -22.1）",
             "均線空頭排列（價格低於所有均線）"
           ]
         },
@@ -2923,8 +2911,8 @@
           "rationale": "跌穿 SMA50 兼資金流出 — 趨勢轉壞",
           "factors": [
             "趨勢：早期跌勢",
-            "RSI 34（偏弱）",
-            "資金流：OUTFLOW（評分 -29.3）"
+            "RSI 37（偏弱）",
+            "資金流：OUTFLOW（評分 -14.1）"
           ]
         }
       ]
@@ -2932,39 +2920,17 @@
     "deploy_contrarian": {
       "sector": [
         {
-          "ticker": "XLE",
-          "label": "Energy",
+          "ticker": "XLK",
+          "label": "Technology",
           "action": "BUY",
-          "confidence": 60,
-          "rationale": "初跌兼 RSI 超賣 — 若支持守得住可逆勢入場",
+          "confidence": 65,
+          "rationale": "低於所有均線兼 RSI 偏弱 — 吸納區",
           "factors": [
-            "趨勢：早期跌勢",
-            "RSI 33（偏弱）",
-            "輪動：OUTFLOW（排名變動：-5）"
-          ]
-        },
-        {
-          "ticker": "XLV",
-          "label": "Healthcare",
-          "action": "BUY",
-          "confidence": 55,
-          "rationale": "回調但 RSI 未洗夠 — 可作部分逆勢入場",
-          "factors": [
-            "趨勢：升勢回調",
-            "RSI 46（中性）",
-            "輪動：OUTFLOW（排名變動：-8）"
-          ]
-        },
-        {
-          "ticker": "XLF",
-          "label": "Financial",
-          "action": "BUY",
-          "confidence": 55,
-          "rationale": "回調但 RSI 未洗夠 — 可作部分逆勢入場",
-          "factors": [
-            "趨勢：升勢回調",
-            "RSI 44（中性）",
-            "輪動：OUTFLOW（排名變動：-4）"
+            "趨勢：跌勢確立",
+            "RSI 38（偏弱）",
+            "輪動：OUTFLOW（排名變動：0）",
+            "均線空頭排列（價格低於所有均線）",
+            "價格已洗倉 — 精明資金常喺呢度吸納"
           ]
         },
         {
@@ -2975,9 +2941,34 @@
           "rationale": "升勢未破 — 無逆勢優勢，等極端情況",
           "factors": [
             "趨勢：升勢確立",
-            "RSI 54（中性）",
-            "輪動：OUTFLOW（排名變動：-5）",
+            "RSI 60（中性）",
+            "輪動：INFLOW（排名變動：0）",
             "均線多頭排列（20>50>200）"
+          ]
+        },
+        {
+          "ticker": "XLV",
+          "label": "Healthcare",
+          "action": "HOLD",
+          "confidence": 50,
+          "rationale": "升勢未破 — 無逆勢優勢，等極端情況",
+          "factors": [
+            "趨勢：升勢確立",
+            "RSI 55（中性）",
+            "輪動：NEUTRAL（排名變動：-2）",
+            "均線多頭排列（20>50>200）"
+          ]
+        },
+        {
+          "ticker": "XLY",
+          "label": "Consumer Cyclical",
+          "action": "HOLD",
+          "confidence": 50,
+          "rationale": "升勢未破 — 無逆勢優勢，等極端情況",
+          "factors": [
+            "趨勢：升勢確立",
+            "RSI 52（中性）",
+            "輪動：NEUTRAL（排名變動：0）"
           ]
         },
         {
@@ -2988,33 +2979,20 @@
           "rationale": "趨勢形成中 — 逆勢操作寧願等更深折讓",
           "factors": [
             "趨勢：早期升勢",
-            "RSI 53（中性）",
-            "輪動：OUTFLOW（排名變動：-2）"
+            "RSI 54（中性）",
+            "輪動：NEUTRAL（排名變動：+2）"
           ]
         },
         {
-          "ticker": "XLY",
-          "label": "Consumer Cyclical",
+          "ticker": "XLRE",
+          "label": "Real Estate",
           "action": "HOLD",
           "confidence": 45,
           "rationale": "趨勢形成中 — 逆勢操作寧願等更深折讓",
           "factors": [
             "趨勢：早期升勢",
-            "RSI 50（中性）",
-            "輪動：INFLOW（排名變動：+3）"
-          ]
-        },
-        {
-          "ticker": "XLI",
-          "label": "Industrials",
-          "action": "HOLD",
-          "confidence": 45,
-          "rationale": "跌勢未夠超賣 — 等投降式拋售",
-          "factors": [
-            "趨勢：跌勢確立",
-            "RSI 44（中性）",
-            "輪動：INFLOW（排名變動：+6）",
-            "均線空頭排列（價格低於所有均線）"
+            "RSI 51（中性）",
+            "輪動：INFLOW（排名變動：+2）"
           ]
         },
         {
@@ -3025,34 +3003,45 @@
           "rationale": "跌勢未夠超賣 — 等投降式拋售",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 44（中性）",
-            "輪動：NEUTRAL（排名變動：+8）",
-            "均線空頭排列（價格低於所有均線）"
+            "RSI 47（中性）",
+            "輪動：NEUTRAL（排名變動：+5）"
           ]
         },
         {
-          "ticker": "XLK",
-          "label": "Technology",
+          "ticker": "XLI",
+          "label": "Industrials",
           "action": "HOLD",
           "confidence": 45,
           "rationale": "跌勢未夠超賣 — 等投降式拋售",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 41（中性）",
-            "輪動：INFLOW（排名變動：+7）",
+            "RSI 43（中性）",
+            "輪動：OUTFLOW（排名變動：0）",
             "均線空頭排列（價格低於所有均線）"
           ]
         },
         {
-          "ticker": "XLRE",
-          "label": "Real Estate",
+          "ticker": "XLE",
+          "label": "Energy",
+          "action": "HOLD",
+          "confidence": 40,
+          "rationale": "破位向下但未超賣 — 逆勢入場言之尚早",
+          "factors": [
+            "趨勢：早期跌勢",
+            "RSI 36（偏弱）",
+            "輪動：OUTFLOW（排名變動：-5）"
+          ]
+        },
+        {
+          "ticker": "XLF",
+          "label": "Financial",
           "action": "HOLD",
           "confidence": 35,
           "rationale": "無極端情況 — 逆勢操作無優勢",
           "factors": [
             "趨勢：中性",
-            "RSI 46（中性）",
-            "輪動：NEUTRAL（排名變動：0）"
+            "RSI 47（中性）",
+            "輪動：OUTFLOW（排名變動：-3）"
           ]
         },
         {
@@ -3063,8 +3052,8 @@
           "rationale": "無極端情況 — 逆勢操作無優勢",
           "factors": [
             "趨勢：中性",
-            "RSI 42（中性）",
-            "輪動：NEUTRAL（排名變動：0）",
+            "RSI 44（中性）",
+            "輪動：NEUTRAL（排名變動：+1）",
             "均線空頭排列（價格低於所有均線）"
           ]
         }
@@ -3075,11 +3064,26 @@
           "label": "商品指數",
           "action": "BUY",
           "confidence": 80,
-          "rationale": "投降式拋售訊號 — RSI 21 超賣，低於 SMA200 -2.2%",
+          "rationale": "投降式拋售訊號 — RSI 20 超賣，低於 SMA200 -2.5%",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 21（超賣）",
-            "資金流：OUTFLOW（評分 -29.3）",
+            "RSI 20（超賣）",
+            "資金流：OUTFLOW（評分 -14.1）",
+            "均線空頭排列（價格低於所有均線）",
+            "遠低於長期平均 ＝ 均值回歸機會",
+            "資金流出 ＝ 恐慌拋售 — 逆勢買入區"
+          ]
+        },
+        {
+          "ticker": "GLD",
+          "label": "黃金",
+          "action": "BUY",
+          "confidence": 80,
+          "rationale": "投降式拋售訊號 — RSI 30 超賣，低於 SMA200 -19.5%",
+          "factors": [
+            "趨勢：跌勢確立",
+            "RSI 30（超賣）",
+            "資金流：OUTFLOW（評分 -48.4）",
             "均線空頭排列（價格低於所有均線）",
             "遠低於長期平均 ＝ 均值回歸機會",
             "資金流出 ＝ 恐慌拋售 — 逆勢買入區"
@@ -3090,11 +3094,11 @@
           "label": "比特幣ETF",
           "action": "BUY",
           "confidence": 80,
-          "rationale": "投降式拋售訊號 — RSI 27 超賣，低於 SMA200 -15.3%",
+          "rationale": "投降式拋售訊號 — RSI 25 超賣，低於 SMA200 -17.3%",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 27（超賣）",
-            "資金流：OUTFLOW（評分 -59.4）",
+            "RSI 25（超賣）",
+            "資金流：OUTFLOW（評分 -46.7）",
             "均線空頭排列（價格低於所有均線）",
             "遠低於長期平均 ＝ 均值回歸機會",
             "資金流出 ＝ 恐慌拋售 — 逆勢買入區"
@@ -3105,11 +3109,11 @@
           "label": "比特幣期貨",
           "action": "BUY",
           "confidence": 80,
-          "rationale": "投降式拋售訊號 — RSI 27 超賣，低於 SMA200 -17.0%",
+          "rationale": "投降式拋售訊號 — RSI 25 超賣，低於 SMA200 -18.9%",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 27（超賣）",
-            "資金流：OUTFLOW（評分 -59.4）",
+            "RSI 25（超賣）",
+            "資金流：OUTFLOW（評分 -46.7）",
             "均線空頭排列（價格低於所有均線）",
             "遠低於長期平均 ＝ 均值回歸機會",
             "資金流出 ＝ 恐慌拋售 — 逆勢買入區"
@@ -3124,21 +3128,21 @@
           "factors": [
             "趨勢：跌勢確立",
             "RSI 39（偏弱）",
-            "資金流：OUTFLOW（評分 -41.4）",
+            "資金流：OUTFLOW（評分 -33.2）",
             "均線空頭排列（價格低於所有均線）",
             "價格已洗倉 — 精明資金常喺呢度吸納"
           ]
         },
         {
-          "ticker": "GLD",
-          "label": "黃金",
+          "ticker": "EEM",
+          "label": "新興市場",
           "action": "BUY",
           "confidence": 65,
           "rationale": "低於所有均線兼 RSI 偏弱 — 吸納區",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 33（偏弱）",
-            "資金流：OUTFLOW（評分 -61.7）",
+            "RSI 39（偏弱）",
+            "資金流：OUTFLOW（評分 -33.2）",
             "均線空頭排列（價格低於所有均線）",
             "價格已洗倉 — 精明資金常喺呢度吸納"
           ]
@@ -3151,35 +3155,10 @@
           "rationale": "低於所有均線兼 RSI 偏弱 — 吸納區",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 38（偏弱）",
-            "資金流：OUTFLOW（評分 -61.7）",
+            "RSI 37（偏弱）",
+            "資金流：OUTFLOW（評分 -48.4）",
             "均線空頭排列（價格低於所有均線）",
             "價格已洗倉 — 精明資金常喺呢度吸納"
-          ]
-        },
-        {
-          "ticker": "USO",
-          "label": "石油",
-          "action": "BUY",
-          "confidence": 60,
-          "rationale": "初跌兼 RSI 超賣 — 若支持守得住可逆勢入場",
-          "factors": [
-            "趨勢：早期跌勢",
-            "RSI 34（偏弱）",
-            "資金流：OUTFLOW（評分 -29.3）"
-          ]
-        },
-        {
-          "ticker": "EEM",
-          "label": "新興市場",
-          "action": "HOLD",
-          "confidence": 45,
-          "rationale": "跌勢未夠超賣 — 等投降式拋售",
-          "factors": [
-            "趨勢：跌勢確立",
-            "RSI 42（中性）",
-            "資金流：OUTFLOW（評分 -41.4）",
-            "均線空頭排列（價格低於所有均線）"
           ]
         },
         {
@@ -3190,9 +3169,21 @@
           "rationale": "破位向下但未超賣 — 逆勢入場言之尚早",
           "factors": [
             "趨勢：早期跌勢",
-            "RSI 42（中性）",
-            "資金流：OUTFLOW（評分 -27.7）",
+            "RSI 40（中性）",
+            "資金流：OUTFLOW（評分 -22.1）",
             "均線空頭排列（價格低於所有均線）"
+          ]
+        },
+        {
+          "ticker": "USO",
+          "label": "石油",
+          "action": "HOLD",
+          "confidence": 40,
+          "rationale": "破位向下但未超賣 — 逆勢入場言之尚早",
+          "factors": [
+            "趨勢：早期跌勢",
+            "RSI 37（偏弱）",
+            "資金流：OUTFLOW（評分 -14.1）"
           ]
         },
         {
@@ -3203,8 +3194,8 @@
           "rationale": "無極端情況 — 逆勢操作無優勢",
           "factors": [
             "趨勢：中性",
-            "RSI 59（中性）",
-            "資金流：NEUTRAL（評分 1.6）"
+            "RSI 57（中性）",
+            "資金流：NEUTRAL（評分 0.9）"
           ]
         },
         {
@@ -3216,7 +3207,7 @@
           "factors": [
             "趨勢：中性",
             "RSI 60（中性）",
-            "資金流：NEUTRAL（評分 1.6）"
+            "資金流：NEUTRAL（評分 0.9）"
           ]
         },
         {
@@ -3228,7 +3219,7 @@
           "factors": [
             "趨勢：中性",
             "RSI 58（中性）",
-            "資金流：NEUTRAL（評分 1.6）"
+            "資金流：NEUTRAL（評分 0.9）"
           ]
         },
         {
@@ -3239,8 +3230,8 @@
           "rationale": "無極端情況 — 逆勢操作無優勢",
           "factors": [
             "趨勢：中性",
-            "RSI 61（偏高）",
-            "資金流：NEUTRAL（評分 0.0）",
+            "RSI 62（偏高）",
+            "資金流：NEUTRAL（評分 0.1）",
             "均線多頭排列（20>50>200）"
           ]
         }
@@ -3249,57 +3240,54 @@
     "deploy_rotation": {
       "sector": [
         {
-          "ticker": "XLI",
-          "label": "Industrials",
-          "action": "BUY",
-          "confidence": 70,
-          "rationale": "相對排名快速改善（+6）— 正輪動成領頭板塊",
-          "factors": [
-            "趨勢：跌勢確立",
-            "RSI 44（中性）",
-            "輪動：INFLOW（排名變動：+6）",
-            "均線空頭排列（價格低於所有均線）",
-            "排名變動：+6（向榜首進發）"
-          ]
-        },
-        {
           "ticker": "XLC",
           "label": "Communication Services",
           "action": "BUY",
           "confidence": 70,
-          "rationale": "相對排名快速改善（+8）— 正輪動成領頭板塊",
+          "rationale": "相對排名快速改善（+5）— 正輪動成領頭板塊",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 44（中性）",
-            "輪動：NEUTRAL（排名變動：+8）",
-            "均線空頭排列（價格低於所有均線）",
-            "排名變動：+8（向榜首進發）"
+            "RSI 47（中性）",
+            "輪動：NEUTRAL（排名變動：+5）",
+            "排名變動：+5（向榜首進發）"
           ]
         },
         {
-          "ticker": "XLK",
-          "label": "Technology",
-          "action": "BUY",
-          "confidence": 70,
-          "rationale": "相對排名快速改善（+7）— 正輪動成領頭板塊",
+          "ticker": "XLP",
+          "label": "Consumer Defensive",
+          "action": "HOLD",
+          "confidence": 55,
+          "rationale": "相對排名穩定，處於升勢 — 維持比重",
           "factors": [
-            "趨勢：跌勢確立",
-            "RSI 41（中性）",
-            "輪動：INFLOW（排名變動：+7）",
-            "均線空頭排列（價格低於所有均線）",
-            "排名變動：+7（向榜首進發）"
+            "趨勢：升勢確立",
+            "RSI 60（中性）",
+            "輪動：INFLOW（排名變動：0）",
+            "均線多頭排列（20>50>200）"
+          ]
+        },
+        {
+          "ticker": "XLV",
+          "label": "Healthcare",
+          "action": "HOLD",
+          "confidence": 55,
+          "rationale": "相對排名穩定，處於升勢 — 維持比重",
+          "factors": [
+            "趨勢：升勢確立",
+            "RSI 55（中性）",
+            "輪動：NEUTRAL（排名變動：-2）",
+            "均線多頭排列（20>50>200）"
           ]
         },
         {
           "ticker": "XLY",
           "label": "Consumer Cyclical",
-          "action": "BUY",
-          "confidence": 60,
-          "rationale": "相對排名改善（排名變動：+3），仲有上升空間",
+          "action": "HOLD",
+          "confidence": 55,
+          "rationale": "相對排名穩定，處於升勢 — 維持比重",
           "factors": [
-            "趨勢：早期升勢",
-            "RSI 50（中性）",
-            "輪動：INFLOW（排名變動：+3）"
+            "趨勢：升勢確立",
+            "RSI 52（中性）",
+            "輪動：NEUTRAL（排名變動：0）"
           ]
         },
         {
@@ -3307,11 +3295,11 @@
           "label": "Financial",
           "action": "HOLD",
           "confidence": 45,
-          "rationale": "排名輕微轉差（變動：-4）— 留意會否加速",
+          "rationale": "排名輕微轉差（變動：-3）— 留意會否加速",
           "factors": [
-            "趨勢：升勢回調",
-            "RSI 44（中性）",
-            "輪動：OUTFLOW（排名變動：-4）"
+            "趨勢：中性",
+            "RSI 47（中性）",
+            "輪動：OUTFLOW（排名變動：-3）"
           ]
         },
         {
@@ -3322,8 +3310,8 @@
           "rationale": "排名無明顯變化 — 無輪動訊號",
           "factors": [
             "趨勢：早期升勢",
-            "RSI 53（中性）",
-            "輪動：OUTFLOW（排名變動：-2）"
+            "RSI 54（中性）",
+            "輪動：NEUTRAL（排名變動：+2）"
           ]
         },
         {
@@ -3333,9 +3321,9 @@
           "confidence": 40,
           "rationale": "排名無明顯變化 — 無輪動訊號",
           "factors": [
-            "趨勢：中性",
-            "RSI 46（中性）",
-            "輪動：NEUTRAL（排名變動：0）"
+            "趨勢：早期升勢",
+            "RSI 51（中性）",
+            "輪動：INFLOW（排名變動：+2）"
           ]
         },
         {
@@ -3346,8 +3334,8 @@
           "rationale": "排名無明顯變化 — 無輪動訊號",
           "factors": [
             "趨勢：中性",
-            "RSI 42（中性）",
-            "輪動：NEUTRAL（排名變動：0）",
+            "RSI 44（中性）",
+            "輪動：NEUTRAL（排名變動：+1）",
             "均線空頭排列（價格低於所有均線）"
           ]
         },
@@ -3359,36 +3347,35 @@
           "rationale": "資金快速輪動出（排名變動：-5），趨勢破壞 — 離場",
           "factors": [
             "趨勢：早期跌勢",
-            "RSI 33（偏弱）",
+            "RSI 36（偏弱）",
             "輪動：OUTFLOW（排名變動：-5）",
             "排名變動：-5（由領頭位置跌落）"
           ]
         },
         {
-          "ticker": "XLP",
-          "label": "Consumer Defensive",
+          "ticker": "XLI",
+          "label": "Industrials",
           "action": "SELL",
-          "confidence": 65,
-          "rationale": "由領頭位置跌落（排名變動：-5）— 資金輪動去其他板塊",
+          "confidence": 55,
+          "rationale": "排名穩定但包尾 — 無催化劑輪動入",
           "factors": [
-            "趨勢：升勢確立",
-            "RSI 54（中性）",
-            "輪動：OUTFLOW（排名變動：-5）",
-            "均線多頭排列（20>50>200）",
-            "排名變動：-5（由領頭位置跌落）"
+            "趨勢：跌勢確立",
+            "RSI 43（中性）",
+            "輪動：OUTFLOW（排名變動：0）",
+            "均線空頭排列（價格低於所有均線）"
           ]
         },
         {
-          "ticker": "XLV",
-          "label": "Healthcare",
+          "ticker": "XLK",
+          "label": "Technology",
           "action": "SELL",
-          "confidence": 65,
-          "rationale": "由領頭位置跌落（排名變動：-8）— 資金輪動去其他板塊",
+          "confidence": 55,
+          "rationale": "排名穩定但包尾 — 無催化劑輪動入",
           "factors": [
-            "趨勢：升勢回調",
-            "RSI 46（中性）",
-            "輪動：OUTFLOW（排名變動：-8）",
-            "排名變動：-8（由領頭位置跌落）"
+            "趨勢：跌勢確立",
+            "RSI 38（偏弱）",
+            "輪動：OUTFLOW（排名變動：0）",
+            "均線空頭排列（價格低於所有均線）"
           ]
         }
       ],
@@ -3401,8 +3388,8 @@
           "rationale": "排名無明顯變化 — 無輪動訊號",
           "factors": [
             "趨勢：中性",
-            "RSI 59（中性）",
-            "資金流：NEUTRAL（評分 1.6）"
+            "RSI 57（中性）",
+            "資金流：NEUTRAL（評分 0.9）"
           ]
         },
         {
@@ -3414,7 +3401,7 @@
           "factors": [
             "趨勢：中性",
             "RSI 60（中性）",
-            "資金流：NEUTRAL（評分 1.6）"
+            "資金流：NEUTRAL（評分 0.9）"
           ]
         },
         {
@@ -3426,7 +3413,7 @@
           "factors": [
             "趨勢：中性",
             "RSI 58（中性）",
-            "資金流：NEUTRAL（評分 1.6）"
+            "資金流：NEUTRAL（評分 0.9）"
           ]
         },
         {
@@ -3437,8 +3424,8 @@
           "rationale": "排名無明顯變化 — 無輪動訊號",
           "factors": [
             "趨勢：中性",
-            "RSI 61（偏高）",
-            "資金流：NEUTRAL（評分 0.0）",
+            "RSI 62（偏高）",
+            "資金流：NEUTRAL（評分 0.1）",
             "均線多頭排列（20>50>200）"
           ]
         },
@@ -3451,7 +3438,7 @@
           "factors": [
             "趨勢：跌勢確立",
             "RSI 39（偏弱）",
-            "資金流：OUTFLOW（評分 -41.4）",
+            "資金流：OUTFLOW（評分 -33.2）",
             "均線空頭排列（價格低於所有均線）",
             "排名變動：0（由領頭位置跌落）"
           ]
@@ -3464,22 +3451,8 @@
           "rationale": "資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
           "factors": [
             "趨勢：早期跌勢",
-            "RSI 42（中性）",
-            "資金流：OUTFLOW（評分 -27.7）",
-            "均線空頭排列（價格低於所有均線）",
-            "排名變動：0（由領頭位置跌落）"
-          ]
-        },
-        {
-          "ticker": "EEM",
-          "label": "新興市場",
-          "action": "SELL",
-          "confidence": 80,
-          "rationale": "資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
-          "factors": [
-            "趨勢：跌勢確立",
-            "RSI 42（中性）",
-            "資金流：OUTFLOW（評分 -41.4）",
+            "RSI 40（中性）",
+            "資金流：OUTFLOW（評分 -22.1）",
             "均線空頭排列（價格低於所有均線）",
             "排名變動：0（由領頭位置跌落）"
           ]
@@ -3492,22 +3465,8 @@
           "rationale": "資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 21（超賣）",
-            "資金流：OUTFLOW（評分 -29.3）",
-            "均線空頭排列（價格低於所有均線）",
-            "排名變動：0（由領頭位置跌落）"
-          ]
-        },
-        {
-          "ticker": "GLD",
-          "label": "黃金",
-          "action": "SELL",
-          "confidence": 80,
-          "rationale": "資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
-          "factors": [
-            "趨勢：跌勢確立",
-            "RSI 33（偏弱）",
-            "資金流：OUTFLOW（評分 -61.7）",
+            "RSI 20（超賣）",
+            "資金流：OUTFLOW（評分 -14.1）",
             "均線空頭排列（價格低於所有均線）",
             "排名變動：0（由領頭位置跌落）"
           ]
@@ -3520,8 +3479,36 @@
           "rationale": "資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
           "factors": [
             "趨勢：早期跌勢",
-            "RSI 34（偏弱）",
-            "資金流：OUTFLOW（評分 -29.3）",
+            "RSI 37（偏弱）",
+            "資金流：OUTFLOW（評分 -14.1）",
+            "排名變動：0（由領頭位置跌落）"
+          ]
+        },
+        {
+          "ticker": "EEM",
+          "label": "新興市場",
+          "action": "SELL",
+          "confidence": 80,
+          "rationale": "資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
+          "factors": [
+            "趨勢：跌勢確立",
+            "RSI 39（偏弱）",
+            "資金流：OUTFLOW（評分 -33.2）",
+            "均線空頭排列（價格低於所有均線）",
+            "排名變動：0（由領頭位置跌落）"
+          ]
+        },
+        {
+          "ticker": "GLD",
+          "label": "黃金",
+          "action": "SELL",
+          "confidence": 80,
+          "rationale": "資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
+          "factors": [
+            "趨勢：跌勢確立",
+            "RSI 30（超賣）",
+            "資金流：OUTFLOW（評分 -48.4）",
+            "均線空頭排列（價格低於所有均線）",
             "排名變動：0（由領頭位置跌落）"
           ]
         },
@@ -3533,8 +3520,8 @@
           "rationale": "資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 38（偏弱）",
-            "資金流：OUTFLOW（評分 -61.7）",
+            "RSI 37（偏弱）",
+            "資金流：OUTFLOW（評分 -48.4）",
             "均線空頭排列（價格低於所有均線）",
             "排名變動：0（由領頭位置跌落）"
           ]
@@ -3547,8 +3534,8 @@
           "rationale": "資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 27（超賣）",
-            "資金流：OUTFLOW（評分 -59.4）",
+            "RSI 25（超賣）",
+            "資金流：OUTFLOW（評分 -46.7）",
             "均線空頭排列（價格低於所有均線）",
             "排名變動：0（由領頭位置跌落）"
           ]
@@ -3561,8 +3548,8 @@
           "rationale": "資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 27（超賣）",
-            "資金流：OUTFLOW（評分 -59.4）",
+            "RSI 25（超賣）",
+            "資金流：OUTFLOW（評分 -46.7）",
             "均線空頭排列（價格低於所有均線）",
             "排名變動：0（由領頭位置跌落）"
           ]
@@ -3572,41 +3559,15 @@
     "rotate_momentum": {
       "sector": [
         {
-          "ticker": "XLY",
-          "label": "Consumer Cyclical",
+          "ticker": "XLRE",
+          "label": "Real Estate",
           "action": "BUY",
           "confidence": 70,
           "rationale": "增持 — 新升勢形成，獲資金流入確認",
           "factors": [
             "趨勢：早期升勢",
-            "RSI 50（中性）",
-            "輪動：INFLOW（排名變動：+3）",
-            "輪動模式：將比重由落後者轉入呢隻"
-          ]
-        },
-        {
-          "ticker": "XLV",
-          "label": "Healthcare",
-          "action": "BUY",
-          "confidence": 65,
-          "rationale": "增持 — 升勢回調兼 RSI 偏弱 — 均值回歸入場",
-          "factors": [
-            "趨勢：升勢回調",
-            "RSI 46（中性）",
-            "輪動：OUTFLOW（排名變動：-8）",
-            "輪動模式：將比重由落後者轉入呢隻"
-          ]
-        },
-        {
-          "ticker": "XLF",
-          "label": "Financial",
-          "action": "BUY",
-          "confidence": 65,
-          "rationale": "增持 — 升勢回調兼 RSI 偏弱 — 均值回歸入場",
-          "factors": [
-            "趨勢：升勢回調",
-            "RSI 44（中性）",
-            "輪動：OUTFLOW（排名變動：-4）",
+            "RSI 51（中性）",
+            "輪動：INFLOW（排名變動：+2）",
             "輪動模式：將比重由落後者轉入呢隻"
           ]
         },
@@ -3618,8 +3579,8 @@
           "rationale": "增持 — 早期升勢 — 高於 SMA50，等待資金流確認",
           "factors": [
             "趨勢：早期升勢",
-            "RSI 53（中性）",
-            "輪動：OUTFLOW（排名變動：-2）",
+            "RSI 54（中性）",
+            "輪動：NEUTRAL（排名變動：+2）",
             "輪動模式：將比重由落後者轉入呢隻"
           ]
         },
@@ -3628,24 +3589,50 @@
           "label": "Consumer Defensive",
           "action": "HOLD",
           "confidence": 60,
+          "rationale": "維持比重 — 升勢確立兼有資金流入，但暫未見回調（高於 SMA20 1.4%）— 等回調再加倉",
+          "factors": [
+            "趨勢：升勢確立",
+            "RSI 60（中性）",
+            "輪動：INFLOW（排名變動：0）",
+            "均線多頭排列（20>50>200）",
+            "未見回調：價格仍高於 20 天線"
+          ]
+        },
+        {
+          "ticker": "XLV",
+          "label": "Healthcare",
+          "action": "HOLD",
+          "confidence": 60,
           "rationale": "維持比重 — 升勢確立 — 維持倉位，無需急於加倉",
           "factors": [
             "趨勢：升勢確立",
-            "RSI 54（中性）",
-            "輪動：OUTFLOW（排名變動：-5）",
+            "RSI 55（中性）",
+            "輪動：NEUTRAL（排名變動：-2）",
             "均線多頭排列（20>50>200）"
           ]
         },
         {
-          "ticker": "XLRE",
-          "label": "Real Estate",
+          "ticker": "XLY",
+          "label": "Consumer Cyclical",
+          "action": "HOLD",
+          "confidence": 60,
+          "rationale": "維持比重 — 升勢確立 — 維持倉位，無需急於加倉",
+          "factors": [
+            "趨勢：升勢確立",
+            "RSI 52（中性）",
+            "輪動：NEUTRAL（排名變動：0）"
+          ]
+        },
+        {
+          "ticker": "XLF",
+          "label": "Financial",
           "action": "HOLD",
           "confidence": 35,
           "rationale": "維持比重 — 訊號未明 — 等趨勢形成",
           "factors": [
             "趨勢：中性",
-            "RSI 46（中性）",
-            "輪動：NEUTRAL（排名變動：0）"
+            "RSI 47（中性）",
+            "輪動：OUTFLOW（排名變動：-3）"
           ]
         },
         {
@@ -3656,23 +3643,9 @@
           "rationale": "維持比重 — 訊號未明 — 等趨勢形成",
           "factors": [
             "趨勢：中性",
-            "RSI 42（中性）",
-            "輪動：NEUTRAL（排名變動：0）",
-            "均線空頭排列（價格低於所有均線）"
-          ]
-        },
-        {
-          "ticker": "XLI",
-          "label": "Industrials",
-          "action": "SELL",
-          "confidence": 75,
-          "rationale": "減持 — 低於 SMA50 及 SMA200 — 跌勢確立，避開",
-          "factors": [
-            "趨勢：跌勢確立",
             "RSI 44（中性）",
-            "輪動：INFLOW（排名變動：+6）",
-            "均線空頭排列（價格低於所有均線）",
-            "輪動模式：將比重由呢隻轉去領先者"
+            "輪動：NEUTRAL（排名變動：+1）",
+            "均線空頭排列（價格低於所有均線）"
           ]
         },
         {
@@ -3683,8 +3656,21 @@
           "rationale": "減持 — 低於 SMA50 及 SMA200 — 跌勢確立，避開",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 44（中性）",
-            "輪動：NEUTRAL（排名變動：+8）",
+            "RSI 47（中性）",
+            "輪動：NEUTRAL（排名變動：+5）",
+            "輪動模式：將比重由呢隻轉去領先者"
+          ]
+        },
+        {
+          "ticker": "XLI",
+          "label": "Industrials",
+          "action": "SELL",
+          "confidence": 75,
+          "rationale": "減持 — 低於 SMA50 及 SMA200 — 跌勢確立，避開",
+          "factors": [
+            "趨勢：跌勢確立",
+            "RSI 43（中性）",
+            "輪動：OUTFLOW（排名變動：0）",
             "均線空頭排列（價格低於所有均線）",
             "輪動模式：將比重由呢隻轉去領先者"
           ]
@@ -3697,8 +3683,8 @@
           "rationale": "減持 — 低於 SMA50 及 SMA200 — 跌勢確立，避開",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 41（中性）",
-            "輪動：INFLOW（排名變動：+7）",
+            "RSI 38（偏弱）",
+            "輪動：OUTFLOW（排名變動：0）",
             "均線空頭排列（價格低於所有均線）",
             "輪動模式：將比重由呢隻轉去領先者"
           ]
@@ -3711,7 +3697,7 @@
           "rationale": "減持 — 跌穿 SMA50 兼資金流出 — 趨勢轉壞",
           "factors": [
             "趨勢：早期跌勢",
-            "RSI 33（偏弱）",
+            "RSI 36（偏弱）",
             "輪動：OUTFLOW（排名變動：-5）",
             "輪動模式：將比重由呢隻轉去領先者"
           ]
@@ -3726,8 +3712,8 @@
           "rationale": "維持比重 — 訊號未明 — 等趨勢形成",
           "factors": [
             "趨勢：中性",
-            "RSI 59（中性）",
-            "資金流：NEUTRAL（評分 1.6）"
+            "RSI 57（中性）",
+            "資金流：NEUTRAL（評分 0.9）"
           ]
         },
         {
@@ -3739,7 +3725,7 @@
           "factors": [
             "趨勢：中性",
             "RSI 60（中性）",
-            "資金流：NEUTRAL（評分 1.6）"
+            "資金流：NEUTRAL（評分 0.9）"
           ]
         },
         {
@@ -3751,7 +3737,7 @@
           "factors": [
             "趨勢：中性",
             "RSI 58（中性）",
-            "資金流：NEUTRAL（評分 1.6）"
+            "資金流：NEUTRAL（評分 0.9）"
           ]
         },
         {
@@ -3762,8 +3748,8 @@
           "rationale": "維持比重 — 訊號未明 — 等趨勢形成",
           "factors": [
             "趨勢：中性",
-            "RSI 61（偏高）",
-            "資金流：NEUTRAL（評分 0.0）",
+            "RSI 62（偏高）",
+            "資金流：NEUTRAL（評分 0.1）",
             "均線多頭排列（20>50>200）"
           ]
         },
@@ -3776,21 +3762,7 @@
           "factors": [
             "趨勢：跌勢確立",
             "RSI 39（偏弱）",
-            "資金流：OUTFLOW（評分 -41.4）",
-            "均線空頭排列（價格低於所有均線）",
-            "輪動模式：將比重由呢隻轉去領先者"
-          ]
-        },
-        {
-          "ticker": "EEM",
-          "label": "新興市場",
-          "action": "SELL",
-          "confidence": 75,
-          "rationale": "減持 — 低於 SMA50 及 SMA200 — 跌勢確立，避開",
-          "factors": [
-            "趨勢：跌勢確立",
-            "RSI 42（中性）",
-            "資金流：OUTFLOW（評分 -41.4）",
+            "資金流：OUTFLOW（評分 -33.2）",
             "均線空頭排列（價格低於所有均線）",
             "輪動模式：將比重由呢隻轉去領先者"
           ]
@@ -3803,10 +3775,24 @@
           "rationale": "減持 — 低於 SMA50 及 SMA200 — 跌勢確立，避開",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 21（超賣）",
-            "資金流：OUTFLOW（評分 -29.3）",
+            "RSI 20（超賣）",
+            "資金流：OUTFLOW（評分 -14.1）",
             "均線空頭排列（價格低於所有均線）",
             "超賣但趨勢向下 — 反彈料短暫",
+            "輪動模式：將比重由呢隻轉去領先者"
+          ]
+        },
+        {
+          "ticker": "EEM",
+          "label": "新興市場",
+          "action": "SELL",
+          "confidence": 75,
+          "rationale": "減持 — 低於 SMA50 及 SMA200 — 跌勢確立，避開",
+          "factors": [
+            "趨勢：跌勢確立",
+            "RSI 39（偏弱）",
+            "資金流：OUTFLOW（評分 -33.2）",
+            "均線空頭排列（價格低於所有均線）",
             "輪動模式：將比重由呢隻轉去領先者"
           ]
         },
@@ -3818,9 +3804,10 @@
           "rationale": "減持 — 低於 SMA50 及 SMA200 — 跌勢確立，避開",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 33（偏弱）",
-            "資金流：OUTFLOW（評分 -61.7）",
+            "RSI 30（超賣）",
+            "資金流：OUTFLOW（評分 -48.4）",
             "均線空頭排列（價格低於所有均線）",
+            "超賣但趨勢向下 — 反彈料短暫",
             "輪動模式：將比重由呢隻轉去領先者"
           ]
         },
@@ -3832,8 +3819,8 @@
           "rationale": "減持 — 低於 SMA50 及 SMA200 — 跌勢確立，避開",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 38（偏弱）",
-            "資金流：OUTFLOW（評分 -61.7）",
+            "RSI 37（偏弱）",
+            "資金流：OUTFLOW（評分 -48.4）",
             "均線空頭排列（價格低於所有均線）",
             "輪動模式：將比重由呢隻轉去領先者"
           ]
@@ -3846,8 +3833,8 @@
           "rationale": "減持 — 低於 SMA50 及 SMA200 — 跌勢確立，避開",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 27（超賣）",
-            "資金流：OUTFLOW（評分 -59.4）",
+            "RSI 25（超賣）",
+            "資金流：OUTFLOW（評分 -46.7）",
             "均線空頭排列（價格低於所有均線）",
             "超賣但趨勢向下 — 反彈料短暫",
             "輪動模式：將比重由呢隻轉去領先者"
@@ -3861,8 +3848,8 @@
           "rationale": "減持 — 低於 SMA50 及 SMA200 — 跌勢確立，避開",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 27（超賣）",
-            "資金流：OUTFLOW（評分 -59.4）",
+            "RSI 25（超賣）",
+            "資金流：OUTFLOW（評分 -46.7）",
             "均線空頭排列（價格低於所有均線）",
             "超賣但趨勢向下 — 反彈料短暫",
             "輪動模式：將比重由呢隻轉去領先者"
@@ -3876,8 +3863,8 @@
           "rationale": "減持 — 跌穿 SMA50 兼資金流出 — 趨勢轉壞",
           "factors": [
             "趨勢：早期跌勢",
-            "RSI 42（中性）",
-            "資金流：OUTFLOW（評分 -27.7）",
+            "RSI 40（中性）",
+            "資金流：OUTFLOW（評分 -22.1）",
             "均線空頭排列（價格低於所有均線）",
             "輪動模式：將比重由呢隻轉去領先者"
           ]
@@ -3890,8 +3877,8 @@
           "rationale": "減持 — 跌穿 SMA50 兼資金流出 — 趨勢轉壞",
           "factors": [
             "趨勢：早期跌勢",
-            "RSI 34（偏弱）",
-            "資金流：OUTFLOW（評分 -29.3）",
+            "RSI 37（偏弱）",
+            "資金流：OUTFLOW（評分 -14.1）",
             "輪動模式：將比重由呢隻轉去領先者"
           ]
         }
@@ -3900,41 +3887,17 @@
     "rotate_contrarian": {
       "sector": [
         {
-          "ticker": "XLE",
-          "label": "Energy",
+          "ticker": "XLK",
+          "label": "Technology",
           "action": "BUY",
-          "confidence": 55,
-          "rationale": "增持 — 初跌兼 RSI 超賣 — 若支持守得住可逆勢入場",
+          "confidence": 60,
+          "rationale": "增持 — 低於所有均線兼 RSI 偏弱 — 吸納區",
           "factors": [
-            "趨勢：早期跌勢",
-            "RSI 33（偏弱）",
-            "輪動：OUTFLOW（排名變動：-5）",
-            "輪動模式：將比重由落後者轉入呢隻"
-          ]
-        },
-        {
-          "ticker": "XLV",
-          "label": "Healthcare",
-          "action": "BUY",
-          "confidence": 50,
-          "rationale": "增持 — 回調但 RSI 未洗夠 — 可作部分逆勢入場",
-          "factors": [
-            "趨勢：升勢回調",
-            "RSI 46（中性）",
-            "輪動：OUTFLOW（排名變動：-8）",
-            "輪動模式：將比重由落後者轉入呢隻"
-          ]
-        },
-        {
-          "ticker": "XLF",
-          "label": "Financial",
-          "action": "BUY",
-          "confidence": 50,
-          "rationale": "增持 — 回調但 RSI 未洗夠 — 可作部分逆勢入場",
-          "factors": [
-            "趨勢：升勢回調",
-            "RSI 44（中性）",
-            "輪動：OUTFLOW（排名變動：-4）",
+            "趨勢：跌勢確立",
+            "RSI 38（偏弱）",
+            "輪動：OUTFLOW（排名變動：0）",
+            "均線空頭排列（價格低於所有均線）",
+            "價格已洗倉 — 精明資金常喺呢度吸納",
             "輪動模式：將比重由落後者轉入呢隻"
           ]
         },
@@ -3946,9 +3909,34 @@
           "rationale": "維持比重 — 升勢未破 — 無逆勢優勢，等極端情況",
           "factors": [
             "趨勢：升勢確立",
-            "RSI 54（中性）",
-            "輪動：OUTFLOW（排名變動：-5）",
+            "RSI 60（中性）",
+            "輪動：INFLOW（排名變動：0）",
             "均線多頭排列（20>50>200）"
+          ]
+        },
+        {
+          "ticker": "XLV",
+          "label": "Healthcare",
+          "action": "HOLD",
+          "confidence": 50,
+          "rationale": "維持比重 — 升勢未破 — 無逆勢優勢，等極端情況",
+          "factors": [
+            "趨勢：升勢確立",
+            "RSI 55（中性）",
+            "輪動：NEUTRAL（排名變動：-2）",
+            "均線多頭排列（20>50>200）"
+          ]
+        },
+        {
+          "ticker": "XLY",
+          "label": "Consumer Cyclical",
+          "action": "HOLD",
+          "confidence": 50,
+          "rationale": "維持比重 — 升勢未破 — 無逆勢優勢，等極端情況",
+          "factors": [
+            "趨勢：升勢確立",
+            "RSI 52（中性）",
+            "輪動：NEUTRAL（排名變動：0）"
           ]
         },
         {
@@ -3959,33 +3947,20 @@
           "rationale": "維持比重 — 趨勢形成中 — 逆勢操作寧願等更深折讓",
           "factors": [
             "趨勢：早期升勢",
-            "RSI 53（中性）",
-            "輪動：OUTFLOW（排名變動：-2）"
+            "RSI 54（中性）",
+            "輪動：NEUTRAL（排名變動：+2）"
           ]
         },
         {
-          "ticker": "XLY",
-          "label": "Consumer Cyclical",
+          "ticker": "XLRE",
+          "label": "Real Estate",
           "action": "HOLD",
           "confidence": 45,
           "rationale": "維持比重 — 趨勢形成中 — 逆勢操作寧願等更深折讓",
           "factors": [
             "趨勢：早期升勢",
-            "RSI 50（中性）",
-            "輪動：INFLOW（排名變動：+3）"
-          ]
-        },
-        {
-          "ticker": "XLI",
-          "label": "Industrials",
-          "action": "HOLD",
-          "confidence": 45,
-          "rationale": "維持比重 — 跌勢未夠超賣 — 等投降式拋售",
-          "factors": [
-            "趨勢：跌勢確立",
-            "RSI 44（中性）",
-            "輪動：INFLOW（排名變動：+6）",
-            "均線空頭排列（價格低於所有均線）"
+            "RSI 51（中性）",
+            "輪動：INFLOW（排名變動：+2）"
           ]
         },
         {
@@ -3996,34 +3971,45 @@
           "rationale": "維持比重 — 跌勢未夠超賣 — 等投降式拋售",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 44（中性）",
-            "輪動：NEUTRAL（排名變動：+8）",
-            "均線空頭排列（價格低於所有均線）"
+            "RSI 47（中性）",
+            "輪動：NEUTRAL（排名變動：+5）"
           ]
         },
         {
-          "ticker": "XLK",
-          "label": "Technology",
+          "ticker": "XLI",
+          "label": "Industrials",
           "action": "HOLD",
           "confidence": 45,
           "rationale": "維持比重 — 跌勢未夠超賣 — 等投降式拋售",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 41（中性）",
-            "輪動：INFLOW（排名變動：+7）",
+            "RSI 43（中性）",
+            "輪動：OUTFLOW（排名變動：0）",
             "均線空頭排列（價格低於所有均線）"
           ]
         },
         {
-          "ticker": "XLRE",
-          "label": "Real Estate",
+          "ticker": "XLE",
+          "label": "Energy",
+          "action": "HOLD",
+          "confidence": 40,
+          "rationale": "維持比重 — 破位向下但未超賣 — 逆勢入場言之尚早",
+          "factors": [
+            "趨勢：早期跌勢",
+            "RSI 36（偏弱）",
+            "輪動：OUTFLOW（排名變動：-5）"
+          ]
+        },
+        {
+          "ticker": "XLF",
+          "label": "Financial",
           "action": "HOLD",
           "confidence": 35,
           "rationale": "維持比重 — 無極端情況 — 逆勢操作無優勢",
           "factors": [
             "趨勢：中性",
-            "RSI 46（中性）",
-            "輪動：NEUTRAL（排名變動：0）"
+            "RSI 47（中性）",
+            "輪動：OUTFLOW（排名變動：-3）"
           ]
         },
         {
@@ -4034,8 +4020,8 @@
           "rationale": "維持比重 — 無極端情況 — 逆勢操作無優勢",
           "factors": [
             "趨勢：中性",
-            "RSI 42（中性）",
-            "輪動：NEUTRAL（排名變動：0）",
+            "RSI 44（中性）",
+            "輪動：NEUTRAL（排名變動：+1）",
             "均線空頭排列（價格低於所有均線）"
           ]
         }
@@ -4046,11 +4032,27 @@
           "label": "商品指數",
           "action": "BUY",
           "confidence": 75,
-          "rationale": "增持 — 投降式拋售訊號 — RSI 21 超賣，低於 SMA200 -2.2%",
+          "rationale": "增持 — 投降式拋售訊號 — RSI 20 超賣，低於 SMA200 -2.5%",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 21（超賣）",
-            "資金流：OUTFLOW（評分 -29.3）",
+            "RSI 20（超賣）",
+            "資金流：OUTFLOW（評分 -14.1）",
+            "均線空頭排列（價格低於所有均線）",
+            "遠低於長期平均 ＝ 均值回歸機會",
+            "資金流出 ＝ 恐慌拋售 — 逆勢買入區",
+            "輪動模式：將比重由落後者轉入呢隻"
+          ]
+        },
+        {
+          "ticker": "GLD",
+          "label": "黃金",
+          "action": "BUY",
+          "confidence": 75,
+          "rationale": "增持 — 投降式拋售訊號 — RSI 30 超賣，低於 SMA200 -19.5%",
+          "factors": [
+            "趨勢：跌勢確立",
+            "RSI 30（超賣）",
+            "資金流：OUTFLOW（評分 -48.4）",
             "均線空頭排列（價格低於所有均線）",
             "遠低於長期平均 ＝ 均值回歸機會",
             "資金流出 ＝ 恐慌拋售 — 逆勢買入區",
@@ -4062,11 +4064,11 @@
           "label": "比特幣ETF",
           "action": "BUY",
           "confidence": 75,
-          "rationale": "增持 — 投降式拋售訊號 — RSI 27 超賣，低於 SMA200 -15.3%",
+          "rationale": "增持 — 投降式拋售訊號 — RSI 25 超賣，低於 SMA200 -17.3%",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 27（超賣）",
-            "資金流：OUTFLOW（評分 -59.4）",
+            "RSI 25（超賣）",
+            "資金流：OUTFLOW（評分 -46.7）",
             "均線空頭排列（價格低於所有均線）",
             "遠低於長期平均 ＝ 均值回歸機會",
             "資金流出 ＝ 恐慌拋售 — 逆勢買入區",
@@ -4078,11 +4080,11 @@
           "label": "比特幣期貨",
           "action": "BUY",
           "confidence": 75,
-          "rationale": "增持 — 投降式拋售訊號 — RSI 27 超賣，低於 SMA200 -17.0%",
+          "rationale": "增持 — 投降式拋售訊號 — RSI 25 超賣，低於 SMA200 -18.9%",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 27（超賣）",
-            "資金流：OUTFLOW（評分 -59.4）",
+            "RSI 25（超賣）",
+            "資金流：OUTFLOW（評分 -46.7）",
             "均線空頭排列（價格低於所有均線）",
             "遠低於長期平均 ＝ 均值回歸機會",
             "資金流出 ＝ 恐慌拋售 — 逆勢買入區",
@@ -4098,22 +4100,22 @@
           "factors": [
             "趨勢：跌勢確立",
             "RSI 39（偏弱）",
-            "資金流：OUTFLOW（評分 -41.4）",
+            "資金流：OUTFLOW（評分 -33.2）",
             "均線空頭排列（價格低於所有均線）",
             "價格已洗倉 — 精明資金常喺呢度吸納",
             "輪動模式：將比重由落後者轉入呢隻"
           ]
         },
         {
-          "ticker": "GLD",
-          "label": "黃金",
+          "ticker": "EEM",
+          "label": "新興市場",
           "action": "BUY",
           "confidence": 60,
           "rationale": "增持 — 低於所有均線兼 RSI 偏弱 — 吸納區",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 33（偏弱）",
-            "資金流：OUTFLOW（評分 -61.7）",
+            "RSI 39（偏弱）",
+            "資金流：OUTFLOW（評分 -33.2）",
             "均線空頭排列（價格低於所有均線）",
             "價格已洗倉 — 精明資金常喺呢度吸納",
             "輪動模式：將比重由落後者轉入呢隻"
@@ -4127,37 +4129,11 @@
           "rationale": "增持 — 低於所有均線兼 RSI 偏弱 — 吸納區",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 38（偏弱）",
-            "資金流：OUTFLOW（評分 -61.7）",
+            "RSI 37（偏弱）",
+            "資金流：OUTFLOW（評分 -48.4）",
             "均線空頭排列（價格低於所有均線）",
             "價格已洗倉 — 精明資金常喺呢度吸納",
             "輪動模式：將比重由落後者轉入呢隻"
-          ]
-        },
-        {
-          "ticker": "USO",
-          "label": "石油",
-          "action": "BUY",
-          "confidence": 55,
-          "rationale": "增持 — 初跌兼 RSI 超賣 — 若支持守得住可逆勢入場",
-          "factors": [
-            "趨勢：早期跌勢",
-            "RSI 34（偏弱）",
-            "資金流：OUTFLOW（評分 -29.3）",
-            "輪動模式：將比重由落後者轉入呢隻"
-          ]
-        },
-        {
-          "ticker": "EEM",
-          "label": "新興市場",
-          "action": "HOLD",
-          "confidence": 45,
-          "rationale": "維持比重 — 跌勢未夠超賣 — 等投降式拋售",
-          "factors": [
-            "趨勢：跌勢確立",
-            "RSI 42（中性）",
-            "資金流：OUTFLOW（評分 -41.4）",
-            "均線空頭排列（價格低於所有均線）"
           ]
         },
         {
@@ -4168,9 +4144,21 @@
           "rationale": "維持比重 — 破位向下但未超賣 — 逆勢入場言之尚早",
           "factors": [
             "趨勢：早期跌勢",
-            "RSI 42（中性）",
-            "資金流：OUTFLOW（評分 -27.7）",
+            "RSI 40（中性）",
+            "資金流：OUTFLOW（評分 -22.1）",
             "均線空頭排列（價格低於所有均線）"
+          ]
+        },
+        {
+          "ticker": "USO",
+          "label": "石油",
+          "action": "HOLD",
+          "confidence": 40,
+          "rationale": "維持比重 — 破位向下但未超賣 — 逆勢入場言之尚早",
+          "factors": [
+            "趨勢：早期跌勢",
+            "RSI 37（偏弱）",
+            "資金流：OUTFLOW（評分 -14.1）"
           ]
         },
         {
@@ -4181,8 +4169,8 @@
           "rationale": "維持比重 — 無極端情況 — 逆勢操作無優勢",
           "factors": [
             "趨勢：中性",
-            "RSI 59（中性）",
-            "資金流：NEUTRAL（評分 1.6）"
+            "RSI 57（中性）",
+            "資金流：NEUTRAL（評分 0.9）"
           ]
         },
         {
@@ -4194,7 +4182,7 @@
           "factors": [
             "趨勢：中性",
             "RSI 60（中性）",
-            "資金流：NEUTRAL（評分 1.6）"
+            "資金流：NEUTRAL（評分 0.9）"
           ]
         },
         {
@@ -4206,7 +4194,7 @@
           "factors": [
             "趨勢：中性",
             "RSI 58（中性）",
-            "資金流：NEUTRAL（評分 1.6）"
+            "資金流：NEUTRAL（評分 0.9）"
           ]
         },
         {
@@ -4217,8 +4205,8 @@
           "rationale": "維持比重 — 無極端情況 — 逆勢操作無優勢",
           "factors": [
             "趨勢：中性",
-            "RSI 61（偏高）",
-            "資金流：NEUTRAL（評分 0.0）",
+            "RSI 62（偏高）",
+            "資金流：NEUTRAL（評分 0.1）",
             "均線多頭排列（20>50>200）"
           ]
         }
@@ -4227,61 +4215,55 @@
     "rotate_rotation": {
       "sector": [
         {
-          "ticker": "XLI",
-          "label": "Industrials",
-          "action": "BUY",
-          "confidence": 65,
-          "rationale": "增持 — 相對排名快速改善（+6）— 正輪動成領頭板塊",
-          "factors": [
-            "趨勢：跌勢確立",
-            "RSI 44（中性）",
-            "輪動：INFLOW（排名變動：+6）",
-            "均線空頭排列（價格低於所有均線）",
-            "排名變動：+6（向榜首進發）",
-            "輪動模式：將比重由落後者轉入呢隻"
-          ]
-        },
-        {
           "ticker": "XLC",
           "label": "Communication Services",
           "action": "BUY",
           "confidence": 65,
-          "rationale": "增持 — 相對排名快速改善（+8）— 正輪動成領頭板塊",
+          "rationale": "增持 — 相對排名快速改善（+5）— 正輪動成領頭板塊",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 44（中性）",
-            "輪動：NEUTRAL（排名變動：+8）",
-            "均線空頭排列（價格低於所有均線）",
-            "排名變動：+8（向榜首進發）",
+            "RSI 47（中性）",
+            "輪動：NEUTRAL（排名變動：+5）",
+            "排名變動：+5（向榜首進發）",
             "輪動模式：將比重由落後者轉入呢隻"
           ]
         },
         {
-          "ticker": "XLK",
-          "label": "Technology",
-          "action": "BUY",
-          "confidence": 65,
-          "rationale": "增持 — 相對排名快速改善（+7）— 正輪動成領頭板塊",
+          "ticker": "XLP",
+          "label": "Consumer Defensive",
+          "action": "HOLD",
+          "confidence": 55,
+          "rationale": "維持比重 — 相對排名穩定，處於升勢 — 維持比重",
           "factors": [
-            "趨勢：跌勢確立",
-            "RSI 41（中性）",
-            "輪動：INFLOW（排名變動：+7）",
-            "均線空頭排列（價格低於所有均線）",
-            "排名變動：+7（向榜首進發）",
-            "輪動模式：將比重由落後者轉入呢隻"
+            "趨勢：升勢確立",
+            "RSI 60（中性）",
+            "輪動：INFLOW（排名變動：0）",
+            "均線多頭排列（20>50>200）"
+          ]
+        },
+        {
+          "ticker": "XLV",
+          "label": "Healthcare",
+          "action": "HOLD",
+          "confidence": 55,
+          "rationale": "維持比重 — 相對排名穩定，處於升勢 — 維持比重",
+          "factors": [
+            "趨勢：升勢確立",
+            "RSI 55（中性）",
+            "輪動：NEUTRAL（排名變動：-2）",
+            "均線多頭排列（20>50>200）"
           ]
         },
         {
           "ticker": "XLY",
           "label": "Consumer Cyclical",
-          "action": "BUY",
+          "action": "HOLD",
           "confidence": 55,
-          "rationale": "增持 — 相對排名改善（排名變動：+3），仲有上升空間",
+          "rationale": "維持比重 — 相對排名穩定，處於升勢 — 維持比重",
           "factors": [
-            "趨勢：早期升勢",
-            "RSI 50（中性）",
-            "輪動：INFLOW（排名變動：+3）",
-            "輪動模式：將比重由落後者轉入呢隻"
+            "趨勢：升勢確立",
+            "RSI 52（中性）",
+            "輪動：NEUTRAL（排名變動：0）"
           ]
         },
         {
@@ -4289,11 +4271,11 @@
           "label": "Financial",
           "action": "HOLD",
           "confidence": 45,
-          "rationale": "維持比重 — 排名輕微轉差（變動：-4）— 留意會否加速",
+          "rationale": "維持比重 — 排名輕微轉差（變動：-3）— 留意會否加速",
           "factors": [
-            "趨勢：升勢回調",
-            "RSI 44（中性）",
-            "輪動：OUTFLOW（排名變動：-4）"
+            "趨勢：中性",
+            "RSI 47（中性）",
+            "輪動：OUTFLOW（排名變動：-3）"
           ]
         },
         {
@@ -4304,8 +4286,8 @@
           "rationale": "維持比重 — 排名無明顯變化 — 無輪動訊號",
           "factors": [
             "趨勢：早期升勢",
-            "RSI 53（中性）",
-            "輪動：OUTFLOW（排名變動：-2）"
+            "RSI 54（中性）",
+            "輪動：NEUTRAL（排名變動：+2）"
           ]
         },
         {
@@ -4315,9 +4297,9 @@
           "confidence": 40,
           "rationale": "維持比重 — 排名無明顯變化 — 無輪動訊號",
           "factors": [
-            "趨勢：中性",
-            "RSI 46（中性）",
-            "輪動：NEUTRAL（排名變動：0）"
+            "趨勢：早期升勢",
+            "RSI 51（中性）",
+            "輪動：INFLOW（排名變動：+2）"
           ]
         },
         {
@@ -4328,8 +4310,8 @@
           "rationale": "維持比重 — 排名無明顯變化 — 無輪動訊號",
           "factors": [
             "趨勢：中性",
-            "RSI 42（中性）",
-            "輪動：NEUTRAL（排名變動：0）",
+            "RSI 44（中性）",
+            "輪動：NEUTRAL（排名變動：+1）",
             "均線空頭排列（價格低於所有均線）"
           ]
         },
@@ -4341,38 +4323,37 @@
           "rationale": "減持 — 資金快速輪動出（排名變動：-5），趨勢破壞 — 離場",
           "factors": [
             "趨勢：早期跌勢",
-            "RSI 33（偏弱）",
+            "RSI 36（偏弱）",
             "輪動：OUTFLOW（排名變動：-5）",
             "排名變動：-5（由領頭位置跌落）",
             "輪動模式：將比重由呢隻轉去領先者"
           ]
         },
         {
-          "ticker": "XLP",
-          "label": "Consumer Defensive",
+          "ticker": "XLI",
+          "label": "Industrials",
           "action": "SELL",
-          "confidence": 60,
-          "rationale": "減持 — 由領頭位置跌落（排名變動：-5）— 資金輪動去其他板塊",
+          "confidence": 50,
+          "rationale": "減持 — 排名穩定但包尾 — 無催化劑輪動入",
           "factors": [
-            "趨勢：升勢確立",
-            "RSI 54（中性）",
-            "輪動：OUTFLOW（排名變動：-5）",
-            "均線多頭排列（20>50>200）",
-            "排名變動：-5（由領頭位置跌落）",
+            "趨勢：跌勢確立",
+            "RSI 43（中性）",
+            "輪動：OUTFLOW（排名變動：0）",
+            "均線空頭排列（價格低於所有均線）",
             "輪動模式：將比重由呢隻轉去領先者"
           ]
         },
         {
-          "ticker": "XLV",
-          "label": "Healthcare",
+          "ticker": "XLK",
+          "label": "Technology",
           "action": "SELL",
-          "confidence": 60,
-          "rationale": "減持 — 由領頭位置跌落（排名變動：-8）— 資金輪動去其他板塊",
+          "confidence": 50,
+          "rationale": "減持 — 排名穩定但包尾 — 無催化劑輪動入",
           "factors": [
-            "趨勢：升勢回調",
-            "RSI 46（中性）",
-            "輪動：OUTFLOW（排名變動：-8）",
-            "排名變動：-8（由領頭位置跌落）",
+            "趨勢：跌勢確立",
+            "RSI 38（偏弱）",
+            "輪動：OUTFLOW（排名變動：0）",
+            "均線空頭排列（價格低於所有均線）",
             "輪動模式：將比重由呢隻轉去領先者"
           ]
         }
@@ -4386,8 +4367,8 @@
           "rationale": "維持比重 — 排名無明顯變化 — 無輪動訊號",
           "factors": [
             "趨勢：中性",
-            "RSI 59（中性）",
-            "資金流：NEUTRAL（評分 1.6）"
+            "RSI 57（中性）",
+            "資金流：NEUTRAL（評分 0.9）"
           ]
         },
         {
@@ -4399,7 +4380,7 @@
           "factors": [
             "趨勢：中性",
             "RSI 60（中性）",
-            "資金流：NEUTRAL（評分 1.6）"
+            "資金流：NEUTRAL（評分 0.9）"
           ]
         },
         {
@@ -4411,7 +4392,7 @@
           "factors": [
             "趨勢：中性",
             "RSI 58（中性）",
-            "資金流：NEUTRAL（評分 1.6）"
+            "資金流：NEUTRAL（評分 0.9）"
           ]
         },
         {
@@ -4422,8 +4403,8 @@
           "rationale": "維持比重 — 排名無明顯變化 — 無輪動訊號",
           "factors": [
             "趨勢：中性",
-            "RSI 61（偏高）",
-            "資金流：NEUTRAL（評分 0.0）",
+            "RSI 62（偏高）",
+            "資金流：NEUTRAL（評分 0.1）",
             "均線多頭排列（20>50>200）"
           ]
         },
@@ -4436,7 +4417,7 @@
           "factors": [
             "趨勢：跌勢確立",
             "RSI 39（偏弱）",
-            "資金流：OUTFLOW（評分 -41.4）",
+            "資金流：OUTFLOW（評分 -33.2）",
             "均線空頭排列（價格低於所有均線）",
             "排名變動：0（由領頭位置跌落）",
             "輪動模式：將比重由呢隻轉去領先者"
@@ -4450,23 +4431,8 @@
           "rationale": "減持 — 資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
           "factors": [
             "趨勢：早期跌勢",
-            "RSI 42（中性）",
-            "資金流：OUTFLOW（評分 -27.7）",
-            "均線空頭排列（價格低於所有均線）",
-            "排名變動：0（由領頭位置跌落）",
-            "輪動模式：將比重由呢隻轉去領先者"
-          ]
-        },
-        {
-          "ticker": "EEM",
-          "label": "新興市場",
-          "action": "SELL",
-          "confidence": 75,
-          "rationale": "減持 — 資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
-          "factors": [
-            "趨勢：跌勢確立",
-            "RSI 42（中性）",
-            "資金流：OUTFLOW（評分 -41.4）",
+            "RSI 40（中性）",
+            "資金流：OUTFLOW（評分 -22.1）",
             "均線空頭排列（價格低於所有均線）",
             "排名變動：0（由領頭位置跌落）",
             "輪動模式：將比重由呢隻轉去領先者"
@@ -4480,23 +4446,8 @@
           "rationale": "減持 — 資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 21（超賣）",
-            "資金流：OUTFLOW（評分 -29.3）",
-            "均線空頭排列（價格低於所有均線）",
-            "排名變動：0（由領頭位置跌落）",
-            "輪動模式：將比重由呢隻轉去領先者"
-          ]
-        },
-        {
-          "ticker": "GLD",
-          "label": "黃金",
-          "action": "SELL",
-          "confidence": 75,
-          "rationale": "減持 — 資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
-          "factors": [
-            "趨勢：跌勢確立",
-            "RSI 33（偏弱）",
-            "資金流：OUTFLOW（評分 -61.7）",
+            "RSI 20（超賣）",
+            "資金流：OUTFLOW（評分 -14.1）",
             "均線空頭排列（價格低於所有均線）",
             "排名變動：0（由領頭位置跌落）",
             "輪動模式：將比重由呢隻轉去領先者"
@@ -4510,8 +4461,38 @@
           "rationale": "減持 — 資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
           "factors": [
             "趨勢：早期跌勢",
-            "RSI 34（偏弱）",
-            "資金流：OUTFLOW（評分 -29.3）",
+            "RSI 37（偏弱）",
+            "資金流：OUTFLOW（評分 -14.1）",
+            "排名變動：0（由領頭位置跌落）",
+            "輪動模式：將比重由呢隻轉去領先者"
+          ]
+        },
+        {
+          "ticker": "EEM",
+          "label": "新興市場",
+          "action": "SELL",
+          "confidence": 75,
+          "rationale": "減持 — 資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
+          "factors": [
+            "趨勢：跌勢確立",
+            "RSI 39（偏弱）",
+            "資金流：OUTFLOW（評分 -33.2）",
+            "均線空頭排列（價格低於所有均線）",
+            "排名變動：0（由領頭位置跌落）",
+            "輪動模式：將比重由呢隻轉去領先者"
+          ]
+        },
+        {
+          "ticker": "GLD",
+          "label": "黃金",
+          "action": "SELL",
+          "confidence": 75,
+          "rationale": "減持 — 資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
+          "factors": [
+            "趨勢：跌勢確立",
+            "RSI 30（超賣）",
+            "資金流：OUTFLOW（評分 -48.4）",
+            "均線空頭排列（價格低於所有均線）",
             "排名變動：0（由領頭位置跌落）",
             "輪動模式：將比重由呢隻轉去領先者"
           ]
@@ -4524,8 +4505,8 @@
           "rationale": "減持 — 資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 38（偏弱）",
-            "資金流：OUTFLOW（評分 -61.7）",
+            "RSI 37（偏弱）",
+            "資金流：OUTFLOW（評分 -48.4）",
             "均線空頭排列（價格低於所有均線）",
             "排名變動：0（由領頭位置跌落）",
             "輪動模式：將比重由呢隻轉去領先者"
@@ -4539,8 +4520,8 @@
           "rationale": "減持 — 資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 27（超賣）",
-            "資金流：OUTFLOW（評分 -59.4）",
+            "RSI 25（超賣）",
+            "資金流：OUTFLOW（評分 -46.7）",
             "均線空頭排列（價格低於所有均線）",
             "排名變動：0（由領頭位置跌落）",
             "輪動模式：將比重由呢隻轉去領先者"
@@ -4554,8 +4535,8 @@
           "rationale": "減持 — 資金快速輪動出（排名變動：0），趨勢破壞 — 離場",
           "factors": [
             "趨勢：跌勢確立",
-            "RSI 27（超賣）",
-            "資金流：OUTFLOW（評分 -59.4）",
+            "RSI 25（超賣）",
+            "資金流：OUTFLOW（評分 -46.7）",
             "均線空頭排列（價格低於所有均線）",
             "排名變動：0（由領頭位置跌落）",
             "輪動模式：將比重由呢隻轉去領先者"
